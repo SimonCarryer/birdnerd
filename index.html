@@ -1,0 +1,38 @@
+<head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+</head>
+<title>Birds!</title>
+
+<body>
+    <div class="controls">
+        <label for="category">Choose a category:</label>
+        <select name="categories" id="categories">
+            <option value="Forest (native or plantation)">Forest (native or plantation)</option>
+            <option value="At sea (or dead on a beach)">At sea (or dead on a beach)</option>
+            <option value="Coastal">Coastal</option>
+            <option value="Harbour, estuary or rivermouth">Harbour, estuary or rivermouth</option>
+            <option value="Lake, river or wetland">Lake, river or wetland</option>
+            <option value="Urban park or garden">Urban park or garden</option>
+            <option value="Farmland or horticultural block">Farmland or horticultural block</option>
+            <option value="Mountain">Mountain</option>
+            <option value="Chatham Islands (not at sea)">Chatham Islands (not at sea)</option>
+        </select>
+        <label for="level">Choose a level:</label>
+        <select name="levels" id="levels">
+            <option value="Egg">Egg</option>
+            <option value="Fledgeling">Fledgeling</option>
+            <option value="Flapper">Flapper</option>
+            <option value="Bird brain">Bird brain</option>
+            <option value="True bird nerd">True bird nerd</option>
+        </select>
+    </div>
+    <div id="outcome container">
+        <p class="score"></p>
+    </div>
+    <div id="main image"></div>
+    <div id="answers"></div>
+    <button onclick="checkAnswer()">Submit</button>
+</body>
+<script src="scripts/data.js"></script>
+<script src="scripts/main.js"></script>

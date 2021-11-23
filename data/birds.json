@@ -1,0 +1,2412 @@
+[
+    {
+        "link": "/species/upland-moa",
+        "name": "Upland moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/little-bush-moa",
+        "name": "Little bush moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/heavy-footed-moa",
+        "name": "Heavy-footed moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/mantells-moa",
+        "name": "Mantell's moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/crested-moa",
+        "name": "Crested moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/eastern-moa",
+        "name": "Eastern moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/stout-legged-moa",
+        "name": "Stout-legged moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/north-island-giant-moa",
+        "name": "North Island giant moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/south-island-giant-moa",
+        "name": "South Island giant moa",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/north-island-brown-kiwi",
+        "name": "North Island brown kiwi",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/okarito-brown-kiwi",
+        "name": "Okarito brown kiwi",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/southern-brown-kiwi",
+        "name": "Southern brown kiwi",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/little-spotted-kiwi",
+        "name": "Little spotted kiwi",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/great-spotted-kiwi",
+        "name": "Great spotted kiwi",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/california-quail",
+        "name": "California quail",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/helmeted-guineafowl",
+        "name": "Helmeted guineafowl",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/chukor",
+        "name": "Chukor",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/red-legged-partridge",
+        "name": "Red-legged partridge",
+        "status": "Introduced, not established"
+    },
+    {
+        "link": "/species/new-zealand-quail",
+        "name": "New Zealand quail",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/brown-quail",
+        "name": "Brown quail",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/common-pheasant",
+        "name": "Common pheasant",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/peafowl",
+        "name": "Peafowl",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/wild-turkey",
+        "name": "Wild turkey",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/plumed-whistling-duck",
+        "name": "Plumed whistling duck",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/mute-swan",
+        "name": "Mute swan",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/black-swan",
+        "name": "Black swan",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/cape-barren-goose",
+        "name": "Cape Barren goose",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/north-island-goose",
+        "name": "North Island goose",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/south-island-goose",
+        "name": "South Island goose",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/greylag-goose",
+        "name": "Greylag goose",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/canada-goose",
+        "name": "Canada goose",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/pink-eared-duck",
+        "name": "Pink-eared duck",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/scarletts-duck",
+        "name": "Scarlett's duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/new-zealand-blue-billed-duck",
+        "name": "New Zealand blue-billed duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/new-zealand-musk-duck",
+        "name": "New Zealand musk duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/paradise-shelduck",
+        "name": "Paradise shelduck",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/chestnut-breasted-shelduck",
+        "name": "Chestnut-breasted shelduck",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/auckland-island-merganser",
+        "name": "Auckland Island merganser",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/chatham-island-merganser",
+        "name": "Chatham Island merganser",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/australian-wood-duck",
+        "name": "Australian wood duck",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/finschs-duck",
+        "name": "Finsch's duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/muscovy-duck",
+        "name": "Muscovy duck",
+        "status": "Introduced, not established"
+    },
+    {
+        "link": "/species/blue-duck",
+        "name": "Blue duck",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/chatham-island-duck",
+        "name": "Chatham Island duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/grey-teal",
+        "name": "Grey teal",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/chestnut-teal",
+        "name": "Chestnut teal",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/brown-teal",
+        "name": "Brown teal",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/auckland-island-teal",
+        "name": "Auckland Island teal",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/campbell-island-teal",
+        "name": "Campbell Island teal",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/northern-pintail",
+        "name": "Northern pintail",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/mallard",
+        "name": "Mallard",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/grey-duck",
+        "name": "Grey duck",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/australasian-shoveler",
+        "name": "Australasian shoveler",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/northern-shoveler",
+        "name": "Northern shoveler",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/australian-white-eyed-duck",
+        "name": "Australian white-eyed duck",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/new-zealand-scaup",
+        "name": "New Zealand scaup",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/australasian-crested-grebe",
+        "name": "Australasian crested grebe",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/new-zealand-dabchick",
+        "name": "New Zealand dabchick",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/hoary-headed-grebe",
+        "name": "Hoary-headed grebe",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/australasian-little-grebe",
+        "name": "Australasian little grebe",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/emperor-penguin",
+        "name": "Emperor penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/king-penguin",
+        "name": "King penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/adelie-penguin",
+        "name": "Adelie penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/gentoo-penguin",
+        "name": "Gentoo penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/chinstrap-penguin",
+        "name": "Chinstrap penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/western-rockhopper-penguin",
+        "name": "Western rockhopper penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/eastern-rockhopper-penguin",
+        "name": "Eastern rockhopper penguin",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/moseleys-rockhopper-penguin",
+        "name": "Moseley's rockhopper penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/fiordland-crested-penguin",
+        "name": "Fiordland crested penguin",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/snares-crested-penguin",
+        "name": "Snares crested penguin",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/erect-crested-penguin",
+        "name": "Erect-crested penguin",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/chatham-island-crested-penguin",
+        "name": "Chatham Island crested penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/macaroni-penguin",
+        "name": "Macaroni penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/royal-penguin",
+        "name": "Royal penguin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/yellow-eyed-penguin",
+        "name": "Yellow-eyed penguin",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/waitaha-penguin",
+        "name": "Waitaha penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/little-penguin",
+        "name": "Little penguin",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/wandering-albatross",
+        "name": "Wandering albatross",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/antipodean-albatross",
+        "name": "Antipodean albatross",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/southern-royal-albatross",
+        "name": "Southern royal albatross",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/northern-royal-albatross",
+        "name": "Northern royal albatross",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/black-footed-albatross",
+        "name": "Black-footed albatross",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/laysan-albatross",
+        "name": "Laysan albatross",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/atlantic-yellow-nosed-mollymawk",
+        "name": "Atlantic yellow-nosed mollymawk",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/indian-ocean-yellow-nosed-mollymawk",
+        "name": "Indian Ocean yellow-nosed mollymawk",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/grey-headed-mollymawk",
+        "name": "Grey-headed mollymawk",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/black-browed-mollymawk",
+        "name": "Black-browed mollymawk",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/campbell-black-browed-mollymawk",
+        "name": "Campbell black-browed mollymawk",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/bullers-mollymawk",
+        "name": "Buller's mollymawk",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/white-capped-mollymawk",
+        "name": "White-capped mollymawk",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/chatham-island-mollymawk",
+        "name": "Chatham Island mollymawk",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/salvins-mollymawk",
+        "name": "Salvin's mollymawk",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/sooty-albatross",
+        "name": "Sooty albatross",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/light-mantled-sooty-albatross",
+        "name": "Light-mantled sooty albatross",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/southern-giant-petrel",
+        "name": "Southern giant petrel",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/northern-giant-petrel",
+        "name": "Northern giant petrel",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/northern-fulmar",
+        "name": "Northern fulmar",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/antarctic-fulmar",
+        "name": "Antarctic fulmar",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/antarctic-petrel",
+        "name": "Antarctic petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/cape-petrel",
+        "name": "Cape petrel",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/snow-petrel",
+        "name": "Snow petrel",
+        "status": "Not evaluated"
+    },
+    {
+        "link": "/species/kerguelen-petrel",
+        "name": "Kerguelen petrel",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/grey-faced-petrel",
+        "name": "Grey-faced petrel",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/white-headed-petrel",
+        "name": "White-headed petrel",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/providence-petrel",
+        "name": "Providence petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/chatham-island-taiko",
+        "name": "Chatham Island taiko",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/kermadec-petrel",
+        "name": "Kermadec petrel",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/herald-petrel",
+        "name": "Herald petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/phoenix-petrel",
+        "name": "Phoenix petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/soft-plumaged-petrel",
+        "name": "Soft-plumaged petrel",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/imbers-petrel",
+        "name": "Imber's petrel",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/mottled-petrel",
+        "name": "Mottled petrel",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/juan-fernandez-petrel",
+        "name": "Juan Fernandez petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/white-naped-petrel",
+        "name": "White-naped petrel",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/black-winged-petrel",
+        "name": "Black-winged petrel",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/chatham-petrel",
+        "name": "Chatham petrel",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/cooks-petrel",
+        "name": "Cook's petrel",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/stejnegers-petrel",
+        "name": "Stejneger's petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/pycrofts-petrel",
+        "name": "Pycroft's petrel",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/goulds-petrel",
+        "name": "Gould's petrel",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/collared-petrel",
+        "name": "Collared petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/blue-petrel",
+        "name": "Blue petrel",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/broad-billed-prion",
+        "name": "Broad-billed prion",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/salvins-prion",
+        "name": "Salvin's prion",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/antarctic-prion",
+        "name": "Antarctic prion",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/thin-billed-prion",
+        "name": "Thin-billed prion",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/fairy-prion",
+        "name": "Fairy prion",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/fulmar-prion",
+        "name": "Fulmar prion",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/bulwers-petrel",
+        "name": "Bulwer's petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/white-chinned-petrel",
+        "name": "White-chinned petrel",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/westland-petrel",
+        "name": "Westland petrel",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/black-petrel",
+        "name": "Black petrel",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/grey-petrel",
+        "name": "Grey petrel",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/tahiti-petrel",
+        "name": "Tahiti petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/corys-shearwater",
+        "name": "Cory's shearwater",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/streaked-shearwater",
+        "name": "Streaked shearwater",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/wedge-tailed-shearwater",
+        "name": "Wedge-tailed shearwater",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/bullers-shearwater",
+        "name": "Buller's shearwater",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/flesh-footed-shearwater",
+        "name": "Flesh-footed shearwater",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/pink-footed-shearwater",
+        "name": "Pink-footed shearwater",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/great-shearwater",
+        "name": "Great shearwater",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/sooty-shearwater",
+        "name": "Sooty shearwater",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/short-tailed-shearwater",
+        "name": "Short-tailed shearwater",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/christmas-island-shearwater",
+        "name": "Christmas Island shearwater",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/newells-shearwater",
+        "name": "Newell's shearwater",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/manx-shearwater",
+        "name": "Manx shearwater",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/fluttering-shearwater",
+        "name": "Fluttering shearwater",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/scarletts-shearwater",
+        "name": "Scarlett's shearwater",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/huttons-shearwater",
+        "name": "Hutton's shearwater",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/little-shearwater",
+        "name": "Little shearwater",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/subantarctic-little-shearwater",
+        "name": "Subantarctic little shearwater",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/wilsons-storm-petrel",
+        "name": "Wilson's storm petrel",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/grey-backed-storm-petrel",
+        "name": "Grey-backed storm petrel",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/white-faced-storm-petrel",
+        "name": "White-faced storm petrel",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/kermadec-storm-petrel",
+        "name": "Kermadec storm petrel",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/new-zealand-storm-petrel",
+        "name": "New Zealand storm petrel",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/black-bellied-storm-petrel",
+        "name": "Black-bellied storm petrel",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/white-bellied-storm-petrel",
+        "name": "White-bellied storm petrel",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/leachs-storm-petrel",
+        "name": "Leach's storm petrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/common-diving-petrel",
+        "name": "Common diving petrel",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/south-georgian-diving-petrel",
+        "name": "South Georgian diving petrel",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/red-tailed-tropicbird",
+        "name": "Red-tailed tropicbird",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/white-tailed-tropicbird",
+        "name": "White-tailed tropicbird",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/australian-pelican",
+        "name": "Australian pelican",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/cape-gannet",
+        "name": "Cape gannet",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/australasian-gannet",
+        "name": "Australasian gannet",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/red-footed-booby",
+        "name": "Red-footed booby",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/brown-booby",
+        "name": "Brown booby",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/masked-booby",
+        "name": "Masked booby",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/little-shag",
+        "name": "Little shag",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/black-shag",
+        "name": "Black shag",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/pied-shag",
+        "name": "Pied shag",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/little-black-shag",
+        "name": "Little black shag",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/new-zealand-king-shag",
+        "name": "New Zealand king shag",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/stewart-island-shag",
+        "name": "Stewart Island shag",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/chatham-island-shag",
+        "name": "Chatham Island shag",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/kohatu-shag",
+        "name": "Kohatu shag",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/bounty-island-shag",
+        "name": "Bounty Island shag",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/auckland-island-shag",
+        "name": "Auckland Island shag",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/campbell-island-shag",
+        "name": "Campbell Island shag",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/macquarie-island-shag",
+        "name": "Macquarie Island shag",
+        "status": "Not evaluated"
+    },
+    {
+        "link": "/species/spotted-shag",
+        "name": "Spotted shag",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/pitt-island-shag",
+        "name": "Pitt Island shag",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/darter",
+        "name": "Darter",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/great-frigatebird",
+        "name": "Great frigatebird",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/lesser-frigatebird",
+        "name": "Lesser frigatebird",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/grey-heron",
+        "name": "Grey heron",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/pacific-heron",
+        "name": "Pacific heron",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/white-heron",
+        "name": "White heron",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/cattle-egret",
+        "name": "Cattle egret",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/plumed-egret",
+        "name": "Plumed egret",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/white-faced-heron",
+        "name": "White-faced heron",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/little-egret",
+        "name": "Little egret",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/reef-heron",
+        "name": "Reef heron",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/nankeen-night-heron",
+        "name": "Nankeen night heron",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/australasian-bittern",
+        "name": "Australasian bittern",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/little-bittern",
+        "name": "Little bittern",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/new-zealand-little-bittern",
+        "name": "New Zealand little bittern",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/glossy-ibis",
+        "name": "Glossy ibis",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/white-ibis",
+        "name": "White ibis",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/straw-necked-ibis",
+        "name": "Straw-necked ibis",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/royal-spoonbill",
+        "name": "Royal spoonbill",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/yellow-billed-spoonbill",
+        "name": "Yellow-billed spoonbill",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/black-kite",
+        "name": "Black kite",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/swamp-harrier",
+        "name": "Swamp harrier",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/eyles-harrier",
+        "name": "Eyles' harrier",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/white-bellied-sea-eagle",
+        "name": "White-bellied sea eagle",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/haasts-eagle",
+        "name": "Haast's eagle",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/nankeen-kestrel",
+        "name": "Nankeen kestrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/new-zealand-falcon",
+        "name": "New Zealand falcon",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/unidentified-crane",
+        "name": "Unidentified crane",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/north-island-adzebill",
+        "name": "North Island adzebill",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/south-island-adzebill",
+        "name": "South Island adzebill",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/corncrake",
+        "name": "Corncrake",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/auckland-island-rail",
+        "name": "Auckland Island rail",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/banded-rail",
+        "name": "Banded rail",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/dieffenbachs-rail",
+        "name": "Dieffenbach's rail",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/weka",
+        "name": "Weka",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/chatham-island-rail",
+        "name": "Chatham Island rail",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/snipe-rail",
+        "name": "Snipe-rail",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/hawkins-rail",
+        "name": "Hawkins' rail",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/spotless-crake",
+        "name": "Spotless crake",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/marsh-crake",
+        "name": "Marsh crake",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/australian-crake",
+        "name": "Australian crake",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/black-tailed-native-hen",
+        "name": "Black-tailed native-hen",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/common-moorhen",
+        "name": "Common moorhen",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/dusky-moorhen",
+        "name": "Dusky moorhen",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/hodgens-waterhen",
+        "name": "Hodgens' waterhen",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/pukeko",
+        "name": "Pukeko",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/north-island-takahe",
+        "name": "North Island takahe",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/south-island-takahe",
+        "name": "South Island takahe",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/australian-coot",
+        "name": "Australian coot",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/new-zealand-coot",
+        "name": "New Zealand coot",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/chatham-island-coot",
+        "name": "Chatham Island coot",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/north-island-snipe",
+        "name": "North Island snipe",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/south-island-snipe",
+        "name": "South Island snipe",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/forbes-snipe",
+        "name": "Forbes' snipe",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/chatham-island-snipe",
+        "name": "Chatham Island snipe",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/snares-island-snipe",
+        "name": "Snares Island snipe",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/subantarctic-snipe",
+        "name": "Subantarctic snipe",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/japanese-snipe",
+        "name": "Japanese snipe",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/lesser-knot",
+        "name": "Lesser knot",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/great-knot",
+        "name": "Great knot",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/sanderling",
+        "name": "Sanderling",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/dunlin",
+        "name": "Dunlin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/curlew-sandpiper",
+        "name": "Curlew sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/stilt-sandpiper",
+        "name": "Stilt sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/sharp-tailed-sandpiper",
+        "name": "Sharp-tailed sandpiper",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/pectoral-sandpiper",
+        "name": "Pectoral sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/bairds-sandpiper",
+        "name": "Baird's sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/white-rumped-sandpiper",
+        "name": "White-rumped sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/little-stint",
+        "name": "Little stint",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/red-necked-stint",
+        "name": "Red-necked stint",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/long-toed-stint",
+        "name": "Long-toed stint",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/least-sandpiper",
+        "name": "Least sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/semipalmated-sandpiper",
+        "name": "Semipalmated sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/western-sandpiper",
+        "name": "Western sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/broad-billed-sandpiper",
+        "name": "Broad-billed sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/buff-breasted-sandpiper",
+        "name": "Buff-breasted sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/ruff",
+        "name": "Ruff",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/asiatic-dowitcher",
+        "name": "Asiatic dowitcher",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/eastern-curlew",
+        "name": "Eastern curlew",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/whimbrel",
+        "name": "Whimbrel",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/little-whimbrel",
+        "name": "Little whimbrel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/bristle-thighed-curlew",
+        "name": "Bristle-thighed curlew",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/bar-tailed-godwit",
+        "name": "Bar-tailed godwit",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/black-tailed-godwit",
+        "name": "Black-tailed godwit",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/hudsonian-godwit",
+        "name": "Hudsonian godwit",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/upland-sandpiper",
+        "name": "Upland sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/wandering-tattler",
+        "name": "Wandering tattler",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/grey-tailed-tattler",
+        "name": "Grey-tailed tattler",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/common-sandpiper",
+        "name": "Common sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/common-greenshank",
+        "name": "Common greenshank",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/marsh-sandpiper",
+        "name": "Marsh sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/lesser-yellowlegs",
+        "name": "Lesser yellowlegs",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/terek-sandpiper",
+        "name": "Terek sandpiper",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/ruddy-turnstone",
+        "name": "Ruddy turnstone",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/grey-phalarope",
+        "name": "Grey phalarope",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/red-necked-phalarope",
+        "name": "Red-necked phalarope",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/wilsons-phalarope",
+        "name": "Wilson's phalarope",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/painted-snipe",
+        "name": "Painted snipe",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/variable-oystercatcher",
+        "name": "Variable oystercatcher",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/south-island-pied-oystercatcher",
+        "name": "South Island pied oystercatcher",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/chatham-island-oystercatcher",
+        "name": "Chatham Island oystercatcher",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/pied-stilt",
+        "name": "Pied stilt",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/black-stilt",
+        "name": "Black stilt",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/red-necked-avocet",
+        "name": "Red-necked avocet",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/pacific-golden-plover",
+        "name": "Pacific golden plover",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/american-golden-plover",
+        "name": "American golden plover",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/grey-plover",
+        "name": "Grey plover",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/new-zealand-dotterel",
+        "name": "New Zealand dotterel",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/semipalmated-plover",
+        "name": "Semipalmated plover",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/red-capped-plover",
+        "name": "Red-capped plover",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/banded-dotterel",
+        "name": "Banded dotterel",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/lesser-sand-plover",
+        "name": "Lesser sand plover",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/greater-sand-plover",
+        "name": "Greater sand plover",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/oriental-dotterel",
+        "name": "Oriental dotterel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/wrybill",
+        "name": "Wrybill",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/black-fronted-dotterel",
+        "name": "Black-fronted dotterel",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/shore-plover",
+        "name": "Shore plover",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/red-kneed-dotterel",
+        "name": "Red-kneed dotterel",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/spur-winged-plover",
+        "name": "Spur-winged plover",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/oriental-pratincole",
+        "name": "Oriental pratincole",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/subantarctic-skua",
+        "name": "Subantarctic skua",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/south-polar-skua",
+        "name": "South Polar skua",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/pomarine-skua",
+        "name": "Pomarine skua",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/arctic-skua",
+        "name": "Arctic skua",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/long-tailed-skua",
+        "name": "Long-tailed skua",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/southern-black-backed-gull",
+        "name": "Southern black-backed gull",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/laughing-gull",
+        "name": "Laughing gull",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/franklins-gull",
+        "name": "Franklin's gull",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/red-billed-gull",
+        "name": "Red-billed gull",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/black-billed-gull",
+        "name": "Black-billed gull",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/brown-noddy",
+        "name": "Brown noddy",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/black-noddy",
+        "name": "Black noddy",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/grey-noddy",
+        "name": "Grey noddy",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/white-tern",
+        "name": "White tern",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/sooty-tern",
+        "name": "Sooty tern",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/grey-backed-tern",
+        "name": "Grey-backed tern",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/bridled-tern",
+        "name": "Bridled tern",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/little-tern",
+        "name": "Little tern",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/fairy-tern",
+        "name": "Fairy tern",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/gull-billed-tern",
+        "name": "Gull-billed tern",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/caspian-tern",
+        "name": "Caspian tern",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/white-winged-black-tern",
+        "name": "White-winged black tern",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/whiskered-tern",
+        "name": "Whiskered tern",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/black-fronted-tern",
+        "name": "Black-fronted tern",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/white-fronted-tern",
+        "name": "White-fronted tern",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/antarctic-tern",
+        "name": "Antarctic tern",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/arctic-tern",
+        "name": "Arctic tern",
+        "status": "Migrant"
+    },
+    {
+        "link": "/species/common-tern",
+        "name": "Common tern",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/crested-tern",
+        "name": "Crested tern",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/rock-pigeon",
+        "name": "Rock pigeon",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/barbary-dove",
+        "name": "Barbary dove",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/spotted-dove",
+        "name": "Spotted dove",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/rose-crowned-fruit-dove",
+        "name": "Rose-crowned fruit-dove",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/new-zealand-pigeon",
+        "name": "New Zealand pigeon",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/chatham-island-pigeon",
+        "name": "Chatham Island pigeon",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/kakapo",
+        "name": "Kakapo",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/kaka",
+        "name": "Kaka",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/chatham-island-kaka",
+        "name": "Chatham Island kaka",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/kea",
+        "name": "Kea",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/sulphur-crested-cockatoo",
+        "name": "Sulphur-crested cockatoo",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/galah",
+        "name": "Galah",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/rose-ringed-parakeet",
+        "name": "Rose-ringed parakeet",
+        "status": "Introduced, not established"
+    },
+    {
+        "link": "/species/crimson-rosella",
+        "name": "Crimson rosella",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/eastern-rosella",
+        "name": "Eastern rosella",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/red-crowned-parakeet",
+        "name": "Red-crowned parakeet",
+        "status": "Relict"
+    },
+    {
+        "link": "/species/yellow-crowned-parakeet",
+        "name": "Yellow-crowned parakeet",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/orange-fronted-parakeet",
+        "name": "Orange-fronted parakeet",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/forbes-parakeet",
+        "name": "Forbes' parakeet",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/antipodes-island-parakeet",
+        "name": "Antipodes Island parakeet",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/reischeks-parakeet",
+        "name": "Reischek's parakeet",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/rainbow-lorikeet",
+        "name": "Rainbow lorikeet",
+        "status": "Introduced, not established"
+    },
+    {
+        "link": "/species/oriental-cuckoo",
+        "name": "Oriental cuckoo",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/pallid-cuckoo",
+        "name": "Pallid cuckoo",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/fan-tailed-cuckoo",
+        "name": "Fan-tailed cuckoo",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/shining-cuckoo",
+        "name": "Shining cuckoo",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/long-tailed-cuckoo",
+        "name": "Long-tailed cuckoo",
+        "status": "Naturally Uncommon"
+    },
+    {
+        "link": "/species/channel-billed-cuckoo",
+        "name": "Channel-billed cuckoo",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/morepork",
+        "name": "Morepork",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/laughing-owl",
+        "name": "Laughing owl",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/little-owl",
+        "name": "Little owl",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/barn-owl",
+        "name": "Barn owl",
+        "status": "Coloniser"
+    },
+    {
+        "link": "/species/new-zealand-owlet-nightjar",
+        "name": "New Zealand owlet-nightjar",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/white-throated-needletail",
+        "name": "White-throated needletail",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/fork-tailed-swift",
+        "name": "Fork-tailed swift",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/laughing-kookaburra",
+        "name": "Laughing kookaburra",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/sacred-kingfisher",
+        "name": "Sacred kingfisher",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/dollarbird",
+        "name": "Dollarbird",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/rifleman",
+        "name": "Rifleman",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/bush-wren",
+        "name": "Bush wren",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/rock-wren",
+        "name": "Rock wren",
+        "status": "Nationally Endangered"
+    },
+    {
+        "link": "/species/lyalls-wren",
+        "name": "Lyall's wren",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/north-island-stout-legged-wren",
+        "name": "North Island stout-legged wren",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/south-island-stout-legged-wren",
+        "name": "South Island stout-legged wren",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/long-billed-wren",
+        "name": "Long-billed wren",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/north-island-kokako",
+        "name": "North Island kokako",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/south-island-kokako",
+        "name": "South Island kokako",
+        "status": "Data Deficient"
+    },
+    {
+        "link": "/species/north-island-saddleback",
+        "name": "North Island saddleback",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/south-island-saddleback",
+        "name": "South Island saddleback",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/huia",
+        "name": "Huia",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/stitchbird",
+        "name": "Stitchbird",
+        "status": "Nationally Vulnerable"
+    },
+    {
+        "link": "/species/north-island-piopio",
+        "name": "North Island piopio",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/south-island-piopio",
+        "name": "South Island piopio",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/grey-warbler",
+        "name": "Grey warbler",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/chatham-island-warbler",
+        "name": "Chatham Island warbler",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/bellbird",
+        "name": "Bellbird",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/chatham-island-bellbird",
+        "name": "Chatham Island bellbird",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/tui",
+        "name": "Tui",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/red-wattlebird",
+        "name": "Red wattlebird",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/black-faced-cuckoo-shrike",
+        "name": "Black-faced cuckoo-shrike",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/white-winged-triller",
+        "name": "White-winged triller",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/whitehead",
+        "name": "Whitehead",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/yellowhead",
+        "name": "Yellowhead",
+        "status": "Recovering"
+    },
+    {
+        "link": "/species/brown-creeper",
+        "name": "Brown creeper",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/australian-magpie",
+        "name": "Australian magpie",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/masked-woodswallow",
+        "name": "Masked woodswallow",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/white-browed-woodswallow",
+        "name": "White-browed woodswallow",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/dusky-woodswallow",
+        "name": "Dusky woodswallow",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/new-zealand-fantail",
+        "name": "New Zealand fantail",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/willie-wagtail",
+        "name": "Willie wagtail",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/new-zealand-raven",
+        "name": "New Zealand raven",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/chatham-island-raven",
+        "name": "Chatham Island raven",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/rook",
+        "name": "Rook",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/satin-flycatcher",
+        "name": "Satin flycatcher",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/black-faced-monarch",
+        "name": "Black-faced monarch",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/magpie-lark",
+        "name": "Magpie-lark",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/tomtit",
+        "name": "Tomtit",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/north-island-robin",
+        "name": "North Island robin",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/south-island-robin",
+        "name": "South Island robin",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/black-robin",
+        "name": "Black robin",
+        "status": "Nationally Critical"
+    },
+    {
+        "link": "/species/eurasian-skylark",
+        "name": "Eurasian skylark",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/australian-reed-warbler",
+        "name": "Australian reed warbler",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/fernbird",
+        "name": "Fernbird",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/chatham-island-fernbird",
+        "name": "Chatham Island fernbird",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/silvereye",
+        "name": "Silvereye",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/welcome-swallow",
+        "name": "Welcome swallow",
+        "status": "Not Threatened"
+    },
+    {
+        "link": "/species/fairy-martin",
+        "name": "Fairy martin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/tree-martin",
+        "name": "Tree martin",
+        "status": "Vagrant"
+    },
+    {
+        "link": "/species/red-vented-bulbul",
+        "name": "Red-vented bulbul",
+        "status": "Introduced, not established"
+    },
+    {
+        "link": "/species/eurasian-blackbird",
+        "name": "Eurasian blackbird",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/song-thrush",
+        "name": "Song thrush",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/common-starling",
+        "name": "Common starling",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/common-myna",
+        "name": "Common myna",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/house-sparrow",
+        "name": "House sparrow",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/new-zealand-pipit",
+        "name": "New Zealand pipit",
+        "status": "Declining"
+    },
+    {
+        "link": "/species/dunnock",
+        "name": "Dunnock",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/chaffinch",
+        "name": "Chaffinch",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/european-greenfinch",
+        "name": "European greenfinch",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/european-goldfinch",
+        "name": "European goldfinch",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/common-redpoll",
+        "name": "Common redpoll",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/yellowhammer",
+        "name": "Yellowhammer",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/cirl-bunting",
+        "name": "Cirl bunting",
+        "status": "Introduced and Naturalised"
+    },
+    {
+        "link": "/species/st-bathans-kiwi",
+        "name": "St Bathans kiwi",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/manuherikia-duck",
+        "name": "Manuherikia duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/minute-manuherikia-duck",
+        "name": "Minute Manuherikia duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/douglas-duck",
+        "name": "Douglas' duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/johnstones-duck",
+        "name": "Johnstones' duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-shelduck",
+        "name": "St Bathans shelduck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/enrights-duck",
+        "name": "Enright's duck",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/new-zealand-palaelodus",
+        "name": "New Zealand palaelodus",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/maxwells-penguin",
+        "name": "Maxwell's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/waitaki-penguin",
+        "name": "Waitaki penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/grebneffs-penguin",
+        "name": "Grebneff's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/mannerings-penguin",
+        "name": "Mannering's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/waipara-penguin",
+        "name": "Waipara penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/bices-penguin",
+        "name": "Bice's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/huxleys-penguin",
+        "name": "Huxley's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/marples-penguin",
+        "name": "Marples' penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/new-zealand-giant-penguin",
+        "name": "New Zealand giant penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/simpsons-penguin",
+        "name": "Simpson's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/wide-flippered-penguin",
+        "name": "Wide-flippered penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/amies-penguin",
+        "name": "Amies' penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/lowes-penguin",
+        "name": "Lowe's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/duntroon-penguin",
+        "name": "Duntroon penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/lopdells-penguin",
+        "name": "Lopdells' penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/olivers-penguin",
+        "name": "Oliver's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/harris-penguin",
+        "name": "Harris' penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/ridgens-penguin",
+        "name": "Ridgen's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/tyrees-penguin",
+        "name": "Tyree's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/moisleys-penguin",
+        "name": "Moisley's penguin",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/loves-paleocene-seabird",
+        "name": "Love's Paleocene seabird",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/alastairs-albatross",
+        "name": "Alastair's albatross",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/miocene-diving-petrel",
+        "name": "Miocene diving petrel",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/miocene-false-toothed-pelican",
+        "name": "Miocene false-toothed pelican",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/stirtons-false-toothed-pelican",
+        "name": "Stirton's false-toothed pelican",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/bird-unknown-affinities",
+        "name": "(bird of unknown affinities)",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-heron",
+        "name": "St Bathans heron",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/bartles-bittern",
+        "name": "Bartle's bittern",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-adzebill",
+        "name": "St Bathans adzebill",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/flemings-rail",
+        "name": "Fleming's rail",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/sansoms-plover",
+        "name": "Sansom's plover",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/new-zealand-lake-wanderer",
+        "name": "New Zealand lake-wanderer",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-pigeon",
+        "name": "St Bathans pigeon",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-giant-parrot",
+        "name": "St Bathans giant parrot",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/little-st-bathans-parrot",
+        "name": "Little St Bathans parrot",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/mertons-parrot",
+        "name": "Merton's parrot",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/lees-parrot",
+        "name": "Lee's parrot",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-owlet-nightjar",
+        "name": "St Bathans owlet-nightjar",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-swiftlet",
+        "name": "St Bathans swiftlet",
+        "status": "Extinct"
+    },
+    {
+        "link": "/species/st-bathans-wren",
+        "name": "St Bathans wren",
+        "status": "Extinct"
+    }
+]

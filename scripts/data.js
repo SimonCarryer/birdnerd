@@ -320,6 +320,7 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/04d.mp3"
         ],
         "category": [
+            "Mountain",
             "Forest (native or plantation)"
         ],
         "maori_name": "tokoeka"
@@ -463,6 +464,7 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/GREAT%20SPOTTED%20KIWI%20PAPAROA%20RANGES%20-edit%20one%20Copy.mp3"
         ],
         "category": [
+            "Mountain",
             "Forest (native or plantation)"
         ],
         "maori_name": "roa"
@@ -663,8 +665,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Farmland or horticultural block",
             "Lake, river or wetland",
+            "Farmland or horticultural block",
             "Urban park or garden"
         ]
     },
@@ -853,7 +855,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/41a_0.mp3"
         ],
         "category": [
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Mountain"
         ]
     },
     {
@@ -864,7 +867,6 @@ data = [
             "Australian brown quail",
             "kuera",
             "koera",
-            "brown quail",
             "brown quail",
             "brown quail"
         ],
@@ -1096,8 +1098,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Farmland or horticultural block",
             "Lake, river or wetland",
+            "Farmland or horticultural block",
             "Urban park or garden"
         ],
         "maori_name": "peihana"
@@ -1605,8 +1607,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "kak\u012b\u0101nau"
     },
@@ -1826,8 +1828,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Farmland or horticultural block",
             "Lake, river or wetland",
+            "Farmland or horticultural block",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "kuihi"
@@ -1996,9 +1998,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20444%20Canada%20Goose.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Lake, river or wetland"
         ]
@@ -2218,10 +2220,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/04%20-%20Track%204_3.mp3"
         ],
         "category": [
-            "Coastal",
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Forest (native or plantation)",
+            "Coastal",
+            "Chatham Islands (not at sea)",
+            "Mountain",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -2391,6 +2394,7 @@ data = [
         ],
         "category": [
             "Lake, river or wetland",
+            "Mountain",
             "Forest (native or plantation)"
         ],
         "maori_name": "whio"
@@ -2564,8 +2568,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/08b.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "t\u0113t\u0113 moroiti"
     },
@@ -2746,9 +2750,9 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Farmland or horticultural block",
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Farmland or horticultural block"
         ],
         "maori_name": "p\u0101teke"
     },
@@ -2760,8 +2764,6 @@ data = [
             "Auckland teal",
             "Auckland Island flightless duck",
             "flightless teal",
-            "teal",
-            "flightless duck",
             "teal",
             "flightless duck",
             "teal"
@@ -2899,7 +2901,6 @@ data = [
         "status": "Nationally Vulnerable",
         "other_names": [
             "Campbell Island flightless teal",
-            "campbell flightless teal",
             "campbell flightless teal",
             "campbell teal"
         ],
@@ -3211,10 +3212,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202315%20Mallard%20X%20Grey%20Duck.mp3"
         ],
         "category": [
-            "Coastal",
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Forest (native or plantation)",
+            "Coastal",
+            "Chatham Islands (not at sea)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -3343,10 +3344,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/02%20-%20Track%202_2.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Forest (native or plantation)",
-            "Harbour, estuary or rivermouth"
+            "Chatham Islands (not at sea)",
+            "Forest (native or plantation)"
         ],
         "maori_name": "p\u0101rera"
     },
@@ -3362,7 +3363,6 @@ data = [
             "spoony",
             "spoonie",
             "shoveller",
-            "shoveler",
             "shoveler",
             "shoveler"
         ],
@@ -3515,8 +3515,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/15%20-%20Track%2015_10.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -3733,7 +3733,6 @@ data = [
             "kamana",
             "k\u0101mana",
             "crested grebe",
-            "crested grebe",
             "crested grebe"
         ],
         "images": [
@@ -3936,8 +3935,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201069%20Aus%20Crested%20Grebe.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "p\u016bteketeke"
     },
@@ -3951,7 +3950,6 @@ data = [
             "taihoropi (Hokianga)",
             "taratimoho (Waikato)",
             "New Zealand grebe",
-            "grebe",
             "grebe",
             "dabchick"
         ],
@@ -4138,8 +4136,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Dabchick%20call.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "weweia"
     },
@@ -4348,7 +4346,6 @@ data = [
             "thick-billed penguin",
             "Victoria penguin",
             "crested penguin",
-            "crested penguin",
             "fiordland crested penguin"
         ],
         "images": [
@@ -4533,7 +4530,6 @@ data = [
         "other_names": [
             "Snares penguin",
             "Snares Island penguin",
-            "snares penguin",
             "snares penguin",
             "snares crested penguin"
         ],
@@ -4910,8 +4906,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -5112,8 +5108,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "hoiho"
     },
@@ -5316,8 +5312,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "koror\u0101"
     },
@@ -5676,8 +5672,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/36%20-%20Wandering%20Albatross.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "toroa"
     },
@@ -6035,8 +6031,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "toroa"
     },
@@ -6217,8 +6213,6 @@ data = [
             "blackbrowed albatross",
             "Campbell mollymawk",
             "Campbell albatross",
-            "campbell mollymawk",
-            "campbell albatross",
             "campbell mollymawk",
             "campbell albatross",
             "campbell black-browed mollymawk"
@@ -6596,8 +6590,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "toroa"
     },
@@ -6785,9 +6779,6 @@ data = [
             "Chatham albatross",
             "toroa",
             "Chatham mollymawk",
-            "albatross",
-            "albatross",
-            "mollymawk",
             "albatross",
             "albatross",
             "mollymawk",
@@ -6986,7 +6977,6 @@ data = [
             "toroa",
             "Salvins mollymawk",
             "Salvins albatross",
-            "bounty mollymawk",
             "bounty mollymawk",
             "salvin's mollymawk"
         ],
@@ -7667,8 +7657,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "p\u0101ngurunguru"
     },
@@ -7680,7 +7670,6 @@ data = [
             "southern fulmar",
             "silver-grey fulmar",
             "slender-billed fulmar",
-            "fulmar",
             "fulmar",
             "antarctic fulmar"
         ],
@@ -8853,7 +8842,6 @@ data = [
             "whitenaped petrel",
             "white naped petrel",
             "petrel",
-            "petrel",
             "white-naped petrel"
         ],
         "images": [
@@ -9095,8 +9083,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/07%20-%20Track%207_9.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -9106,7 +9094,6 @@ data = [
         "other_names": [
             "ranguru",
             "Chatham Island petrel",
-            "petrel",
             "petrel",
             "petrel"
         ],
@@ -9444,7 +9431,6 @@ data = [
             "New Caledonian petrel",
             "Goulds petrel",
             "caledonian petrel",
-            "caledonian petrel",
             "gould's petrel"
         ],
         "images": [
@@ -9770,8 +9756,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/05%20-%20Track%205_21.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "parar\u0101"
     },
@@ -9784,7 +9770,6 @@ data = [
             "medium-billed prion",
             "Crozet Island prion",
             "Salvins prion",
-            "crozet prion",
             "crozet prion",
             "salvin's prion"
         ],
@@ -10266,8 +10251,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/03%20-%20Track%203%281%29_2.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "t\u012bt\u012b wainui"
     },
@@ -11242,7 +11227,6 @@ data = [
             "Bullers shearwater",
             "rako",
             "shearwater",
-            "shearwater",
             "buller's shearwater"
         ],
         "images": [
@@ -11564,7 +11548,6 @@ data = [
             "New Zealand muttonbird",
             "mutton bird",
             "muttonbird",
-            "muttonbird",
             "sooty shearwater"
         ],
         "images": [
@@ -11717,8 +11700,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "t\u012bt\u012b"
     },
@@ -12056,7 +12039,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Mountain"
         ]
     },
     {
@@ -12566,8 +12550,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/17%20-%20Track%2017_9.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "takahikare-moana"
     },
@@ -13162,8 +13146,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/35%20-%20Southern%20Diving%20Petrel.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "kuaka"
     },
@@ -13457,7 +13441,6 @@ data = [
             "takupu",
             "Australian gannet",
             "Pacific gannet",
-            "gannet",
             "gannet",
             "gannet"
         ],
@@ -14095,9 +14078,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/04%20-%20Track%204_18.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -14242,9 +14225,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/17%20-%20Track%2017_7.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -14494,8 +14477,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "k\u0101ruhiruhi"
     },
@@ -14642,8 +14625,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "kawau t\u016b\u012b"
     },
@@ -14659,7 +14642,6 @@ data = [
             "carunculated shag",
             "Marlborough Sounds shag",
             "Cook Strait cormorant",
-            "king cormorant",
             "king cormorant",
             "king shag"
         ],
@@ -14797,7 +14779,6 @@ data = [
             "Gray\u2019s shag",
             "Otago shag",
             "Foveaux shag",
-            "stewart cormorant",
             "stewart cormorant",
             "stewart shag"
         ],
@@ -14961,8 +14942,6 @@ data = [
             "Chatham shag",
             "cormorant",
             "shag",
-            "cormorant",
-            "shag",
             "shag"
         ],
         "images": [
@@ -15074,7 +15053,6 @@ data = [
         "status": "Naturally Uncommon",
         "other_names": [
             "Bounty Island cormorant",
-            "bounty cormorant",
             "bounty cormorant",
             "bounty shag"
         ],
@@ -15428,7 +15406,6 @@ data = [
         "other_names": [
             "Campbell Island cormorant",
             "campbell cormorant",
-            "campbell cormorant",
             "campbell shag"
         ],
         "images": [
@@ -15524,7 +15501,6 @@ data = [
         "status": "Not evaluated",
         "other_names": [
             "Macquarie Island cormorant",
-            "macquarie cormorant",
             "macquarie cormorant",
             "macquarie shag"
         ],
@@ -15843,7 +15819,6 @@ data = [
         "other_names": [
             "Pitt Island cormorant",
             "Pitt shag",
-            "pitt cormorant",
             "pitt cormorant",
             "pitt shag"
         ],
@@ -16187,9 +16162,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/24%20-%20Track%2024_3.mp3"
         ],
         "category": [
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "k\u014dtuku"
     },
@@ -16287,10 +16262,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/10%20-%20Cattle%20Egret.mp3"
         ],
         "category": [
-            "Farmland or horticultural block",
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Farmland or horticultural block",
+            "Chatham Islands (not at sea)"
         ],
         "other_names": [
             "cattle egret"
@@ -16505,10 +16480,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/14%20-%20Track%2014_3.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
+            "Urban park or garden",
             "Lake, river or wetland"
         ],
         "maori_name": "matuku moana"
@@ -16689,8 +16665,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "matuku moana"
     },
@@ -16885,8 +16861,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201345%20Australasian%20Bittern.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "matuku-h\u016brepo"
     },
@@ -17090,9 +17066,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/16%20-%20Royal%20Spoonbill.mp3"
         ],
         "category": [
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "k\u014dtuku ngutupapa"
     },
@@ -17106,7 +17082,6 @@ data = [
             "hawk",
             "k\u0101hu",
             "kahu",
-            "harrier",
             "harrier",
             "swamp harrier"
         ],
@@ -17256,10 +17231,14 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201930%20Swamp%20Harrier.mp3"
         ],
         "category": [
-            "Farmland or horticultural block",
-            "Lake, river or wetland",
+            "Harbour, estuary or rivermouth",
             "Forest (native or plantation)",
-            "Urban park or garden"
+            "Coastal",
+            "Chatham Islands (not at sea)",
+            "Mountain",
+            "Farmland or horticultural block",
+            "Urban park or garden",
+            "Lake, river or wetland"
         ],
         "maori_name": "k\u0101hu"
     },
@@ -17276,7 +17255,6 @@ data = [
             "eastern falcon",
             "karearea",
             "quail hawk",
-            "falcon",
             "falcon",
             "falcon"
         ],
@@ -17447,10 +17425,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201054%20NZ%20Falcon.mp3"
         ],
         "category": [
-            "Farmland or horticultural block",
-            "Lake, river or wetland",
             "Forest (native or plantation)",
-            "Urban park or garden"
+            "Mountain",
+            "Farmland or horticultural block",
+            "Urban park or garden",
+            "Lake, river or wetland"
         ],
         "maori_name": "k\u0101rearea"
     },
@@ -17694,8 +17673,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/04%20-%20Track%204_14.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "mioweka"
     },
@@ -17887,9 +17866,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202012282116%20Weka.mp3"
         ],
         "category": [
-            "Coastal",
-            "Forest (native or plantation)",
             "Harbour, estuary or rivermouth",
+            "Forest (native or plantation)",
+            "Coastal",
+            "Chatham Islands (not at sea)",
+            "Mountain",
             "Farmland or horticultural block",
             "Lake, river or wetland"
         ]
@@ -18177,8 +18158,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/07%20-%20Track%207_21.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "koitareke"
     },
@@ -18193,7 +18174,6 @@ data = [
             "south-west Pacific swamphen",
             "pook",
             "Australasian swamphen",
-            "swamphen",
             "swamphen",
             "pukeko"
         ],
@@ -18392,6 +18372,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201180%20Pukeko.mp3"
         ],
         "category": [
+            "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Farmland or horticultural block",
+            "Urban park or garden",
             "Lake, river or wetland"
         ],
         "maori_name": "p\u016bkeko"
@@ -18577,7 +18561,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/06%20-%20Track%206_23.mp3",
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202012292003%20Takahe.mp3"
         ],
-        "category": [],
+        "category": [
+            "Mountain"
+        ],
         "maori_name": "takah\u0113"
     },
     {
@@ -18587,7 +18573,6 @@ data = [
         "other_names": [
             "Eurasian coot",
             "common coot",
-            "coot",
             "coot",
             "coot"
         ],
@@ -18948,7 +18933,6 @@ data = [
             "tutukiwi",
             "New Zealand snipe (collective name for several forms now recognised as full species)",
             "snipe (collective name for several forms now recognised as full species)",
-            "snipe (collective name for several forms now recognised as full species)",
             "snares snipe"
         ],
         "images": [
@@ -19027,8 +19011,6 @@ data = [
         "other_names": [
             "Auckland Island snipe",
             "New Zealand snipe (collective name for several forms now recognised as full species) ",
-            "snipe",
-            "snipe (collective name for several forms now recognised as full species)",
             "snipe",
             "snipe (collective name for several forms now recognised as full species)",
             "subantarctic snipe"
@@ -19328,9 +19310,9 @@ data = [
         ],
         "category": [
             "Coastal",
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "huahou"
     },
@@ -19445,9 +19427,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/09%20-%20Sharp-Tailed%20Sandpiper.mp3"
         ],
         "category": [
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -19554,9 +19536,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/15%20-%20Red-Necked%20Stint.mp3"
         ],
         "category": [
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -19732,8 +19714,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -19926,9 +19908,9 @@ data = [
         ],
         "category": [
             "Coastal",
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "kuaka"
     },
@@ -20085,8 +20067,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -20294,8 +20276,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/14%20-%20Track%2014_11.mp3"
         ],
         "category": [
-            "Coastal",
             "Harbour, estuary or rivermouth",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -20312,7 +20294,6 @@ data = [
             "t\u014drea",
             "torea",
             "SIPO",
-            "pied oystercatcher",
             "pied oystercatcher",
             "pied oystercatcher"
         ],
@@ -20470,9 +20451,9 @@ data = [
         ],
         "category": [
             "Coastal",
+            "Harbour, estuary or rivermouth",
             "Farmland or horticultural block",
-            "Urban park or garden",
-            "Harbour, estuary or rivermouth"
+            "Urban park or garden"
         ],
         "maori_name": "t\u014drea"
     },
@@ -20598,7 +20579,6 @@ data = [
             "Australasian pied stilt",
             "black-winged stilt",
             "white-headed stilt",
-            "pied stilt",
             "pied stilt",
             "pied stilt"
         ],
@@ -20838,9 +20818,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20981%20Hybrid%20Stilt.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -21016,8 +20996,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/07%20-%20Track%207_14.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "kak\u012b"
     },
@@ -21150,8 +21130,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/20%20-%20Least%20Golden%20Plover.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -21639,9 +21619,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/09%20-%20Track%209_11.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Lake, river or wetland"
         ],
@@ -21806,8 +21786,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "ngutuparore"
     },
@@ -21972,8 +21952,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20619%20Black-fronted%20Dotterel.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ]
     },
     {
@@ -21987,8 +21967,6 @@ data = [
             "sand plover",
             "New Zealand plover",
             "shore dotterel",
-            "shore plover",
-            "plover",
             "shore plover",
             "plover",
             "shore plover"
@@ -22343,9 +22321,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/06%20-%20Track%206_25.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -22361,8 +22339,6 @@ data = [
             "southern great skua",
             "h\u0101koakoa",
             "hakoakoa",
-            "skua",
-            "great skua",
             "skua",
             "great skua",
             "subantarctic skua"
@@ -22595,8 +22571,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/03%20-%20Track%203_28.mp3"
         ],
         "category": [
-            "Chatham Islands (not at sea)",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "h\u0101koakoa"
     },
@@ -22986,8 +22962,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/11%20-%20Track%2011_10.mp3"
         ],
         "category": [
-            "At sea (or dead on a beach)",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "At sea (or dead on a beach)"
         ]
     },
     {
@@ -23265,13 +23241,14 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202400%20Southern%20Black-backed%20Gull.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)",
+            "Coastal",
+            "Mountain",
             "Farmland or horticultural block",
             "Urban park or garden",
-            "Lake, river or wetland",
-            "At sea (or dead on a beach)"
+            "Lake, river or wetland"
         ],
         "maori_name": "karoro"
     },
@@ -23463,13 +23440,13 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/18%20-%20Track%2018_6.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
-            "Lake, river or wetland",
-            "At sea (or dead on a beach)"
+            "Lake, river or wetland"
         ],
         "maori_name": "tar\u0101punga"
     },
@@ -23675,12 +23652,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20933%20Black-billed%20Gull.mp3"
         ],
         "category": [
-            "Coastal",
             "Harbour, estuary or rivermouth",
+            "At sea (or dead on a beach)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
-            "Lake, river or wetland",
-            "At sea (or dead on a beach)"
+            "Lake, river or wetland"
         ],
         "maori_name": "tar\u0101puka"
     },
@@ -24646,8 +24623,8 @@ data = [
         ],
         "category": [
             "Coastal",
-            "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Harbour, estuary or rivermouth",
+            "Lake, river or wetland"
         ],
         "maori_name": "taranui"
     },
@@ -24974,11 +24951,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/01%20-%20Track%201_12.mp3"
         ],
         "category": [
-            "Coastal",
             "Harbour, estuary or rivermouth",
+            "At sea (or dead on a beach)",
+            "Coastal",
             "Farmland or horticultural block",
-            "Lake, river or wetland",
-            "At sea (or dead on a beach)"
+            "Lake, river or wetland"
         ],
         "maori_name": "tarapirohe"
     },
@@ -25199,11 +25176,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202101270915%20White-fronted%20Tern.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
-            "Lake, river or wetland",
-            "At sea (or dead on a beach)"
+            "At sea (or dead on a beach)",
+            "Chatham Islands (not at sea)",
+            "Coastal",
+            "Lake, river or wetland"
         ],
         "maori_name": "tara"
     },
@@ -25665,9 +25642,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20164%20Feral%20Pigeon.mp3"
         ],
         "category": [
-            "Farmland or horticultural block",
+            "Harbour, estuary or rivermouth",
             "Chatham Islands (not at sea)",
-            "Urban park or garden"
+            "Farmland or horticultural block",
+            "Urban park or garden",
+            "Lake, river or wetland"
         ]
     },
     {
@@ -26099,7 +26078,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "kerer\u016b"
     },
@@ -26549,8 +26529,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "k\u0101k\u0101"
     },
@@ -26561,7 +26541,6 @@ data = [
         "other_names": [
             "mountain parrot",
             "New Zealand mountain parrot",
-            "mountain parrot",
             "mountain parrot",
             "kea"
         ],
@@ -26740,6 +26719,7 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
+            "Mountain",
             "Forest (native or plantation)"
         ]
     },
@@ -27341,8 +27321,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ]
     },
     {
@@ -27545,9 +27525,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202243%20Red-crowned%20Parakeet.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
             "Chatham Islands (not at sea)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "k\u0101k\u0101riki"
     },
@@ -27838,7 +27818,6 @@ data = [
             "Forbes parakeet",
             "Forbe's parakeet",
             "Forbes's parakeet",
-            "yellow-crowned parakeet",
             "yellow-crowned parakeet",
             "forbes' parakeet"
         ],
@@ -28314,8 +28293,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202175%20Shining%20Cuckoo.mp3"
         ],
         "category": [
+            "Chatham Islands (not at sea)",
             "Farmland or horticultural block",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "p\u012bp\u012bwharauroa"
     },
@@ -28430,7 +28411,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "koekoe\u0101"
     },
@@ -28442,7 +28424,6 @@ data = [
             "ruru",
             "boobook",
             "New Zealand owl",
-            "owl",
             "owl",
             "morepork"
         ],
@@ -28599,8 +28580,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "ruru"
     },
@@ -28876,7 +28857,6 @@ data = [
             "k\u014dtare",
             "kotare",
             "kingfisher",
-            "kingfisher",
             "sacred kingfisher"
         ],
         "images": [
@@ -29088,7 +29068,13 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201271%20NZ%20Kingfisher.mp3"
         ],
         "category": [
-            "Farmland or horticultural block"
+            "Harbour, estuary or rivermouth",
+            "Forest (native or plantation)",
+            "Coastal",
+            "Chatham Islands (not at sea)",
+            "Farmland or horticultural block",
+            "Urban park or garden",
+            "Lake, river or wetland"
         ],
         "maori_name": "k\u014dtare"
     },
@@ -29257,8 +29243,6 @@ data = [
             "tuke",
             "rock wren",
             "wren",
-            "rock wren",
-            "wren",
             "rock wren"
         ],
         "images": [
@@ -29334,7 +29318,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201912281210%20Rock%20Wren.mp3",
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201912281210%20Rock%20Wren.mp3"
         ],
-        "category": [],
+        "category": [
+            "Mountain"
+        ],
         "maori_name": "p\u012bwauwau"
     },
     {
@@ -30057,7 +30043,6 @@ data = [
             "New Zealand gerygone",
             "grey gerygone",
             "gerygone",
-            "gerygone",
             "grey warbler"
         ],
         "images": [
@@ -30199,8 +30184,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "riroriro"
     },
@@ -30210,7 +30195,6 @@ data = [
         "status": "Recovering",
         "other_names": [
             "Chatham gerygone",
-            "gerygone",
             "gerygone",
             "warbler"
         ],
@@ -30327,7 +30311,6 @@ data = [
             "makomako",
             "mockie",
             "bell bird",
-            "bellbird",
             "bellbird",
             "bellbird"
         ],
@@ -30598,8 +30581,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "korimako"
     },
@@ -30843,10 +30826,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Yvan%20Richard%20tui%20song.mp3"
         ],
         "category": [
+            "Chatham Islands (not at sea)",
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
             "Urban park or garden",
-            "Chatham Islands (not at sea)"
+            "Forest (native or plantation)"
         ],
         "maori_name": "t\u016b\u012b"
     },
@@ -31150,8 +31133,6 @@ data = [
             "New Zealand titmouse",
             "creeper",
             "titmouse",
-            "creeper",
-            "titmouse",
             "brown creeper"
         ],
         "images": [
@@ -31255,8 +31236,8 @@ data = [
         ],
         "category": [
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Forest (native or plantation)"
         ],
         "maori_name": "p\u012bpipi"
     },
@@ -31625,8 +31606,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Fantail_excited%20calls_Bushy%20Park%20%5B2%5D.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
             "Chatham Islands (not at sea)",
+            "Forest (native or plantation)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -31735,7 +31716,6 @@ data = [
             "black tomtit",
             "piropiro",
             "maui-potiki",
-            "tomtit",
             "tomtit",
             "tomtit"
         ],
@@ -31906,8 +31886,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201424%20Tomtit.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)"
+            "Chatham Islands (not at sea)",
+            "Forest (native or plantation)"
         ],
         "maori_name": "miromiro"
     },
@@ -31919,7 +31899,6 @@ data = [
             "New Zealand robin",
             "toutouwai",
             "bush robin",
-            "robin",
             "robin",
             "robin"
         ],
@@ -32033,7 +32012,6 @@ data = [
             "kakariwai",
             "toutouwai",
             "bush robin",
-            "robin",
             "robin",
             "robin"
         ],
@@ -32233,8 +32211,6 @@ data = [
             "kakaruia",
             "black robin",
             "robin",
-            "black robin",
-            "robin",
             "black robin"
         ],
         "images": [
@@ -32344,7 +32320,6 @@ data = [
             "skylark",
             "kaireka",
             "common skylark",
-            "skylark",
             "skylark",
             "eurasian skylark"
         ],
@@ -32489,8 +32464,8 @@ data = [
         "category": [
             "Coastal",
             "Farmland or horticultural block",
-            "Chatham Islands (not at sea)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "kaireka"
     },
@@ -32685,9 +32660,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Fernbird_wheet%20and%20ratchet%20calls.mp3"
         ],
         "category": [
-            "Farmland or horticultural block",
+            "Harbour, estuary or rivermouth",
             "Lake, river or wetland",
-            "Harbour, estuary or rivermouth"
+            "Farmland or horticultural block"
         ],
         "maori_name": "m\u0101t\u0101t\u0101"
     },
@@ -32874,8 +32849,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/06%20-%20Track%206_24.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
             "Chatham Islands (not at sea)",
+            "Forest (native or plantation)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -33084,9 +33059,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/24%20-%20Track%2024_7.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -33101,7 +33076,6 @@ data = [
             "blackbird",
             "common blackbird",
             "manu pango",
-            "blackbird",
             "blackbird",
             "eurasian blackbird"
         ],
@@ -33279,8 +33253,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/08%20-%20Track%208_19.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
             "Chatham Islands (not at sea)",
+            "Forest (native or plantation)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -33409,8 +33383,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20944%20Song%20Thrush.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
             "Chatham Islands (not at sea)",
+            "Forest (native or plantation)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -33423,7 +33397,6 @@ data = [
         "other_names": [
             "starling",
             "European starling",
-            "starling",
             "starling",
             "starling"
         ],
@@ -33605,9 +33578,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/05%20-%20Track%205_25.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -33751,9 +33724,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/08%20-%20Track%208_18.mp3"
         ],
         "category": [
-            "Coastal",
-            "Forest (native or plantation)",
             "Harbour, estuary or rivermouth",
+            "Forest (native or plantation)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -33956,9 +33929,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202409%20House%20Sparrow.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -34166,9 +34139,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202012301139%20NZ%20Pipit.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
+            "Mountain",
             "Farmland or horticultural block",
             "Lake, river or wetland"
         ],
@@ -34299,10 +34273,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201444%20Dunnock.mp3"
         ],
         "category": [
+            "Chatham Islands (not at sea)",
             "Farmland or horticultural block",
-            "Forest (native or plantation)",
             "Urban park or garden",
-            "Chatham Islands (not at sea)"
+            "Forest (native or plantation)"
         ]
     },
     {
@@ -34312,7 +34286,6 @@ data = [
         "other_names": [
             "pahirini",
             "common chaffinch",
-            "chaffinch",
             "chaffinch",
             "chaffinch"
         ],
@@ -34453,10 +34426,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201305%20Chaffinch.mp3"
         ],
         "category": [
-            "Coastal",
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Forest (native or plantation)",
+            "Coastal",
+            "Chatham Islands (not at sea)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -34580,9 +34553,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/11%20-%20Track%2011_15.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -34743,10 +34716,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202422%20Goldfinch.mp3"
         ],
         "category": [
-            "Coastal",
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Forest (native or plantation)",
+            "Coastal",
+            "Chatham Islands (not at sea)",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"
@@ -34852,9 +34825,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/17%20-%20Track%2017_5.mp3"
         ],
         "category": [
+            "Mountain",
             "Farmland or horticultural block",
-            "Chatham Islands (not at sea)",
-            "Urban park or garden"
+            "Urban park or garden",
+            "Chatham Islands (not at sea)"
         ]
     },
     {
@@ -34987,9 +34961,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20613%20Yellowhammer.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)",
             "Harbour, estuary or rivermouth",
+            "Chatham Islands (not at sea)",
+            "Coastal",
             "Farmland or horticultural block",
             "Urban park or garden",
             "Lake, river or wetland"

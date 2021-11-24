@@ -39,26 +39,22 @@ def get_images(url):
 
 
 def is_species(image):
-    return image["data-next"].split("/")[1] == "species"
+    return image["data-next"].split("/")[-2] == "species"
 
 
 extra_data = defaultdict(set)
-visited = set()
 for category, url in categories:
     print(category)
     images = get_images(url)
     for image in images:
-        if image["data-next"] not in visited:
-            visited.add(image["data-next"])
-            if is_species(image):
+        if is_species(image):
+            name = image["data-next"].split("/")[-1]
+            extra_data[name].add(category)
+        else:
+            images = get_images(image["data-next"])
+            for image in images:
                 name = image["data-next"].split("/")[-1]
                 extra_data[name].add(category)
-            else:
-                print(image["data-next"])
-                images = get_images(image["data-next"])
-                for image in images:
-                    name = image["data-next"].split("/")[-1]
-                    extra_data[name].add(category)
 
 
 birds = []

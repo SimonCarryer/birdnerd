@@ -1,3 +1,4 @@
+
 levels = {
     "Egg": [PickBirdFromPicture, PickPictureFromBird],
     "Fledgeling": [EnterNameFromPicture, PickBirdFromPicture, PickPictureFromBird],
@@ -52,6 +53,7 @@ function PickBirdFromAudio(correct, selected) {
         answers.appendChild(answer);
     }
     answers_container.appendChild(answers);
+    check_function = checkPickedName
 }
 
 
@@ -70,7 +72,8 @@ function EnterNameFromAudio(correct, selected) {
     input = document.createElement("input")
     input.setAttribute("type", "text");
     input.setAttribute("id", "answer box");
-    answers_container.appendChild(input)
+    answers_container.appendChild(input);
+    check_function = checkEnteredName
 }
 
 function PickBirdFromPicture(correct, selected) {
@@ -93,6 +96,7 @@ function PickBirdFromPicture(correct, selected) {
         answers.appendChild(answer);
     }
     answers_container.appendChild(answers);
+    check_function = checkPickedName
 }
 
 function PickPictureFromBird(correct, selected) {
@@ -117,7 +121,49 @@ function PickPictureFromBird(correct, selected) {
         answers.appendChild(answer);
     }
     answers_container.appendChild(answers);
+    check_function = checkPickedPicture
 
+}
+
+function PickOtherLanguageName(correct, selected) {
+    const fn = Shuffle([PickMaoriName, PickEnglishName])[0];
+    fn(correct, selected)
+}
+
+function PickMaoriName(correct, selected) {
+    var image_container = document.getElementById("main image");
+    var q = document.createElement("p");
+    q.innerHTML = `Pick the Māori name for a ${correct.name}`;
+    image_container.appendChild(q)
+
+    var answers_container = document.getElementById("answers");
+    var answers = document.createElement("ol");
+    for (const bird of Shuffle(selected)) {
+        var answer = document.createElement("li");
+        answer.innerHTML = `<input type="radio" id="${bird.maori_name}" name="answer" value="${bird.maori_name}"><label for="${bird.maori_name}">${bird.maori_name}</label>`;
+        answers.appendChild(answer);
+    }
+    answers_container.appendChild(answers);
+
+    check_function = checkPickedMaoriName
+}
+
+function PickEnglishName(correct, selected) {
+    var image_container = document.getElementById("main image");
+    var q = document.createElement("p");
+    q.innerHTML = `Pick the English name for a ${correct.maori_name}`;
+    image_container.appendChild(q)
+
+    var answers_container = document.getElementById("answers");
+    var answers = document.createElement("ol");
+    for (const bird of Shuffle(selected)) {
+        var answer = document.createElement("li");
+        answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${bird.name}">${bird.name}</label>`;
+        answers.appendChild(answer);
+    }
+    answers_container.appendChild(answers);
+
+    check_function = checkPickedName
 }
 
 function EnterNameFromPicture(correct, selected) {
@@ -136,12 +182,101 @@ function EnterNameFromPicture(correct, selected) {
     input = document.createElement("input")
     input.setAttribute("type", "text");
     input.setAttribute("id", "answer box");
-    answers_container.appendChild(input)
+    answers_container.appendChild(input);
+    check_function = checkEnteredName;
+}
+
+
+function checkPickedName() {
+    const answer = document.querySelector('input[name="answer"]:checked')
+    if (answer) {
+        const selected = answer.value;
+        var got_it_right = selected == correct.name
+    }
+    else {
+        var got_it_right = false
+    }
+    reveal_answer = revealBird
+    return got_it_right
+}
+
+function checkPickedMaoriName() {
+    const answer = document.querySelector('input[name="answer"]:checked')
+    if (answer) {
+        const selected = answer.value;
+        var got_it_right = selected == correct.maori_name
+    }
+    else {
+        var got_it_right = false
+    }
+    reveal_answer = revealBird
+    return got_it_right
+}
+
+function checkPickedPicture() {
+    const answer = document.querySelector('input[name="answer"]:checked')
+    if (answer) {
+        const selected = answer.value;
+        var got_it_right = selected == correct.name
+    }
+    else {
+        var got_it_right = false
+    }
+    reveal_answer = revealPicture
+    return got_it_right
+}
+
+function checkEnteredName() {
+    const entered = document.getElementById("answer box").value;
+    if (entered) {
+        var name = entered.toLowerCase();
+        var got_it_right = correct.other_names.includes(name)
+    }
+    else {
+        var got_it_right = false
+    }
+    reveal_answer = revealBird
+    return got_it_right
+}
+
+
+function alwaysWrong() {
+    reveal_answer = revealBird
+    return false
+}
+
+function revealBird(got_it_right) {
+    var outcome_container = document.getElementById("outcome container");
+    if (got_it_right) {
+        outcome_container.innerHTML = `<h2>Correct!</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
+    }
+    else {
+        outcome_container.innerHTML = `<h2>Incorrect</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
+    }
+}
+
+function revealPicture(got_it_right) {
+    console.log("doing the thing")
+    const answer = document.querySelector('input[name="answer"]:checked')
+    var outcome_container = document.getElementById("outcome container");
+    if (answer) {
+        var selected = answer.value;
+        if (got_it_right) {
+            outcome_container.innerHTML = `<h2>Correct!</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
+        }
+        else {
+            outcome_container.innerHTML = `<h2>Incorrect</h2><p>You selected a ${selected}</p>`
+        }
+    }
+    else {
+        outcome_container.innerHTML = `<p>Nothing was selected</p>`
+    }
+
 }
 
 
 function AskAQuestion() {
-    const category = document.getElementById("categories").value;
+    category = document.getElementById("categories").value;
     const level = document.getElementById("levels").value;
     ClearOptions()
     birds = []
@@ -150,42 +285,36 @@ function AskAQuestion() {
             birds.push(bird)
         }
     }
-    // Get sub-array of first n elements after shuffled
-    let selected = Shuffle(birds).slice(0, 5);
-    correct = selected[0];
+
     const questions = levels[level]
-    const question = Shuffle(questions)[0]
+    const question = PickOtherLanguageName //Shuffle(questions)[0]
+
+    if (question == PickOtherLanguageName) {
+        birds = []
+        for (const bird of data) {
+            if (bird.category.includes(category) & bird.hasOwnProperty("maori_name")) {
+                birds.push(bird)
+            }
+        }
+        // Get sub-array of first n elements after shuffled
+        selected = Shuffle(birds).slice(0, 5);
+        correct = selected[0];
+    }
+    // Get sub-array of first n elements after shuffled
+    selected = Shuffle(birds).slice(0, 5);
+    correct = selected[0];
     question(correct, selected)
 
 }
 
 function checkAnswer() {
-    const answer = document.querySelector('input[name="answer"]:checked')
-    if (answer) {
-        const selected = answer.value;
-        got_it_right = selected == correct.name
-    }
-    else {
-        const entered = document.getElementById("answer box").value.toLowerCase();
-        got_it_right = correct.other_names.includes(entered) | correct.name.toLowerCase() == entered
-    }
+    var got_it_right = check_function()
+    reveal_answer(got_it_right)
 
-    var outcome_container = document.getElementById("outcome container");
-    if (got_it_right) {
-        outcome_container.innerHTML = `<h2>Correct!</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
-    }
-    else {
-        outcome_container.innerHTML = `<h2>Incorrect</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
-    }
     AskAQuestion();
 }
 
-function StartGame() {
-    score = 0
-    asked = 0
-    score_p = document.getElementById("score");
-    score.innerHTML = `Your score: ${score}/${asked}`
-}
-
+check_function = alwaysWrong
+reveal_answer = revealBird
 
 AskAQuestion()

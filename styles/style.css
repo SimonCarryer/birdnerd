@@ -1,0 +1,29 @@
+.content {
+    width: 50%;
+    margin: 0 auto;
+    background-color: whitesmoke;
+}
+
+.controls {
+    padding: 10px;
+}
+
+.q_and_a {
+    padding: 10px;
+}
+
+.outcome {
+
+}
+
+.outcome .outcome-content {
+    padding: 10px;
+}
+
+.outcome.incorrect {
+    background-color: pink;
+}
+
+.outcome.correct {
+    background-color: lightgreen;
+}

@@ -1,11 +1,12 @@
 
 levels = {
     "Egg": [PickBirdFromPicture, PickPictureFromBird],
-    "Fledgeling": [EnterNameFromPicture, PickBirdFromPicture, PickPictureFromBird],
-    "Flapper": [PickBirdFromAudio, EnterNameFromPicture, PickPictureFromBird],
-    "Bird brain": [EnterNameFromAudio, PickBirdFromAudio, EnterNameFromPicture],
-    "True bird nerd": [EnterNameFromAudio, EnterNameFromPicture]
+    "Fledgeling": [EnterNameFromPicture, PickBirdFromPicture, PickPictureFromBird, PickOtherLanguageName],
+    "Flapper": [PickBirdFromAudio, EnterNameFromPicture, PickPictureFromBird, PickOtherLanguageName],
+    "Bird brain": [EnterNameFromAudio, PickBirdFromAudio, EnterNameFromPicture, EnterOtherLanguageName],
+    "True bird nerd": [EnterNameFromAudio, EnterNameFromPicture, EnterOtherLanguageName]
 }
+
 
 // Shuffle array
 function Shuffle(array) {
@@ -140,7 +141,7 @@ function PickMaoriName(correct, selected) {
     var answers = document.createElement("ol");
     for (const bird of Shuffle(selected)) {
         var answer = document.createElement("li");
-        answer.innerHTML = `<input type="radio" id="${bird.maori_name}" name="answer" value="${bird.maori_name}"><label for="${bird.maori_name}">${bird.maori_name}</label>`;
+        answer.innerHTML = `<input type="radio" id="${bird.maori_name}" name="answer" value="${bird.maori_name}"><label for="${bird.maori_name}">${capitalizeFirstLetter(bird.maori_name)}</label>`;
         answers.appendChild(answer);
     }
     answers_container.appendChild(answers);
@@ -151,19 +152,54 @@ function PickMaoriName(correct, selected) {
 function PickEnglishName(correct, selected) {
     var image_container = document.getElementById("main image");
     var q = document.createElement("p");
-    q.innerHTML = `Pick the English name for a ${correct.maori_name}`;
+    q.innerHTML = `Pick the English name for a ${capitalizeFirstLetter(correct.maori_name)}`;
     image_container.appendChild(q)
 
     var answers_container = document.getElementById("answers");
     var answers = document.createElement("ol");
     for (const bird of Shuffle(selected)) {
         var answer = document.createElement("li");
-        answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${bird.name}">${bird.name}</label>`;
+        answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${capitalizeFirstLetter(bird.maori_name)}">${bird.name}</label>`;
         answers.appendChild(answer);
     }
     answers_container.appendChild(answers);
 
     check_function = checkPickedName
+}
+
+function EnterOtherLanguageName(correct, selected) {
+    const fn = Shuffle([EnterMaoriName, EnterEnglishName])[0];
+    fn(correct, selected)
+}
+
+function EnterMaoriName(correct, selected) {
+    var image_container = document.getElementById("main image");
+    var q = document.createElement("p");
+    q.innerHTML = `Enter the Māori name for a ${correct.name}.`;
+    image_container.appendChild(q)
+
+    var answers_container = document.getElementById("answers");
+    input = document.createElement("input")
+    input.setAttribute("type", "text");
+    input.setAttribute("id", "answer box");
+    answers_container.appendChild(input);
+
+    check_function = checkEnteredMaoriName;
+}
+
+function EnterEnglishName(correct, selected) {
+    var image_container = document.getElementById("main image");
+    var q = document.createElement("p");
+    q.innerHTML = `Enter the English name for a ${correct.maori_name}.`;
+    image_container.appendChild(q)
+
+    var answers_container = document.getElementById("answers");
+    input = document.createElement("input")
+    input.setAttribute("type", "text");
+    input.setAttribute("id", "answer box");
+    answers_container.appendChild(input);
+
+    check_function = checkEnteredName;
 }
 
 function EnterNameFromPicture(correct, selected) {
@@ -239,6 +275,19 @@ function checkEnteredName() {
     return got_it_right
 }
 
+function checkEnteredMaoriName() {
+    const entered = document.getElementById("answer box").value;
+    if (entered) {
+        var name = entered.toLowerCase();
+        var got_it_right = correct.maori_name == entered.toLowerCase()
+    }
+    else {
+        var got_it_right = false
+    }
+    reveal_answer = revealBird
+    return got_it_right
+}
+
 
 function alwaysWrong() {
     reveal_answer = revealBird
@@ -287,9 +336,9 @@ function AskAQuestion() {
     }
 
     const questions = levels[level]
-    const question = PickOtherLanguageName //Shuffle(questions)[0]
+    const question = Shuffle(questions)[0]
 
-    if (question == PickOtherLanguageName) {
+    if ([PickOtherLanguageName, EnterOtherLanguageName].includes(question)) {
         birds = []
         for (const bird of data) {
             if (bird.category.includes(category) & bird.hasOwnProperty("maori_name")) {

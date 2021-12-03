@@ -365,10 +365,10 @@ function checkAnswer() {
     outcome_container.innerHTML = "";
     outcome_container.appendChild(outcome)
     if (got_it_right) {
-        outcome_container.classList.add("correct");
+        outcome_container.setAttribute("class", "outcome correct");
     }
     else {
-        outcome_container.classList.add("incorrect");
+        outcome_container.setAttribute("class", "outcome incorrect");
     }
 
     AskAQuestion();

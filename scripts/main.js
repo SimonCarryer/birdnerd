@@ -47,7 +47,7 @@ function PickBirdFromAudio(correct, selected) {
     image_container.appendChild(elem);
 
     var answers_container = document.getElementById("answer");
-    var answers = document.createElement("ol");
+    var answers = document.createElement("ul");
     for (const bird of Shuffle(selected)) {
         var answer = document.createElement("li");
         answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${bird.name}">${RenderName(bird)}</label>`;
@@ -62,7 +62,7 @@ function EnterNameFromAudio(correct, selected) {
     var sound = Shuffle(correct.sounds)[0]
     var image_container = document.getElementById("question");
     var q = document.createElement("p");
-    q.innerHTML = "Select the name of the bird heard in the following clip";
+    q.innerHTML = "Select the name of the bird heard in the following clip.";
     image_container.appendChild(q)
     var elem = document.createElement("audio");
     elem.setAttribute("src", sound);
@@ -81,16 +81,16 @@ function PickBirdFromPicture(correct, selected) {
     var image = Shuffle(correct.images)[0]
     var image_container = document.getElementById("question");
     var q = document.createElement("p");
-    q.innerHTML = "Select the name of the bird shown in the picture";
+    q.innerHTML = "Select the name of the bird shown in the picture.";
     image_container.appendChild(q)
     var elem = document.createElement("img");
     elem.setAttribute("src", image.href);
     elem.setAttribute("alt", image.alt);
-    elem.setAttribute("height", "200");
+    elem.setAttribute("class", "questionImage");
     image_container.appendChild(elem);
 
     var answers_container = document.getElementById("answer");
-    var answers = document.createElement("ol");
+    var answers = document.createElement("ul");
     for (const bird of Shuffle(selected)) {
         var answer = document.createElement("li");
         answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${bird.name}">${RenderName(bird)}</label>`;
@@ -107,17 +107,22 @@ function PickPictureFromBird(correct, selected) {
     image_container.appendChild(elem);
 
     var answers_container = document.getElementById("answer");
-    var answers = document.createElement("ol");
+    var answers = document.createElement("ul");
     for (const bird of Shuffle(selected)) {
         image = Shuffle(bird.images)[0]
         var answer = document.createElement("li");
         var img = document.createElement("img");
         img.setAttribute("src", image.href);
         img.setAttribute("alt", image.alt);
-        img.setAttribute("height", "100");
-        answer.appendChild(img);
-        var selector = document.createElement("p");
-        selector.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${bird.name}">Select</label>`;
+        img.setAttribute("class", "answerImage");
+        var selector = document.createElement("div");
+        var input = document.createElement("input");
+        input.setAttribute("type", "radio");
+        input.setAttribute("id", bird.name);
+        input.setAttribute("name", "answer");
+        input.setAttribute("value", bird.name);
+        selector.appendChild(input);
+        selector.appendChild(img);
         answer.appendChild(selector);
         answers.appendChild(answer);
     }
@@ -138,7 +143,7 @@ function PickMaoriName(correct, selected) {
     image_container.appendChild(q)
 
     var answers_container = document.getElementById("answer");
-    var answers = document.createElement("ol");
+    var answers = document.createElement("ul");
     for (const bird of Shuffle(selected)) {
         var answer = document.createElement("li");
         answer.innerHTML = `<input type="radio" id="${bird.maori_name}" name="answer" value="${bird.maori_name}"><label for="${bird.maori_name}">${capitalizeFirstLetter(bird.maori_name)}</label>`;
@@ -152,11 +157,11 @@ function PickMaoriName(correct, selected) {
 function PickEnglishName(correct, selected) {
     var image_container = document.getElementById("question");
     var q = document.createElement("p");
-    q.innerHTML = `Pick the English name for a ${capitalizeFirstLetter(correct.maori_name)}`;
+    q.innerHTML = `Pick the English name for a ${capitalizeFirstLetter(correct.maori_name)}.`;
     image_container.appendChild(q)
 
     var answers_container = document.getElementById("answer");
-    var answers = document.createElement("ol");
+    var answers = document.createElement("ul");
     for (const bird of Shuffle(selected)) {
         var answer = document.createElement("li");
         answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${capitalizeFirstLetter(bird.maori_name)}">${bird.name}</label>`;
@@ -206,12 +211,12 @@ function EnterNameFromPicture(correct, selected) {
     var image = Shuffle(correct.images)[0]
     var image_container = document.getElementById("question");
     var q = document.createElement("p");
-    q.innerHTML = "Enter the name of the bird shown in the picture";
+    q.innerHTML = "Enter the name of the bird shown in the picture.";
     image_container.appendChild(q)
     var elem = document.createElement("img");
     elem.setAttribute("src", image.href);
     elem.setAttribute("alt", image.alt);
-    elem.setAttribute("height", "200");
+    elem.setAttribute("class", "questionImage");
     image_container.appendChild(elem);
 
     var answers_container = document.getElementById("answer");
@@ -297,11 +302,12 @@ function alwaysWrong() {
 function revealBird(got_it_right) {
     var outcome = document.createElement("div");
     if (got_it_right) {
-        outcome.innerHTML = `<h2>Correct!</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
+        outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.`
     }
     else {
-        outcome.innerHTML = `<h2>Incorrect</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
+        outcome.innerHTML = `<p>Incorrect. It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.`
     }
+
     return outcome
 }
 
@@ -311,14 +317,14 @@ function revealPicture(got_it_right) {
     if (answer) {
         var selected = answer.value;
         if (got_it_right) {
-            outcome.innerHTML = `<h2>Correct!</h2><p>It was a ${RenderName(correct)}</p><a href="https://nzbirdsonline.org.nz/${correct.link}">More about this bird</a>`
+            outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.</p>`
         }
         else {
-            outcome.innerHTML = `<h2>Incorrect</h2><p>You selected a ${selected}</p>`
+            outcome.innerHTML = `<p>Incorrect. You selected a ${selected}.</p>`
         }
     }
     else {
-        outcome.innerHTML = `<p>Nothing was selected</p>`
+        outcome.innerHTML = `<p>Nothing was selected.</p>`
     }
     return outcome
 
@@ -370,7 +376,7 @@ function checkAnswer() {
     else {
         outcome_container.setAttribute("class", "outcome incorrect");
     }
-
+    window.scrollTo(0, 0);
     AskAQuestion();
 }
 

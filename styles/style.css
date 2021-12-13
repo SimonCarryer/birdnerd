@@ -64,7 +64,7 @@ button {
 }
 
 .answerImage {
-    width: 200;
+    width: 50%;
     vertical-align: middle;
     padding-right: 20px;
 }
@@ -82,6 +82,7 @@ li {
     padding: 10px;
     font-size: 10pt;
     width: 100%;
+    align-self: flex-start;
 }
 
 @media screen and (orientation:landscape) {
@@ -117,3 +118,32 @@ li {
 }
 }
 
+@media (min-width: 858px) {
+    html {
+        font-size: 12px;
+    }
+}
+ 
+@media (min-width: 780px) {
+    html {
+        font-size: 11px;
+    }
+}
+ 
+@media (min-width: 702px) {
+    html {
+        font-size: 10px;
+    }
+}
+ 
+@media (min-width: 624px) {
+    html {
+        font-size: 9px;
+    }
+}
+ 
+@media (max-width: 623px) {
+    html {
+        font-size: 8px;
+    }
+}

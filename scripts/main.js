@@ -62,7 +62,7 @@ function EnterNameFromAudio(correct, selected) {
     var sound = Shuffle(correct.sounds)[0]
     var image_container = document.getElementById("question");
     var q = document.createElement("p");
-    q.innerHTML = "Select the name of the bird heard in the following clip.";
+    q.innerHTML = "Enter the name of the bird heard in the following clip.";
     image_container.appendChild(q)
     var elem = document.createElement("audio");
     elem.setAttribute("src", sound);

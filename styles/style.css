@@ -88,9 +88,10 @@ li {
 @media screen and (orientation:landscape) {
 
 .content {
-    width: 50%;
+    width: 30%;
     margin: 0 auto;
     background-color: whitesmoke;
+    font-size: 12pt;
 }
 
 .controls {
@@ -116,34 +117,4 @@ li {
 .outcome.correct {
     background-color: lightgreen;
 }
-}
-
-@media (min-width: 858px) {
-    html {
-        font-size: 12px;
-    }
-}
- 
-@media (min-width: 780px) {
-    html {
-        font-size: 11px;
-    }
-}
- 
-@media (min-width: 702px) {
-    html {
-        font-size: 10px;
-    }
-}
- 
-@media (min-width: 624px) {
-    html {
-        font-size: 9px;
-    }
-}
- 
-@media (max-width: 623px) {
-    html {
-        font-size: 8px;
-    }
 }

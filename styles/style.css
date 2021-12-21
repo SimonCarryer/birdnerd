@@ -85,6 +85,22 @@ li {
     align-self: flex-start;
 }
 
+.final {
+    margin: 5px;
+}
+
+.finalImageBox {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow: hidden;
+    height: 330px;
+}
+
+.finalImage {
+    width: 33.333%;
+}
+
 @media screen and (orientation:landscape) {
 
 .content {

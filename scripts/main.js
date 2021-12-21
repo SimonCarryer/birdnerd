@@ -31,6 +31,8 @@ function ClearOptions() {
     answers_container.innerHTML = "";
     var image_container = document.getElementById("question");
     image_container.innerHTML = "";
+    var final = document.getElementById("final");
+    final.innerHTML = "";
 }
 
 
@@ -139,14 +141,6 @@ function revealPicture(got_it_right) {
 
 function AskAQuestion() {
     ClearOptions()
-    birds = []
-    for (const bird of data) {
-        if (bird.category.includes(category)) {
-            birds.push(bird)
-        }
-    }
-
-    const questions = levels[level]
     const question = Shuffle(questions)[0]
 
     if ([PickOtherLanguageName, EnterOtherLanguageName].includes(question)) {
@@ -160,11 +154,24 @@ function AskAQuestion() {
         selected = Shuffle(birds).slice(0, 5);
         correct = selected[0];
     }
-    // Get sub-array of first n elements after shuffled
-    selected = Shuffle(birds).slice(0, 5);
-    correct = selected[0];
+    else {
+        // Get sub-array of first n elements after shuffled
+        selected = Shuffle(birds).slice(0, 5);
+        correct = selected[0];
+    }
+    usedBirds.push(correct)
     question(correct, selected)
-
+    if (numberOfQuestions == totalQuestions - 1) {
+        let button = document.getElementById("action");
+        button.innerHTML = "Finish"
+    }
+    else if (numberOfQuestions > totalQuestions) {
+        restartGame()
+    }
+    else {
+        let button = document.getElementById("action");
+        button.innerHTML = "Submit"
+    }
 }
 
 function checkAnswer() {
@@ -195,22 +202,47 @@ function checkAnswer() {
 }
 
 function restartGame() {
-    totalQuestions = 2;
+    totalQuestions = 10;
     numberOfQuestions = 0;
     correctCount = 0;
+    usedBirds = [];
     category = document.getElementById("categories").value;
     level = document.getElementById("levels").value;
     var outcome_container = document.getElementById("outcome");
     outcome_container.innerHTML = "";
+
+    birds = []
+    for (const bird of data) {
+        if (bird.category.includes(category)) {
+            birds.push(bird)
+        }
+    }
+    questions = levels[level]
     AskAQuestion()
 }
 
 function endGame() {
     ClearOptions()
-    var outcome_container = document.getElementById("outcome");
-    let finalScore = document.createElement("p");
-    finalScore.innerHTML = `Category: ${category}<br>Level: ${level}<br>Score: ${correctCount}/${totalQuestions}`;
-    outcome_container.appendChild(finalScore);
+    var final = document.getElementById("final");
+    let finalScore = document.createElement("h2");
+    finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions}`
+    let cats = document.createElement("p");
+    cats.innerHTML = `Category: ${category}<br>Level: ${level}`;
+    final.appendChild(finalScore);
+    let imageBox = document.createElement("div");
+    imageBox.setAttribute("class", "finalImageBox")
+    for (const bird of usedBirds) {
+        let image = Shuffle(bird.images)[0];
+        let elem = document.createElement("img");
+        elem.setAttribute("src", image.href);
+        elem.setAttribute("src", image.href);
+        elem.setAttribute("class", "finalImage");
+        imageBox.appendChild(elem);
+    }
+    final.appendChild(imageBox);
+    final.appendChild(cats);
+    let button = document.getElementById("action");
+    button.innerHTML = "Try again"
 }
 
 

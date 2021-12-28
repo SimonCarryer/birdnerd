@@ -1,4 +1,15 @@
 
+function RenderImage(bird) {
+    var image = Shuffle(bird.images)[0]
+    var elem = document.createElement("img");
+    elem.setAttribute("src", image.href);
+    elem.setAttribute("alt", image.alt);
+    elem.setAttribute("title", image.alt);
+    var link = document.createElement("a")
+    link.setAttribute("href", `http://nzbirdsonline.org.nz${bird.link}`)
+    link.appendChild(elem)
+    return link
+}
 
 function PickBirdFromAudio(correct, selected) {
     var sound = Shuffle(correct.sounds)[0]
@@ -43,14 +54,11 @@ function EnterNameFromAudio(correct, selected) {
 }
 
 function PickBirdFromPicture(correct, selected) {
-    var image = Shuffle(correct.images)[0]
     var image_container = document.getElementById("question");
     var q = document.createElement("p");
     q.innerHTML = "Select the name of the bird shown in the picture.";
     image_container.appendChild(q)
-    var elem = document.createElement("img");
-    elem.setAttribute("src", image.href);
-    elem.setAttribute("alt", image.alt);
+    var elem = RenderImage(correct);
     elem.setAttribute("class", "questionImage");
     image_container.appendChild(elem);
 
@@ -74,11 +82,8 @@ function PickPictureFromBird(correct, selected) {
     var answers_container = document.getElementById("answer");
     var answers = document.createElement("ul");
     for (const bird of Shuffle(selected)) {
-        image = Shuffle(bird.images)[0]
         var answer = document.createElement("li");
-        var img = document.createElement("img");
-        img.setAttribute("src", image.href);
-        img.setAttribute("alt", image.alt);
+        var img = RenderImage(bird)
         img.setAttribute("class", "answerImage");
         var selector = document.createElement("div");
         var input = document.createElement("input");
@@ -173,14 +178,11 @@ function EnterEnglishName(correct, selected) {
 }
 
 function EnterNameFromPicture(correct, selected) {
-    var image = Shuffle(correct.images)[0]
     var image_container = document.getElementById("question");
     var q = document.createElement("p");
     q.innerHTML = "Enter the name of the bird shown in the picture.";
     image_container.appendChild(q)
-    var elem = document.createElement("img");
-    elem.setAttribute("src", image.href);
-    elem.setAttribute("alt", image.alt);
+    var elem = RenderImage(correct)
     elem.setAttribute("class", "questionImage");
     image_container.appendChild(elem);
 

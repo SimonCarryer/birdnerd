@@ -59,11 +59,11 @@ button {
     font-size: 18pt;
 }
 
-.questionImage {
+.questionImage * {
     width: 100%;
 }
 
-.answerImage {
+.answerImage * {
     width: 50%;
     vertical-align: middle;
     padding-right: 20px;

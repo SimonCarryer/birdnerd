@@ -170,7 +170,7 @@ function AskAQuestion() {
     }
     else {
         let button = document.getElementById("action");
-        button.innerHTML = "Submit"
+        button.innerHTML = "Next"
     }
 }
 

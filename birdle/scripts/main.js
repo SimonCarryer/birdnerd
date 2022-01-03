@@ -18,8 +18,13 @@ function mulberry32(a) {
 
 // Shuffle array
 function Shuffle(array) {
-    const shuffled = array.sort(() => 0.5 - rand());
-    return shuffled;
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(rand() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+    return array
 }
 
 function capitalizeFirstLetter(string) {
@@ -140,7 +145,6 @@ function restartGame() {
     for (let i = 0; i < totalQuestions; i++) {
         questions.push(BuildQuestion(levels[i], categories[i]))
     }
-    console.log(questions.length)
     var outcome_container = document.getElementById("outcome");
     outcome_container.innerHTML = "";
     AskAQuestion()

@@ -1,5 +1,5 @@
 
-levels = {
+questionsByLevel = {
     "Egg": [PickBirdFromPicture, PickPictureFromBird],
     "Fledgeling": [EnterNameFromPicture, PickBirdFromPicture, PickPictureFromBird, PickOtherLanguageName],
     "Flapper": [PickBirdFromAudio, EnterNameFromPicture, PickPictureFromBird, PickOtherLanguageName],
@@ -15,8 +15,6 @@ function mulberry32(a) {
         return ((t ^ t >>> 14) >>> 0) / 4294967296;
     }
 }
-
-rand = mulberry32(0)
 
 // Shuffle array
 function Shuffle(array) {
@@ -47,9 +45,9 @@ function ClearOptions() {
 }
 
 function BuildQuestion(level, category) {
-    const question = Shuffle(levels[level])[0]
+    const question = Shuffle(questionsByLevel[level])[0]
     if ([PickOtherLanguageName, EnterOtherLanguageName].includes(question)) {
-        birds = []
+        var birds = []
         for (const bird of data) {
             if (bird.category.includes(category) & bird.hasOwnProperty("maori_name") & !usedBirds.includes(bird)) {
                 birds.push(bird)
@@ -57,9 +55,10 @@ function BuildQuestion(level, category) {
         }
         var selected = Shuffle(birds).slice(0, 5);
         var correct = selected[0];
+        usedBirds.push(correct);
     }
     else {
-        birds = []
+        var birds = []
         for (const bird of data) {
             if (bird.category.includes(category) & !usedBirds.includes(bird)) {
                 birds.push(bird)
@@ -67,6 +66,7 @@ function BuildQuestion(level, category) {
         }
         var selected = Shuffle(birds).slice(0, 5);
         var correct = selected[0];
+        usedBirds.push(correct);
     }
     return [question, correct, selected]
 }
@@ -74,6 +74,9 @@ function BuildQuestion(level, category) {
 
 function AskAQuestion() {
     ClearOptions()
+    if (numberOfQuestions >= totalQuestions) {
+        restartGame()
+    }
     elements = questions[numberOfQuestions]
     question = elements[0];
     correct = elements[1];
@@ -82,9 +85,6 @@ function AskAQuestion() {
     if (numberOfQuestions == totalQuestions - 1) {
         let button = document.getElementById("action");
         button.innerHTML = "Finish"
-    }
-    else if (numberOfQuestions > totalQuestions) {
-        restartGame()
     }
     else {
         let button = document.getElementById("action");
@@ -119,17 +119,28 @@ function checkAnswer() {
     }
 }
 
+monthNames = ["January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+];
+
 function restartGame() {
+    var today = new Date();
+    var dateText = `${today.getDate()} ${monthNames[today.getMonth()]} ${today.getFullYear()}`;
+    var dateInt = parseInt(`${today.getFullYear()}${today.getMonth() + 1}${today.getDate()}`);
+    let header = document.getElementById("title");
+    header.innerHTML = `Daily Birdle for ${dateText}`
+    rand = mulberry32(dateInt)
     totalQuestions = 10;
     numberOfQuestions = 0;
     correctCount = 0;
     usedBirds = [];
     questions = [];
-    category = document.getElementById("categories").value;
-    level = document.getElementById("levels").value;
-    for (let i = 0; i <= totalQuestions; i++) {
-        questions.push(BuildQuestion(level, category))
+    const categories = Shuffle(["Forest (native or plantation)", "At sea (or dead on a beach)", "Coastal", "Lake, river or wetland", "Urban park or garden", "Urban park or garden", "Urban park or garden", "Mountain", "Harbour, estuary or rivermouth", "Farmland or horticultural block", "Farmland or horticultural block"])
+    const levels = ["Egg", "Egg", "Egg", "Fledgeling", "Fledgeling", "Fledgeling", "Flapper", "Flapper", "Bird brain", "True bird nerd", "True bird nerd", "True bird nerd"]
+    for (let i = 0; i < totalQuestions; i++) {
+        questions.push(BuildQuestion(levels[i], categories[i]))
     }
+    console.log(questions.length)
     var outcome_container = document.getElementById("outcome");
     outcome_container.innerHTML = "";
     AskAQuestion()
@@ -139,38 +150,11 @@ function endGame() {
     ClearOptions()
     var final = document.getElementById("final");
     let finalScore = document.createElement("h2");
-    finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions}`
-    let cats = document.createElement("p");
-    cats.innerHTML = `Category: ${category}<br>Level: ${level}`;
+    finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions} `
     final.appendChild(finalScore);
-    let imageBox = document.createElement("div");
-    imageBox.setAttribute("class", "finalImageBox")
-    for (const bird of usedBirds) {
-        let image = Shuffle(bird.images)[0];
-        let elem = document.createElement("img");
-        elem.setAttribute("src", image.href);
-        elem.setAttribute("src", image.href);
-        elem.setAttribute("class", "finalImage");
-        imageBox.appendChild(elem);
-    }
-    final.appendChild(imageBox);
-    final.appendChild(cats);
     let button = document.getElementById("action");
-    button.innerHTML = "Try again"
+    button.remove();
 }
-
-
-var categories = document.getElementById("categories");
-
-categories.addEventListener("change", function () {
-    restartGame()
-});
-
-var l = document.getElementById("levels");
-
-l.addEventListener("change", function () {
-    restartGame()
-});
 
 check_function = alwaysWrong
 reveal_answer = revealBird

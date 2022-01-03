@@ -150,6 +150,10 @@ function endGame() {
     ClearOptions()
     var final = document.getElementById("final");
     let finalScore = document.createElement("h2");
+    let bird = Shuffle(usedBirds)[0]
+    let img = RenderImage(bird)
+    img.setAttribute("class", "finalImage");
+    final.appendChild(img);
     finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions} `
     final.appendChild(finalScore);
     let button = document.getElementById("action");

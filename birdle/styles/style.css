@@ -3,6 +3,10 @@ body {
     font-size: 18pt;
 }
 
+.title {
+    padding: 5px;
+}
+
 .outcome .outcome-content {
     padding: 10px;
 }
@@ -89,16 +93,8 @@ li {
     margin: 5px;
 }
 
-.finalImageBox {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    overflow: hidden;
-    height: 330px;
-}
-
-.finalImage {
-    width: 33.333%;
+.finalImage * {
+    width: 100%;
 }
 
 @media screen and (orientation:landscape) {

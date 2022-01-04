@@ -97,6 +97,10 @@ li {
     width: 100%;
 }
 
+.finalAttribution {
+    font-size: small;
+}
+
 @media screen and (orientation:landscape) {
 
 .content {

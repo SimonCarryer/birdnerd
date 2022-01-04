@@ -164,12 +164,18 @@ function restartGame() {
 
 function endGame() {
     ClearOptions()
+    var outcome_container = document.getElementById("outcome");
+    outcome_container.remove();
     var final = document.getElementById("final");
-    let finalScore = document.createElement("h2");
     let bird = Shuffle(usedBirds)[0]
     let img = RenderImage(bird)
     img.setAttribute("class", "finalImage");
     final.appendChild(img);
+    let title = document.createElement("div");
+    title.setAttribute("class", "finalAttribution")
+    title.innerHTML = img.firstChild.getAttribute("title");
+    final.appendChild(title);
+    let finalScore = document.createElement("h2");
     finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions} `
     final.appendChild(finalScore);
     let button = document.getElementById("action");

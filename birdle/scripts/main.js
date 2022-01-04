@@ -97,6 +97,8 @@ function AskAQuestion() {
     if (numberOfQuestions >= totalQuestions) {
         restartGame()
     }
+    var final = document.getElementById("question");
+    final.innerHTML = `<b>Question ${numberOfQuestions + 1} of ${totalQuestions}</b>`
     elements = questions[numberOfQuestions]
     question = elements[0];
     correct = elements[1];
@@ -131,9 +133,6 @@ function checkAnswer() {
         endGame()
     }
     else {
-        let counter = document.createElement("div");
-        counter.innerHTML = `Your score: ${correctCount}, ${totalQuestions - numberOfQuestions} questions remaining.`;
-        outcome.appendChild(counter);
         window.scrollTo(0, 0);
         AskAQuestion();
     }

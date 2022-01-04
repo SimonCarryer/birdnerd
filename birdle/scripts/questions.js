@@ -1,15 +1,5 @@
 
-function RenderImage(bird) {
-    var image = Shuffle(bird.images)[0]
-    var elem = document.createElement("img");
-    elem.setAttribute("src", image.href);
-    elem.setAttribute("alt", image.alt);
-    elem.setAttribute("title", image.alt);
-    var link = document.createElement("a")
-    link.setAttribute("href", `http://nzbirdsonline.org.nz${bird.link}`)
-    link.appendChild(elem)
-    return link
-}
+
 
 function PickBirdFromAudio(correct, selected) {
     var sound = Shuffle(correct.sounds)[0]

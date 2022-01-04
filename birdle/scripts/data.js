@@ -60,19 +60,9 @@ data = [
                 "copyright": "Adam Clarke"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120047NI%20Brown%20Kiwi%20nest%20JAMIESON.jpg",
-                "alt": "North Island brown kiwi. Nest with 3 eggs. Hauraki Gulf island, November 2010. Image &copy; Sarah Jamieson by Sarah Jamieson",
-                "copyright": "Sarah Jamieson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120047OR.012785%23a~v%201~Apteryx%20australis%20%20mantelli.jpg",
                 "alt": "North Island brown kiwi. Egg 129.3 x 82.9 mm (NMNZ OR.012785/a, collected by NZ Wildlife Service). Whangarei, August 1967. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120047NI%20Brown%20Kiwi%20chick%20in%20nest%20JAMIESON.jpg",
-                "alt": "North Island brown kiwi. Chick and egg in nest. Hauraki Gulf island, September 2011. Image &copy; Sarah Jamieson by Sarah Jamieson",
-                "copyright": "Sarah Jamieson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200471000th%20Chick.jpg",
@@ -165,8 +155,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/kiwi%20male%2020170616_213008.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Forest (native or plantation)"
         ],
         "other_names": [
             "brown kiwi"
@@ -349,21 +339,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120049Stewart%20Isl.%20Cavalier%200507-82.JPG",
                 "alt": "Southern brown kiwi. Adult Stewart Island kiwi. Masons Bay, Stewart Island, May 2007. Image &copy; Dave Saunders by Dave Saunders",
                 "copyright": "Dave Saunders"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120049Birds%20online%20CD1%20010.jpg",
-                "alt": "Southern brown kiwi. South Island brown kiwi egg in front of nest burrow. Takahe Valley, Te Anau, December 1963. Image &copy; Department of Conservation ( image ref: 10031599 ) by Peter Morrison Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120049Birds%20online%20CD1%20069.jpg",
-                "alt": "Southern brown kiwi. Haast tokoeka egg . Investigation Creek, South Westland, October 2002. Image &copy; Department of Conservation ( image ref: 10051733 ) by Chrissy Wickes Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120049OR.014963~v%201~Apteryx%20australis%20%20lawryi.jpg",
-                "alt": "Southern brown kiwi. Stewart Island kiwi egg 134.2 x 83.2 mm (NMNZ OR.014963, collected by Mike Soper). Cook's Arm, Port Pegasus, Stewart Island, October 1969. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120049Haast-Kiwi_Willowbank_4255-SBernert.jpg",
@@ -563,6 +538,7 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "plumed quail",
+            "quail",
             "McPherson quail",
             "california quail"
         ],
@@ -601,11 +577,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120052MLM_0675eded.jpg",
                 "alt": "California quail. Adult pair (male on left). Whitford area, Auckland, February 2016. Image &copy; Marie-Louise Myburgh by Marie-Louise Myburgh",
                 "copyright": "Marie-Louise Myburgh"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120052IMGP0188a.jpg",
-                "alt": "California quail. Nest with 13 eggs. Kerikeri, January 2012. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120052OR.012021~v%201~Lophortyx%20californica%20n.jpg",
@@ -794,10 +765,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202168%20California%20Quail.mp3"
         ],
         "category": [
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
-            "Lake, river or wetland",
-            "Farmland or horticultural block"
+            "Urban park or garden",
+            "Lake, river or wetland"
         ]
     },
     {
@@ -1021,8 +992,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/41a_0.mp3"
         ],
         "category": [
-            "Mountain",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Mountain"
         ]
     },
     {
@@ -1265,11 +1236,6 @@ data = [
                 "copyright": "John and Melody Anderson, Wayfarer International Ltd"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120062Pheasant%20nest1%200901.JPG",
-                "alt": "Common pheasant. Nest with 13 eggs. Waikato, January 2009. Image &copy; Joke Baars by Joke Baars",
-                "copyright": "Joke Baars"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120062OR.026496~v%201~Phasianus%20colchicus.jpg",
                 "alt": "Common pheasant. Egg 41.4 x 33.9 mm (NMNZ OR.026496, collected by Arnold Wells). Taranaki. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -1312,10 +1278,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201628%20Pheasant.mp3"
         ],
         "category": [
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
-            "Lake, river or wetland",
-            "Farmland or horticultural block"
+            "Urban park or garden",
+            "Lake, river or wetland"
         ],
         "maori_name": "peihana"
     },
@@ -2192,10 +2158,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201937%20Feral%20Goose.mp3"
         ],
         "category": [
+            "Farmland or horticultural block",
             "Coastal",
             "Chatham Islands (not at sea)",
-            "Lake, river or wetland",
-            "Farmland or horticultural block"
+            "Lake, river or wetland"
         ],
         "maori_name": "kuihi"
     },
@@ -2277,16 +2243,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120074DSC_0040.JPG",
                 "alt": "Canada goose. Flock in flight. Ashley estuary, Canterbury, February 2011. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120074canada%20eggs.jpg",
-                "alt": "Canada goose. Nest with 10 eggs. Lake Ellesmere, September 1972. Image &copy; Department of Conservation ( image ref: 10046960 ) by Rod Morris, Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120074Somes%20Island%20Oct%202010%20098.jpg",
-                "alt": "Canada goose. Nest with 3 eggs. Mokopuna Island, Wellington Harbour, October 2010. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120074OR.xxxx2~v%202~Branta%20canadensis.jpg",
@@ -2400,10 +2356,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20444%20Canada%20Goose.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
             "Coastal",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -2670,14 +2626,14 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/04%20-%20Track%204_3.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
-            "Forest (native or plantation)",
-            "Mountain",
+            "Farmland or horticultural block",
             "Coastal",
-            "Chatham Islands (not at sea)"
+            "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
+            "Chatham Islands (not at sea)",
+            "Mountain"
         ],
         "maori_name": "p\u016btangitangi"
     },
@@ -3313,8 +3269,8 @@ data = [
         "category": [
             "Harbour, estuary or rivermouth",
             "Coastal",
-            "Lake, river or wetland",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Lake, river or wetland"
         ],
         "maori_name": "p\u0101teke"
     },
@@ -3543,16 +3499,6 @@ data = [
                 "copyright": "Ingrid Hutzler"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120090CI%20Teal%20eggs%200401%20Codfish.JPG",
-                "alt": "Campbell Island teal. Four eggs in nest. Codfish Island, January 2004. Image &copy; Ingrid Hutzler by Ingrid Hutzler",
-                "copyright": "Ingrid Hutzler"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120090CI%20Teal%20nest%200401%20Codfish.JPG",
-                "alt": "Campbell Island teal. Nest with eggs. Codfish Island, January 2004. Image &copy; Ingrid Hutzler by Ingrid Hutzler",
-                "copyright": "Ingrid Hutzler"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120090OR.026381~v%201~Anas%20aucklandica%20nesiotis.jpg",
                 "alt": "Campbell Island teal. Egg 70.0 x 43.3 mm (NMNZ OR.026381, collected by Karen Barlow). Mt Bruce Wildlife Reserve, October 1999. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -3761,11 +3707,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120092Mallard%20nest%20with%205%20eggs.JPG",
-                "alt": "Mallard. Nest with 5 eggs. Wellington, December 2008. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120092OR.007446~v%202~Anas%20platyrhynchos%20f.jpg",
                 "alt": "Mallard. Clutch (NMNZ OR.007446, collected by Robert Falla). Rangitikei River, September 1952. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -3874,12 +3815,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202315%20Mallard%20X%20Grey%20Duck.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Coastal",
+            "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -4238,10 +4179,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/15%20-%20Track%2015_10.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
             "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "kuruwhengi"
@@ -4536,31 +4477,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120099IMG_9704.JPG",
                 "alt": "Australasian crested grebe. Adult standing on nesting platform. Lake Wanaka, January 2015. Image &copy; Oscar Thomas by Oscar Thomas https://www.flickr.com/photos/kokakola11",
                 "copyright": "Oscar Thomas"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120099C%20grebe%201025s.jpg",
-                "alt": "Australasian crested grebe. Adult settling on a nest with 2 eggs. Lake Wanaka, January 2015. Image &copy; Nathan Hill by Nathan Hill Photo taken by Nathan Hill",
-                "copyright": "Nathan Hill"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120099KR1_7101.jpg",
-                "alt": "Australasian crested grebe. Female laying an egg. Kaiapoi, January 2018. Image &copy; Kathy Reid by Kathy Reid www.kathyreidphotography.com",
-                "copyright": "Kathy Reid"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120099KR1_7118.jpg",
-                "alt": "Australasian crested grebe. Male inspecting the first laid egg. Kaiapoi, January 2018. Image &copy; Kathy Reid by Kathy Reid www.kathyreidphotography.com",
-                "copyright": "Kathy Reid"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120099PC030003.JPG",
-                "alt": "Australasian crested grebe. Nest with eggs. Kaituna River, December 2010. Image &copy; Anita Spencer by Anita Spencer",
-                "copyright": "Anita Spencer"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120099Grebe%2C%20nest%20%26%20eggs.jpg",
-                "alt": "Australasian crested grebe. Adult approaching nest with three eggs. Lake Te Anau, February 2015. Image &copy; Robbie Leslie by Robbie Leslie",
-                "copyright": "Robbie Leslie"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120099OR.019284~v%201~Podiceps%20cristatus%20australis%20b.jpg",
@@ -5044,11 +4960,6 @@ data = [
                 "copyright": "Mark Fraser"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112Rockhopantip005web2000.jpg",
-                "alt": "Eastern rockhopper penguin. Breeding pair incubating egg. Antipodes Island, October 1995. Image &copy; Terry Greene by Terry Greene",
-                "copyright": "Terry Greene"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112Rockhopper%20penguins%20Anchorage%20Bay%20Antipodes%20I%203%20Nov%201995%20%28A%20Tennyson%29.JPG",
                 "alt": "Eastern rockhopper penguin. Incubating pair. Anchorage Bay, Antipodes Island, November 1995. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -5067,16 +4978,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112Birds%20online%20CD2%20006.jpg",
                 "alt": "Eastern rockhopper penguin. Front view of adult on nest. Antipodes Islands, November 1978. Image &copy; Department of Conservation ( image ref: 10035673 ) by John Kendrick Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112Birds%20online%20CD2%20021.jpg",
-                "alt": "Eastern rockhopper penguin. Adult on nest with egg. Antipodes Islands, November 1978. Image &copy; Department of Conservation ( image ref: 10033894 ) by John Kendrick Department of Conservation   Courtesy of Department&nbsp;Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112DSC_0555.jpg",
-                "alt": "Eastern rockhopper penguin. Adult female scratching (smaller first-laid egg in anterior position). Penguin Bay, Campbell Island, November 2010. Image &copy; Kyle Morrison by Kyle Morrison",
-                "copyright": "Kyle Morrison"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112OR.021486~v%201~Eudyptes%20c%20chrysocome.jpg",
@@ -5228,8 +5129,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/17%20-%20Rockhopper%20Penguin.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)"
+            "Chatham Islands (not at sea)",
+            "Coastal"
         ],
         "other_names": [
             "eastern rockhopper penguin"
@@ -5324,21 +5225,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200114C031.jpg",
                 "alt": "Fiordland crested penguin. Incubating adult. Taumaka, Open Bay Islands, August 1985. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200114Birds%20online%20CD2%20014.jpg",
-                "alt": "Fiordland crested penguin. Adults at nest with eggs. Open Bay Islands. Image &copy; Department of Conservation ( image ref: 10030979 ) by P. Thomson Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200114fcp1%20new.jpg",
-                "alt": "Fiordland crested penguin. Adult at nest with 2 eggs. Open Bay Islands, August 1985. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200114Birds%20online%20CD2%20016.jpg",
-                "alt": "Fiordland crested penguin. Adult on nest with 2 eggs. Fiordland. Image &copy; Department of Conservation ( image ref: 10033863 )  by Allan Munn Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200114OR.007941~v%201~Eudyptes%20pachyrhynchus.jpg",
@@ -5501,11 +5387,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115scp1.jpg",
-                "alt": "Snares crested penguin. Pair with hatching eggs (6 weeks later than main islands). Toru Islet, Western Chain, Snares Islands, December 1984. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115_DSC3428.jpg",
                 "alt": "Snares crested penguin. Adult swimming home. Off Snares Islands, December 2014. Image &copy; Douglas Gimesy by Douglas Gimesy www.gimesy.com",
                 "copyright": "Douglas Gimesy"
@@ -5519,16 +5400,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115Birds%20online%20CD2%20025.jpg",
                 "alt": "Snares crested penguin. Adult on nest. Snares Islands, November 1983. Image &copy; Department of Conservation ( image ref: 10033368 ) by Rod Morris Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115Snares%20penguin%20Snares%2020%20Nov%201986%20%28A%20Tennyson%29.JPG",
-                "alt": "Snares crested penguin. Adult with 2 eggs. Snares Islands, November 1986. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115Snares%20crested%20penguins%20Snares%2020%20Nov%201986%20%28A%20Tennyson%29.JPG",
-                "alt": "Snares crested penguin. Adult pair with 2 eggs. Snares Islands, November 1986. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115OR.026840~v%201~Eudyptes%20robustus.jpg",
@@ -5626,11 +5497,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115C026.jpg",
-                "alt": "Snares crested penguin. Breeding colony at peak egg-laying. North East Island, Snares Islands, September 1985. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115C021.jpg",
                 "alt": "Snares crested penguin. Adults returning from the sea. North East Island, Snares Islands, January 1985. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -5713,8 +5579,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/15%20-%20Track%2015_4.mp3"
         ],
         "category": [
-            "Coastal",
-            "Chatham Islands (not at sea)"
+            "Chatham Islands (not at sea)",
+            "Coastal"
         ]
     },
     {
@@ -5846,26 +5712,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116IMG_4407a%20new1a.JPG",
                 "alt": "Erect-crested penguin. Pair of adults at a nest site. Antipodes Island, March 2009. Image &copy; Mark Fraser by Mark Fraser",
                 "copyright": "Mark Fraser"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116Erect%20Crested%20Penguins_2012_10%2C%20Bounty%20Is%20021.jpg",
-                "alt": "Erect-crested penguin. Pair at nest with egg (male on nest). Bounty Islands, October 2012. Image &copy; Paul Sagar by Paul Sagar",
-                "copyright": "Paul Sagar"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116Erect-crested%20Penguins_Proclamation%20Island%2C%20Oct%202013-2.JPG",
-                "alt": "Erect-crested penguin. Pair at nest (male on left), showing extreme egg size difference. Proclamation Island, Bounty Islands, October 2013. Image &copy; Paul Sagar by Paul Sagar",
-                "copyright": "Paul Sagar"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116Ec%20penguin%20egg%20dimorphism.jpg",
-                "alt": "Erect-crested penguin. Adult at nest with eggs showing extreme size dimorphism between fresh second egg and stained first egg. Antipodes Island, October 1990. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116ecp1.jpg",
-                "alt": "Erect-crested penguin. Pair at nest with eggs showing extreme size difference eggs. Antipodes Island, October 1990. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116OR.001620~v%201~Eudyptes%20sclateri.jpg",
@@ -6075,11 +5921,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200119OR.019100~v%201~Megadyptes%20antipodes.jpg",
                 "alt": "Yellow-eyed penguin. Egg 78.6 x 55.9 mm (NMNZ OR.019100, collected by Jack Sorensen). Campbell Island, November 1942. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200119YEP%20chick%20%26%20egg.jpg",
-                "alt": "Yellow-eyed penguin. Chick c.7-days-old and infertile egg. Catlins, December 2004. Image &copy; Cheryl Pullar by Cheryl Pullar",
-                "copyright": "Cheryl Pullar"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200119Yellow%20eyed%20penguin%20chicks.jpg",
@@ -6382,11 +6223,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121Little%20penguin19.jpg",
                 "alt": "Little penguin. Adult coming onshore. Poor Knights Islands, November 1977. Image &copy; Albert Aanensen by Albert Aanensen",
                 "copyright": "Albert Aanensen"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121Oiled_Wildlife_Response_team__oiled_Penguin_on_eggs_in_nest_on_Mauao.jpg",
-                "alt": "Little penguin. Adult on nest with oil on feathers and eggs. Mauao, Mt Maunganui, Bay of Plenty, November 2001. Image &copy; Paul Cuming by Paul Cuming",
-                "copyright": "Paul Cuming"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121Birds%20online%20CD2%20005.jpg",
@@ -6771,11 +6607,6 @@ data = [
                 "copyright": "Jenny Atkins"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200123IMGP1302.JPG",
-                "alt": "Antipodean albatross. Female on nest with egg. Campbell Island, January 2007. Image &copy; Ian Armitage by Ian Armitage",
-                "copyright": "Ian Armitage"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200123OR.006719~v%201~Diomedea%20antipodensis.jpg",
                 "alt": "Antipodean albatross. Egg 121.1 x 78.3 mm (NMNZ OR.006719, collected by Captain John Bollons). Antipodes Island, January 1901. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -6839,11 +6670,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200123Antipwandalb005web2000.jpg",
                 "alt": "Antipodean albatross. Adult male and female plus offspring. Antipodes Island, October 1996. Image &copy; Terry Greene by Terry Greene",
                 "copyright": "Terry Greene"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200123Antipodean%20Wandering%20Albatross%20pair%2C%20Antipodes%20Island%20new.JPG",
-                "alt": "Antipodean albatross. Adult female on nest incubating an egg (left) with adult male (right) beside nest. Antipodes Island, February 2009. Image &copy; Mark Fraser by Mark Fraser",
-                "copyright": "Mark Fraser"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200123AK0D6945-3.jpg",
@@ -7000,24 +6826,9 @@ data = [
                 "copyright": "Kyle Morrison"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200126Royal%20albatross%20on%20egg%20NCol%20Campbell%20I%2028%20Jan%201993%20%28A%20Tennyson%29.JPG",
-                "alt": "Southern royal albatross. Adult incubating egg in nest. North Col, Campbell Island, January 1993. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200126Southern%20royal%20albatross%202%2C%20Enderby%20I.jpg",
                 "alt": "Southern royal albatross. Adult on nest. Enderby Island,  Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200126NZ%20Birds%20Online%20-%20not%20RHP%20-%20Morrison%20-%2036.jpg",
-                "alt": "Southern royal albatross. Adult turning egg in nest with snow around. Campbell Island, December 2010. Image &copy; Kyle Morrison by Kyle Morrison",
-                "copyright": "Kyle Morrison"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200126Copy%20of%20IMG_1932%20%28Large%29.JPG",
-                "alt": "Southern royal albatross. Adult at nest with egg. Enderby Island, Auckland Islands, November 2009. Image &copy; Kate Beer by Kate Beer &nbsp;",
-                "copyright": "Kate Beer"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200126OR.019063~v%201~Diomedea%20e%20epomophora.jpg",
@@ -7229,21 +7040,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200127IMG_1974anew.JPG",
-                "alt": "Northern royal albatross. Pair of adults at a nest with egg. Forty Fours,  Chatham Islands, December 2009. Image &copy; Mark Fraser by Mark Fraser",
-                "copyright": "Mark Fraser"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200127IMG_2329bnew.JPG",
-                "alt": "Northern royal albatross. Adult on nest with egg. Forty Fours,  Chatham Islands, December 2009. Image &copy; Mark Fraser by Mark Fraser",
-                "copyright": "Mark Fraser"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200127Birds%20online%20CD2%20047.jpg",
-                "alt": "Northern royal albatross. Adult on egg in nest. Little Sister Island, Chatham Islands, February 1995. Image &copy; Department of Conservation ( image ref: 10024809 ) by Chris Robertson Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200127Birds%20online%20CD2%20046.jpg",
                 "alt": "Northern royal albatross. Egg in nest . Little Sister Island, Chatham Islands, November 1973. Image &copy; Department of Conservation ( image ref: 10047089 ) by Rod Morris Courtesy of&nbsp;Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -7435,11 +7231,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200132Birds%20online%20CD2%20032.jpg",
                 "alt": "Grey-headed mollymawk. Adult on nest. Bull Rock, Campbell Island, November 1986. Image &copy; Department of Conservation ( image ref: 10039564 ) by Graeme Taylor Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120013243170047%20-%20Copy.JPG",
-                "alt": "Grey-headed mollymawk. Adult on egg. Colony at base of Courrejolles Peninsula, Campbell Island, October 1984. Image &copy; Graeme Taylor by Graeme Taylor",
-                "copyright": "Graeme Taylor"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200132OR.019083~v%201~Diomedea%20chrysostoma.jpg",
@@ -7831,21 +7622,6 @@ data = [
                 "copyright": "Mark Fraser"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200135B023.jpg",
-                "alt": "Buller's mollymawk. Adult southern subspecies incubating egg in nest. Snares Islands, February 1984. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200135Buller%27s%20albatross%20Snares%20%28A%20Tennyson%29.JPG",
-                "alt": "Buller's mollymawk. Adult southern Buller's mollymawk incubating egg. Snares Islands. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200135IMG_2093bnew.JPG",
-                "alt": "Buller's mollymawk. Adult northern subspecies on nest with egg. Forty Fours,  Chatham Islands, December 2009. Image &copy; Mark Fraser by Mark Fraser",
-                "copyright": "Mark Fraser"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200135OR.025005~v%201~Diomedea%20bulleri.jpg",
                 "alt": "Buller's mollymawk. Egg 96.2 x 63.2 mm (NMNZ OR.025005, collected by Alan Tennyson). Solander Island, February 1996. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -8118,11 +7894,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200138DSC04722.JPG",
-                "alt": "White-capped mollymawk. Adult on pipping egg. South West Cape, Auckland Island, February 2006. Image &copy; Graeme Taylor by Graeme Taylor",
-                "copyright": "Graeme Taylor"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200138OR.018499~v%201~Diomedea%20c%20cauta.jpg",
                 "alt": "White-capped mollymawk. Egg 100.4 x 68.2 mm (NMNZ OR.018499, collected by Graham Turbott). Disappointment Island,  Auckland Islands, December 1944. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -8282,11 +8053,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200141rc047A4423.jpg",
                 "alt": "Chatham Island mollymawk. Adult in flight. Off Pitt Island, Chatham Islands, November 2020. Image &copy; James Russell by James Russell",
                 "copyright": "James Russell"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200141Birds%20online%20CD2%20063.jpg",
-                "alt": "Chatham Island mollymawk. Adult on nest with egg. The Pyramid,  Chatham Islands, September 1974. Image &copy; Department of Conservation ( image ref: 10036070 ) by Chris Robertson Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200141Birds%20online%20CD2%20064.jpg",
@@ -8521,16 +8287,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200142Western%20Chain%2009%20101.jpg",
                 "alt": "Salvin's mollymawk. Adult on pedestal nest. Toru Islet, Western Chain, Snares, October 2009. Image &copy; Matt Charteris by Matt Charteris",
                 "copyright": "Matt Charteris"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200142Salvins%20nesting%20Oct%202019%231.jpg",
-                "alt": "Salvin's mollymawk. Adult incubating egg on nest. Proclamation Island, Bounty Islands, October 2019. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200142Salvins%20nesting%20Oct%202019%20%232.jpg",
-                "alt": "Salvin's mollymawk. Adult incubating egg on nest. Proclamation Island, Bounty Islands, October 2019. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200142Salvins%20nesting%20Oct%202019%20%234.jpg",
@@ -9516,11 +9272,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200149Cape%20petrel%20ad%20on%20nest%20N%20Prom%20Snares%2023%20Dec%201985%20%28A.%20Tennyson%29.JPG",
                 "alt": "Cape petrel. Snares adult on nest. North Promontory, Snares Islands, December 1985. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200149cape1.jpg",
-                "alt": "Cape petrel. Snares adult on nest with egg. Snares Islands. Image &copy; Department of Conservation (image ref: 100) by Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200149OR.007678~v%201~Daption%20capense.jpg",
@@ -10776,11 +10527,6 @@ data = [
                 "copyright": "Te Papa"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200167White-naped%20egg.jpg",
-                "alt": "White-naped petrel. Abandoned egg. Phillip Island, Norfolk Island, June 2017. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200167wnp1.jpg",
                 "alt": "White-naped petrel. Chick. Macauley Island, Kermadec Islands, May 1982. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -11472,11 +11218,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200173IMG_6237.JPG",
                 "alt": "Gould's petrel. Courting adults at breeding colony. Cabbage Tree Island, November 2016. Image &copy; Dean Portelli by Dean Portelli",
-                "copyright": "Dean Portelli"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200173063-17580%20P144%20%2815%29.JPG",
-                "alt": "Gould's petrel. Adult incubating egg. Cabbage Tree Island, December 2015. Image &copy; Dean Portelli by Dean Portelli",
                 "copyright": "Dean Portelli"
             },
             {
@@ -12307,18 +12048,8 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200181Fairy%20prion%20nest%2323%20N%20Prom%20Snares%2023%20Dec%201985%20%28A.%20Tennyson%29.JPG",
-                "alt": "Fairy prion. Adult incubating egg in nest. North Promontory, Snares Islands, December 1985. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200181fairy4.jpg",
                 "alt": "Fairy prion. Adult on nest in cave. North East Island, Snares Islands, November 1987. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200181fprion%20egg_0.jpg",
-                "alt": "Fairy prion. Fresh egg: 42.8 x 33.8 mm. Mana Island, October 2012. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
             },
             {
@@ -13357,11 +13088,6 @@ data = [
                 "copyright": "James Russell"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12001900660_TIF.jpg",
-                "alt": "Grey petrel. Adult at nest on two eggs. Antipodes Island, April 2009. Image &copy; David Boyle by David Boyle",
-                "copyright": "David Boyle"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200190OR.026886~v%201~Procellaria%20cinerea.jpg",
                 "alt": "Grey petrel. Egg 81.6 x 52.3 mm (NMNZ OR.026886, collected by Mike Imber). Antipodes Island, May 2001. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -13672,11 +13398,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200197bullsh2.jpg",
                 "alt": "Buller's shearwater. Adult pair on nest. Poor Knights Islands, November 1973. Image &copy; Department of Conservation (image ref: 10035313) by Dick Veitch Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200197Buller%27s%20nest.jpg",
-                "alt": "Buller's shearwater. Nest with egg in cave. Aorangi Island, Poor Knights Islands, December 2011. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200197Buller%27s%20egg.jpg",
@@ -14368,11 +14089,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200206Flutterer%20egg_3.jpg",
-                "alt": "Fluttering shearwater. Fresh egg. Mana Island, October 2012. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200206OR.009314~v%201~Puffinus%20g%20gavia.jpg",
                 "alt": "Fluttering shearwater. Egg 58.8 x 41.3 mm (NMNZ OR.009314, collected by John Yaldwyn). Ninepin Reef, Chetwode Islands, Marlborough Sounds, October 1959. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -14851,16 +14567,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200214Wilson%27s%20storm%20petrel%201%20cropped.jpg",
                 "alt": "Wilson's storm petrel. Adult at breeding colony. Nunatak Komsomol, Mirny Station, Antarctica, February 2015. Image &copy; Sergey Golubev by Sergey Golubev",
                 "copyright": "Sergey Golubev"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12002145%20Wilson%27s%20storm%20petrel.jpg",
-                "alt": "Wilson's storm petrel. Adult incubating egg in nest cavity. Ile aux Cochons, Iles Kerguelen, January 2016. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200214Wilson%27s%20storm%20petrel%20nest%20and%20egg%20med-res_0.jpg",
-                "alt": "Wilson's storm petrel. Nest and egg. Ile aux Cochons, Iles Kerguelen, January 2016. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200214OR.011932~v%201~Oceanites%20oceanicus%20exasperatus.jpg",
@@ -15825,11 +15531,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200228diver%20egg_0.jpg",
-                "alt": "Common diving petrel. Northern diving petrel freshly laid egg. Mana Island, October 2012. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200228OR.027607~v%201~Pelecanoides%20u%20urinatrix.jpg",
                 "alt": "Common diving petrel. Egg 39.0 x 30.2 mm (NMNZ OR.027607, collected by Graeme Taylor). Mana Island. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -16367,11 +16068,6 @@ data = [
                 "copyright": "Te Papa"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238Cape%20Kidnappers_Jan%202010_begging%20nestling.jpg",
-                "alt": "Australasian gannet. Adult with begging chick. Cape Kidnappers, Plateau colony, January 2010. Image &copy; Steffi Ismar by Steffi Ismar Courtesy of S. Ismar.",
-                "copyright": "Steffi Ismar"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238IMG_4709.JPG",
                 "alt": "Australasian gannet. Adult with chick and juveniles in background. Cape Kidnappers, Hawke's Bay, March 2005. Image &copy; Ian Armitage by Ian Armitage",
                 "copyright": "Ian Armitage"
@@ -16385,11 +16081,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238Gannet005web2000.jpg",
                 "alt": "Australasian gannet. Adult and chick. Muriwai. Image &copy; Terry Greene by Terry Greene",
                 "copyright": "Terry Greene"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238IMG_4964%20copy_edited-2.jpg",
-                "alt": "Australasian gannet. Adults sitting on an egg. Farewell Spit colony, Golden Bay, November 2012. Image &copy; Rebecca Bowater FPSNZ by Rebecca Bowater  FPSNZ www.floraandfauna.co.nz",
-                "copyright": "Rebecca Bowater FPSNZ"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238Gannnet%20%26%20chick.jpg",
@@ -16711,19 +16402,9 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200242mask6.jpg",
-                "alt": "Masked booby. Adult on nest with 2 eggs. Raoul Island, Kermadec Islands. Image &copy; Gareth Rapley by Gareth Rapley",
-                "copyright": "Gareth Rapley"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200242masked%20booby%2C%20courting%20pair%2C%20Rawaki%2C%20Phoenix%20Islands%2C%20M.%20Thorsen%2C%200629%2C02_06_2008.JPG",
                 "alt": "Masked booby. Courting pair. Rawaki, Phoenix Islands, June 2008. Image &copy; Mike Thorsen by Mike Thorsen",
                 "copyright": "Mike Thorsen"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200242DSC00728.JPG",
-                "alt": "Masked booby. Adult with 2 eggs in nest circle. Henderson Island, Pitcairns, October 2011. Image &copy; Matt Charteris by Matt Charteris",
-                "copyright": "Matt Charteris"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200242AA_0_034web2000.jpg",
@@ -16958,11 +16639,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200244lshag1.jpg",
-                "alt": "Little shag. Nest with 4 eggs. Lake Rotorua, Kaikoura, September 1958. Image &copy; Department of Conservation (image ref: 10029807) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200244OR.008433~v%201~Phalacrocorax%20melanoleucos%20brevirostris%20a.jpg",
                 "alt": "Little shag. Egg 50.1 x 29.9 mm (NMNZ OR.008433, collected by Robert Falla). Green Island, Otago, January 1955. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -17037,11 +16713,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/04%20-%20Track%204_18.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "kawau paka"
@@ -17139,11 +16815,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200246blkshag1.jpg",
-                "alt": "Black shag. Nest with 3 eggs. Lake Rotorua, Kaikoura, September 1958. Image &copy; Department of Conservation (image ref: 10031688) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200246OR.021330%23a~v%202~Phalacrocorax%20carbo%20a%20clutch.jpg",
                 "alt": "Black shag. Clutch (NMNZ OR.021330, collected by Thomas Cockcroft). Gollans Valley, Wellington. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -17214,11 +16885,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/17%20-%20Track%2017_7.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "kawau"
@@ -17318,19 +16989,9 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200249pdshag1.jpg",
-                "alt": "Pied shag. Nest with 3 eggs. Great Mercury Island, Mercury Islands, September 1962. Image &copy; Department of Conservation (image ref: 10035859) by John O'Brien, Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200249OR.006955~v%201~Phalacrocorax%20varius.jpg",
                 "alt": "Pied shag. Egg 59.7 x 38.6 mm (NMNZ OR.006955, collected by Captain John Bollons). Little Barrier Island, August 1906. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200249pdshag2.jpg",
-                "alt": "Pied shag. Nest with 2 eggs and newly-hatched chick. D'Urville Island, July 1962. Image &copy; Department of Conservation (image ref: 10038148) by Colin Roderick, Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200249037%20Wairau%20River%20mouth.jpg",
@@ -17821,11 +17482,6 @@ data = [
                 "copyright": "Mennobart Van Eerden"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200252Duffers%20Oct-02-7.jpg",
-                "alt": "New Zealand king shag. Nest with 2 eggs. Duffers Reef, October 2002. Image &copy; Rob Schuckard by Rob Schuckard",
-                "copyright": "Rob Schuckard"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200252OR.006972~v%201~Leucocarbo%20carunculatus.jpg",
                 "alt": "New Zealand king shag. Egg 65.9 x 42.2 mm (NMNZ OR.006972, collected by Robert Falla). White Rocks, Marlborough Sounds, September 1948. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -17976,11 +17632,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200253stishag2.jpg",
-                "alt": "Stewart Island shag. Pied morph and bronze morph adults at nest with eggs. Codfish Island, December 1966. Image &copy; Department of Conservation (image ref: 10038257) by Brian Bell, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200253OR.006980~v%201~Leucocarbo%20chalconotus.jpg",
                 "alt": "Stewart Island shag. Egg 64.9 x 40.8 mm (NMNZ OR.006980, collected by Edgar Stead). High Rock, near Codfish Island, November 1929. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -18101,11 +17752,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200254r047A4352.jpg",
                 "alt": "Chatham Island shag. Adult on nest. Star Keys, Chatham Islands, November 2020. Image &copy; James Russell by James Russell",
                 "copyright": "James Russell"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200254chshag4.jpg",
-                "alt": "Chatham Island shag. Nest with 2 heavily stained eggs. Okawa Point, Chatham Island, October 1973. Image &copy; Department of Conservation (image ref: 10038079) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200254OR.002086%23a~v%202~Leucocarbo%20onslowii%201%20clutch.jpg",
@@ -19004,11 +18650,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200259_MG_2496.jpg",
-                "alt": "Spotted shag. Adult at nest with 2 eggs. Moeraki, October 2016. Image &copy; Kathy Reid by Kathy Reid www.kathyreidphotography.com",
-                "copyright": "Kathy Reid"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200259OR.002093%23b~v%202~Stictocarbo%20p%20punctatus%20b%20clutch.jpg",
                 "alt": "Spotted shag. Clutch (NMNZ OR.002093, collected by Geoffrey Buddle). Noises Islands, Hauraki Gulf, October 1937. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -19417,11 +19058,6 @@ data = [
                 "copyright": "Glenda Rees"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200272Copy%20of%20IMG_9899.jpg",
-                "alt": "White heron. Adult turning eggs. Waitangiroto River, South Westland, November 2013. Image &copy; Rebecca Bowater FPSNZ by Rebecca Bowater www.floraandfauna.co.nz",
-                "copyright": "Rebecca Bowater FPSNZ"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200272Kotuku.jpg",
                 "alt": "White heron. Adult with chicks. Waitangiroto River, South Westland, November 2013. Image &copy; Rebecca Bowater FPSNZ by Rebecca Bowater www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater FPSNZ"
@@ -19596,11 +19232,6 @@ data = [
                 "copyright": "Duncan Watson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200273Cattle%20egret_0.jpg",
-                "alt": "Cattle egret. Adult - detail of head. Weggery Drive lagoon, May 2015. Image &copy; Roger Smith by Roger Smith",
-                "copyright": "Roger Smith"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200273IMG_6554%20e.jpg",
                 "alt": "Cattle egret. Bird in partial breeding plumage. Anderson Park, Napier, February 2019. Image &copy; Gary Stone by Gary Stone",
                 "copyright": "Gary Stone"
@@ -19614,16 +19245,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200273Cattle%20Egret%20Lake%20Horowhenua%202010-11-07%20breeding%20plumage.jpg",
                 "alt": "Cattle egret. Adult coming into breeding plumage. Lake Horowhenua, November 2010. Image &copy; Duncan Watson by Duncan Watson",
                 "copyright": "Duncan Watson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200273Cattle%20Egret%2C%20Weggery%20Lagoon%2C%209th%20May%202015.No_.6.jpg",
-                "alt": "Cattle egret. Non-breeding adult preening. Weggery Drive lagoon, May 2015. Image &copy; Roger Smith by Roger Smith",
-                "copyright": "Roger Smith"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200273Cattle%20Egret%2C%20Weggery%20Lagoon%2C%209th%20May%202015.No_.9.jpg",
-                "alt": "Cattle egret. Non-breeding adult hunting for prey. Weggery Drive lagoon, May 2015. Image &copy; Roger Smith by Roger Smith",
-                "copyright": "Roger Smith"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200273Cattle%20egret%201.jpg",
@@ -19691,9 +19312,9 @@ data = [
         ],
         "category": [
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
             "Chatham Islands (not at sea)",
-            "Lake, river or wetland",
-            "Farmland or horticultural block"
+            "Lake, river or wetland"
         ],
         "other_names": [
             "cattle egret"
@@ -19955,11 +19576,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/14%20-%20Track%2014_3.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "matuku moana"
@@ -20043,11 +19664,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200281Cornwallis%20Peninsula%20251115%20Reef%20herons%20%2833%29.JPG",
                 "alt": "Reef heron. Nest site in sea cliff. Cornwallis Peninsula, Manukau Harbour, November 2015. Image &copy; Jacqui Geux by Jacqui Geux",
                 "copyright": "Jacqui Geux"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200281reef1.jpg",
-                "alt": "Reef heron. Nest with 2 eggs. Hauraki Gulf, November 1964. Image &copy; Department of Conservation (image ref: 10044393) by Dick Veitch, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200281OR.025362~v%201~Egretta%20sacra%20a.jpg",
@@ -20368,11 +19984,6 @@ data = [
                 "copyright": "Adam Clarke"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200285bitt1.jpg",
-                "alt": "Australasian bittern. Adult at nest with 4 eggs. . Image &copy; Department of Conservation (image ref: 10028776) by Mike Soper, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200285OR.002180%23a~v%201~Botaurus%20poiciloptilus%20a.jpg",
                 "alt": "Australasian bittern. Egg 54.6 x 38.7 mm (NMNZ OR.002180, collected by Charles Fleming). Lake Selfe, Canterbury, January 1937. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -20541,11 +20152,6 @@ data = [
                 "copyright": "Steve Attwood"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292spoonbillnest%204E.jpg",
-                "alt": "Royal spoonbill. Nest with 4 eggs. Wairau Lagoons, Blenheim, February 1988. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292OR.008542~v%202~Platalea%20regia%20c1r%2070.5mm%20Dmap.jpg",
                 "alt": "Royal spoonbill. Clutch (NMNZ OR.008542, collected by N.J. Favaloro). Kerong, Victoria,  Australia, November 1947. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -20554,11 +20160,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292OR.008542~v%201~Platalea%20regia%20c%2070.5mm%20Dmap.jpg",
                 "alt": "Royal spoonbill. Egg 70.6 x 45.2 mm (NMNZ OR.008542, collected by N.J. Favaloro). Kerong, Victoria,  Australia, November 1947. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292spoonbill%20chick%20%2B%20E.jpg",
-                "alt": "Royal spoonbill. Young chick and egg in nest. Wairau Lagoons, Blenheim, February 1988. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292spoonbill%20chicks.jpg",
@@ -20791,24 +20392,9 @@ data = [
                 "copyright": "Marie-Louise Myburgh"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200296harr1.jpg",
-                "alt": "Swamp harrier. Nest with 4 eggs. Lake Tekapo, November 1982. Image &copy; Department of Conservation (image ref: 10028797) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200296nest_0.jpg",
-                "alt": "Swamp harrier. Nest with 3 eggs. Parsons covenanted wetland, Wairau, Marlborough, November 2011. Image &copy; Will Parsons by Will Parsons &nbsp;Courtesy of Will Parsons of&nbsp; www.driftwoodecotours.co.nz",
-                "copyright": "Will Parsons"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200296OR.021566~v%201~Circus%20approximans%20gouldi.jpg",
                 "alt": "Swamp harrier. Egg 50.1 x 40.2 mm (NMNZ OR.021566, collected by Robert Falla). Invercargill, December 1975. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200296harr2.jpg",
-                "alt": "Swamp harrier. Two chicks (2 days-old) and egg in nest. Lake Tekapo, November 1982. Image &copy; Department of Conservation (image ref: 10046985) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200296DPP_0025%20copy.jpg",
@@ -20869,14 +20455,14 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201930%20Swamp%20Harrier.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
-            "Forest (native or plantation)",
-            "Mountain",
+            "Farmland or horticultural block",
             "Coastal",
-            "Chatham Islands (not at sea)"
+            "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
+            "Chatham Islands (not at sea)",
+            "Mountain"
         ],
         "maori_name": "k\u0101hu"
     },
@@ -20956,11 +20542,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12003036196756171_1c1ae07293_o.jpg",
                 "alt": "New Zealand falcon. Adult pair showing size difference (larger female on right). Wellington, September 2011. Image &copy; Steve Attwood by Steve Attwood http://stevex2.wordpress.com/",
                 "copyright": "Steve Attwood"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12003034eggnest%20midday%20kaingaroa.jpg",
-                "alt": "New Zealand falcon. Four eggs in nest scrape. Kaingaroa Forest,  near Rotorua, December 2007. Image &copy; Suzi Phillips by Suzi Phillips",
-                "copyright": "Suzi Phillips"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200303Eggs.jpg",
@@ -21102,10 +20683,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201054%20NZ%20Falcon.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
             "Farmland or horticultural block",
-            "Urban park or garden",
             "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Mountain"
         ],
         "maori_name": "k\u0101rearea"
@@ -21480,11 +21061,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312Weka%20%26%20egg%2C%20OBI.jpg",
-                "alt": "Weka. Adult eating Fiordland crested penguin egg. Open Bay Islands, August 1985. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312Weka%20Chatham%20Island%20Jan%202011%20247.jpg",
                 "alt": "Weka. Adult buff weka. Chatham Island, January 2011. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -21525,23 +21101,8 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312weka2_0.jpg",
-                "alt": "Weka. Nest with 5 eggs. Kapiti Island, November 1983. Image &copy; Department of Conservation (image ref: 10028824) by Phil Clerke, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312OR.008712%23a~v%202~Gallirallus%20australis%20greyi%20a%20b%20clutch.jpg",
                 "alt": "Weka. North Island weka clutch (NMNZ OR.008712, collected by Mike Fitzgerald). Gisborne, August 1956. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312OR.008712%23a~v%201~Gallirallus%20australis%20greyi.jpg",
-                "alt": "Weka. North Island weka egg 62.0 x 41.0 mm (NMNZ OR.008712, collected by Mike Fitzgerald). Gisborne, August 1956. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312OR.008977%23a~v%201~Gallirallus%20a%20australis.jpg",
-                "alt": "Weka. Western weka egg 61.8 x 41.4 mm (NMNZ OR.008977, collected by Ken Miers). Takahe Valley, Murchison Mountains, Fiordland, November 1955. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
             },
             {
@@ -21633,13 +21194,13 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202012282116%20Weka.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Mountain",
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Coastal",
-            "Chatham Islands (not at sea)"
+            "Forest (native or plantation)",
+            "Lake, river or wetland",
+            "Chatham Islands (not at sea)",
+            "Mountain"
         ]
     },
     {
@@ -21905,11 +21466,6 @@ data = [
                 "copyright": "Scott Brooks"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200322marshck2.jpg",
-                "alt": "Marsh crake. Nest with 7 eggs. . Image &copy; Department of Conservation (image ref: 10048678) by Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12003224%20Mary%20and%20Ian%20Campbell.jpg",
                 "alt": "Marsh crake. Two c.1-week-old chicks. Mangapoike Rd, 23 km from Wairoa, January 2016. Image &copy; Mary & Ian Campbell by Mary & Ian Campbell",
                 "copyright": "Mary & Ian Campbell"
@@ -22067,23 +21623,8 @@ data = [
                 "copyright": "Marie-Louise Myburgh"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329P1100770%20-%20Copy.JPG",
-                "alt": "Pukeko. Nest with egg. Waikato, September 2012. Image &copy; Joke Baars by Joke Baars",
-                "copyright": "Joke Baars"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329puk1.jpg",
                 "alt": "Pukeko. Adult on nest. Harts Creek, Lake Ellesmere. Image &copy; Department of Conservation (image ref: 10029819) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329DSC_0098.JPG",
-                "alt": "Pukeko. Nest with six eggs. North Shore Auckland, December 2008. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329puk2.jpg",
-                "alt": "Pukeko. Double nest with 11 eggs. Birdlings Flat, Lake Ellesmere. Image &copy; Department of Conservation (image ref: 10031755) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
             },
             {
@@ -22095,16 +21636,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329OR.007713~v%201~Porphyrio%20melanotus%20a.jpg",
                 "alt": "Pukeko. Egg 51.9 x 36.4 mm (NMNZ OR.007713, collected by Edgar Stead). Lake Ellesmere. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329new%20chick.jpg",
-                "alt": "Pukeko. Muddied eggs and newly born chick. Lower Wairau, October 2012. Image &copy; Will Parsons by Will Parsons Courtesy of Will Parsons http://www.driftwoodecotours.co.nz",
-                "copyright": "Will Parsons"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329DSC_0074.JPG",
-                "alt": "Pukeko. Nest with chick and three eggs. North Shore Auckland, November 2008. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329IMG_7816.JPG",
@@ -22245,10 +21776,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201180%20Pukeko.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
             "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "p\u016bkeko"
@@ -22317,11 +21848,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200332Takahe-4mnths-Maud-Island-Feb-2012-1.JPG",
                 "alt": "South Island takahe. Juvenile at 4-months-old. Maud Island, February 2012. Image &copy; James Mortimer by James Mortimer",
                 "copyright": "James Mortimer"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200332tak3.jpg",
-                "alt": "South Island takahe. Nest with 2 eggs among Chionochloa pallens. Murchison Mountains, Fiordland. Image &copy; Department of Conservation (image ref: 10034168) by Daryl Eason, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200332OR.000546~v%201~Notornis%20mantellii%20b.jpg",
@@ -22606,16 +22132,6 @@ data = [
                 "copyright": "Neil Fitzgerald"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200333Coot%20nest%206%20eggs.JPG",
-                "alt": "Australian coot. Nest with 6 eggs. Lake Rotoiti, December 2007. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200333Coots%20nest%205%20%20%2817.08.07%29.jpg",
-                "alt": "Australian coot. Nest with eggs. Palmerston North, August 2007. Image &copy; Andrew Thomas by Andrew Thomas Andrew Thomas",
-                "copyright": "Andrew Thomas"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200333OR.021266~v%202~Fulica%20atra%20australis%20clutch.jpg",
                 "alt": "Australian coot. Clutch (NMNZ OR.021266, collected by G. Austin). Nyang Station, New South Wales,  Australia, October 1917. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -22818,11 +22334,6 @@ data = [
                 "copyright": "Graeme Taylor"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340chsn5.jpg",
-                "alt": "Chatham Island snipe. Adult on nest with 2 eggs. Mangere Island, Chatham Islands, October 1980. Image &copy; Department of Conservation (image ref: 10033451) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340chsn4.jpg",
                 "alt": "Chatham Island snipe. Adult on nest. Mangere Island, Chatham Islands. Image &copy; Department of Conservation (image ref: 10047187) by Dave Crouchley, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -22841,11 +22352,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340OR.023320%23b~v%202~Coenocorypha%20pusilla%20clutch.jpg",
                 "alt": "Chatham Island snipe. Clutch (NMNZ OR.023320, collected by Don Merton). Mangere Island, Chatham Islands, December 1981. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340cisnipe6.jpg",
-                "alt": "Chatham Island snipe. Damp chick and hatching egg in nest. Rangatira Island, Chatham Islands, January 1984. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340chsn6.jpg",
@@ -22951,16 +22457,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200341sisnipe2.jpg",
                 "alt": "Snares Island snipe. Adult on nest. North East Island, Snares Islands, December 1984. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200341sisnipe5.jpg",
-                "alt": "Snares Island snipe. Nest with 2 eggs. Snares Islands, February 1983. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200341Snares-I-snipe%20eggs.jpg",
-                "alt": "Snares Island snipe. Nest with 2 eggs under Polystichum fern. North East Island, Snares Islands, December 1986. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
             },
             {
@@ -23133,38 +22629,8 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342Campbell%20snipe%20eggs.jpg",
-                "alt": "Subantarctic snipe. Campbell Island snipe nest and eggs. Six Foot Lake, Campbell Island, January 2006. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342Antipodes%20snipe%20nest.jpg",
-                "alt": "Subantarctic snipe. Antipodes Island snipe nest with two eggs. Antipodes Island, April 2009. Image &copy; Mark Fraser by Mark Fraser",
-                "copyright": "Mark Fraser"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342Snipe%20nest%20Disappointment%20I%20-%20Jan%202015.jpg",
-                "alt": "Subantarctic snipe. Auckland Island snipe nest with 2 eggs. Disappointment Island, Auckland Islands, January 2015. Image &copy; Paul Sagar by Paul Sagar",
-                "copyright": "Paul Sagar"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342Auckland%20Island%20snipe%20nest%2C%20Disappointment%20I.jpg",
-                "alt": "Subantarctic snipe. Nest with 2 eggs. Disappointment Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342OR.027632%23a~v%201~Coenocorypha%20aucklandica%20perseverance.jpg",
-                "alt": "Subantarctic snipe. Campbell Island snipe egg 44.3 x 30.8 mm (NMNZ OR.027632, collected by Colin Miskelly). Monument Harbour, Campbell Island, January 2006. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342OR.027632%23a~v%202~Coenocorypha%20aucklandica%20perseverance.jpg",
                 "alt": "Subantarctic snipe. Campbell Island snipe clutch (NMNZ OR.027632, collected by Colin Miskelly). Monument Harbour, Campbell Island, January 2006. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342OR.017351~v%201~Coenocorypha%20aucklandica%20aucklandica.jpg",
-                "alt": "Subantarctic snipe. Auckland Island snipe egg 42.4 x 30.8 mm (NMNZ OR.017351, collected by Ron Nilsson). Disappointment Island,  Auckland Islands, January 1973. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
             },
             {
@@ -23644,11 +23110,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200212X2A5663%20ps%20ed%20bol.jpg",
                 "alt": "Red-necked stint. Flock in flight showing dorsal surfaces. Awarua Bay, September 2017. Image &copy; Glenda Rees by Glenda Rees https://www.facebook.com/NZBANP/&nbsp;https://www.flickr.com/photos/nzsamphotofanatic/",
                 "copyright": "Glenda Rees"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120021Nest%20of%20rns.jpg",
-                "alt": "Red-necked stint. Nest with four eggs. Putorana Plateau, North-Central Siberia, July 2010. Image &copy; Sergey Golubev by Sergey Golubev",
-                "copyright": "Sergey Golubev"
             }
         ],
         "sounds": [
@@ -24023,26 +23484,6 @@ data = [
                 "copyright": "Roger Smith"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12006701.1%20P1150354%20full%20clutch%20YKD%202008%20Keith%20Woodley.jpg",
-                "alt": "Bar-tailed godwit. Nest with 4 eggs in upland tundra. Yukon-Kuskokwim Delta, Alaska, June 2008. Image &copy; Keith Woodley by Keith Woodley",
-                "copyright": "Keith Woodley"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12006701.1%20P1160050%20full%20clutch%20YKD%202008%20Keith%20Woodley.jpg",
-                "alt": "Bar-tailed godwit. Nest with 4 eggs in lowland tundra. Yukon Kuskokwim Delta, Alaska, June 2008. Image &copy; Keith Woodley by Keith Woodley",
-                "copyright": "Keith Woodley"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12006701.1%20P1150224%20incubating%20female%20YKD2008%20Keith%20Woodley.jpg",
-                "alt": "Bar-tailed godwit. Female bird incubating eggs in nest. Yukon-Kuskokwim Delta, Alaska, June 2008. Image &copy; Keith Woodley by Keith Woodley",
-                "copyright": "Keith Woodley"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12006701.1%20P1140811%20incubating%20male%20YKD%202008%20Keith%20Woodley.jpg",
-                "alt": "Bar-tailed godwit. Male incubating eggs in nest. Yukon-Kuskokwim Delta, Alaska, June 2008. Image &copy; Keith Woodley by Keith Woodley",
-                "copyright": "Keith Woodley"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200670barg%20conflict%20Foxton%20PBattley_MG_8117.jpg",
                 "alt": "Bar-tailed godwit. Non-breeding birds fighting. Manawatu River estuary, October 2012. Image &copy; Phil Battley by Phil Battley",
                 "copyright": "Phil Battley"
@@ -24279,11 +23720,6 @@ data = [
                 "copyright": "Rebecca Bowater"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200386IMG_1.jpg",
-                "alt": "Ruddy turnstone. Nest with 4 eggs. Russian Harbor, Novaya Zemlya, Barents Sea, July 2019. Image &copy; Sergey Golubev by Sergey Golubev",
-                "copyright": "Sergey Golubev"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200386IMG_2.jpg",
                 "alt": "Ruddy turnstone. Adult on nest. Russian Harbor, Novaya Zemlya, Barents Sea, July 2019. Image &copy; Sergey Golubev by Sergey Golubev",
                 "copyright": "Sergey Golubev"
@@ -24406,11 +23842,6 @@ data = [
                 "copyright": "Ormond Torr"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391DSC_0020_1.JPG",
-                "alt": "Variable oystercatcher. Nest with 3 eggs. Matiu/Somes Island, November 2008. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391OR.007289~v%202~Haematopus%20unicolor%20clutch.jpg",
                 "alt": "Variable oystercatcher. Clutch (NMNZ OR.007289, collected by Captain John Bollons). Farewell Spit, November 1906. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -24469,11 +23900,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391DSC_0020.JPG",
                 "alt": "Variable oystercatcher. Black morph adult with chick. Northland, January 2008. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391VOCs%20Waikanae%20Est%20Jan%202012.jpg",
-                "alt": "Variable oystercatcher. Pied morph fledgling begging from dark intermediate morph adult. Waikanae River estuary, January 2012. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391IMG_1646.jpg",
@@ -24554,11 +23980,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/14%20-%20Track%2014_11.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
+            "Coastal",
             "Urban park or garden",
-            "Coastal"
+            "Lake, river or wetland"
         ],
         "maori_name": "t\u014drea pango"
     },
@@ -24640,16 +24066,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200392IMGP3427.JPG",
                 "alt": "South Island pied oystercatcher. Flock in flight. Miranda. Image &copy; Noel Knight by Noel Knight",
                 "copyright": "Noel Knight"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200392sipo2.jpg",
-                "alt": "South Island pied oystercatcher. Adult on nest with egg. Waituna Wetlands Scientific Reserve. Image &copy; Department of Conservation (image ref: 10048683) by Gordon Watson, Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200392sipo1.jpg",
-                "alt": "South Island pied oystercatcher. Adult at nest with 3 eggs. Ohau River. Image &copy; Department of Conservation (image ref: 10032186) by Dick Veitch, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200392OR.030188~v%201~Haematopus%20finschi.jpg",
@@ -24836,16 +24252,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393CI-oystercatcher-03.jpg",
-                "alt": "Chatham Island oystercatcher. Nest with three eggs. North coast, Chatham Island, November 2003. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393cio5.jpg",
-                "alt": "Chatham Island oystercatcher. Nest with three eggs. Tioriori, Chatham Island. Image &copy; Department of Conservation (image ref: 10051875) by Cath Gilmour, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393OR.023338%23b~v%201~Haematopus%20chathamensis.jpg",
                 "alt": "Chatham Island oystercatcher. Egg 54.6 x 38.4 mm (NMNZ OR.023338, collected by Don Merton). Mangere Island, January 1984. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -24861,18 +24267,8 @@ data = [
                 "copyright": "Reg Cotter"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393cio2.jpg",
-                "alt": "Chatham Island oystercatcher. Adult at nest with three eggs. Mangere Island, Chatham Islands, November 1982. Image &copy; Department of Conservation (image ref: 10033442) by Dave Crouchley, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393cio4.jpg",
                 "alt": "Chatham Island oystercatcher. Chick hiding. Rangatira Island, Chatham Islands, November 1977. Image &copy; Department of Conservation (image ref: 10044635) by Alan Wright, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393cio3.jpg",
-                "alt": "Chatham Island oystercatcher. Chick and egg in nest. Rangatira Island, Chatham Islands, November 1977. Image &copy; Department of Conservation (image ref: 10044634) by Alan Wright, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
             },
             {
@@ -25045,16 +24441,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394pied%2520stilt%2520-%2520eggs_1.jpg",
-                "alt": "Pied stilt. Nest with four eggs. Taupo Bay, Northland, December 2011. Image &copy; Jenny Atkins by Jenny Atkins",
-                "copyright": "Jenny Atkins"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394Pied%20stilts%20eggs%20-%20chick_0.jpg",
-                "alt": "Pied stilt. Nest with 3 eggs and a chick. Nelson sewage ponds, October 2009. Image &copy; Rebecca Bowater by Rebecca Bowater  FPSNZ www.floraandfauna.co.nz",
-                "copyright": "Rebecca Bowater"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394OR.002190~v%202~Himantopus%20h%20leucocephalus%20clutch.jpg",
                 "alt": "Pied stilt. Clutch (NMNZ OR.002190, collected by Charles Fleming). Pakiri, December 1936. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -25063,16 +24449,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394OR.002190~v%201~Himantopus%20h%20leucocephalus.jpg",
                 "alt": "Pied stilt. Egg 43.5 x 31.7 mm (NMNZ OR.002190, collected by Charles Fleming). Pakiri, December 1936. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394Pied%20Stilt%20hatching.jpg",
-                "alt": "Pied stilt. Newly hatched chick with eggs in nest. Nelson sewage ponds, October 2009. Image &copy; Rebecca Bowater by Rebecca Bowater  FPSNZ www.floraandfauna.co.nz",
-                "copyright": "Rebecca Bowater"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394Stilt%20nest%201983%20Waikanae.jpg",
-                "alt": "Pied stilt. Nest with two eggs and a hatchling. Waikanae River estuary, January 1983. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394Pied%20Stilt%20chick-1140.jpg",
@@ -25170,11 +24546,6 @@ data = [
                 "copyright": "Bartek Wypych"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394Pied-stilt-05.jpg",
-                "alt": "Pied stilt. Adult at nest with eggs. , November 1974. Image &copy; Department of Conservation by Barry Harcourt Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394pied%20stilt%20defence%20display.jpg",
                 "alt": "Pied stilt. Adult showing distraction display. Christchurch, October 2012. Image &copy; Steve Attwood by Steve Attwood http://stevex2.wordpress.com/",
                 "copyright": "Steve Attwood"
@@ -25210,11 +24581,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20981%20Hybrid%20Stilt.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "poaka"
@@ -25353,21 +24724,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396IMG_2028%20-%20Copy%20bol.jpg",
                 "alt": "Black stilt. Immature birds mating. Tasman River, November 2013. Image &copy; Glenda Rees by Glenda Rees Glenda Rees (http://www.flickr.com/photos/nzsamphotofanatic/)",
                 "copyright": "Glenda Rees"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396kaki5.jpg",
-                "alt": "Black stilt. Adult at nest with four eggs. Near Twizel. Image &copy; Department of Conservation (image ref: 10034055) by Dave Murray, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396kaki1.jpg",
-                "alt": "Black stilt. Nest with four eggs. Cass River, McKenzie basin, December 1982. Image &copy; Department of Conservation (image ref: 10037193) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396kaki2.jpg",
-                "alt": "Black stilt. Nest containing two eggs and a chick. McKenzie basin. Image &copy; Department of Conservation (image ref: 10024077) by Dave Murray, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396OR.007417~v%201~Himantopus%20novaezelandiae.jpg",
@@ -25716,29 +25072,9 @@ data = [
                 "copyright": "Roger Smith"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401P1010134%20-%20Crop.JPG",
-                "alt": "New Zealand dotterel. Northern subspecies adult at nest with egg. Opoutere, November 2006. Image &copy; Joke Baars by Joke Baars",
-                "copyright": "Joke Baars"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401P1010136%20-%20Crop.JPG",
-                "alt": "New Zealand dotterel. Adult on nest with one egg. Opoutere, November 2006. Image &copy; Joke Baars by Joke Baars",
-                "copyright": "Joke Baars"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401SCAN0003_edited-1.jpg",
-                "alt": "New Zealand dotterel. Nest and eggs. Hot Water Beach, Coromandel. Image &copy; Noel Knight by Noel Knight",
-                "copyright": "Noel Knight"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401IMGP3737_edited-1.jpg",
                 "alt": "New Zealand dotterel. Young chick. Hot Water Beach, Coromandel. Image &copy; Noel Knight by Noel Knight",
                 "copyright": "Noel Knight"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401NZ%20dotterel%20nest.jpg",
-                "alt": "New Zealand dotterel. Nest with 3 eggs. Karaka shellbank, Manukau Harbour, December 1984. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401OR.029416~v%202~Charadrius%20obscurus%20aquilonus%20clutch.jpg",
@@ -25749,16 +25085,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401OR.029416~v%201~Charadrius%20obscurus%20aquilonus%20a.jpg",
                 "alt": "New Zealand dotterel. Egg 44.6 x 31.7 mm (NMNZ OR.029416, collected by John Dowding). Maketu Spit, Bay of Plenty, October 2011. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401DSCN9073.JPG",
-                "alt": "New Zealand dotterel. Nest with 2 eggs. Scandrett Regional Park, near Warkworth, November 2018. Image &copy; Prue Bell by Prue Bell",
-                "copyright": "Prue Bell"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401DSCN9076.JPG",
-                "alt": "New Zealand dotterel. Adult settling on nest with 2 eggs. Scandrett Regional Park, near Warkworth, November 2018. Image &copy; Prue Bell by Prue Bell",
-                "copyright": "Prue Bell"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401Charadrius-obscurus_10573.jpg",
@@ -25854,11 +25180,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401%20121212Spit4701-5.jpg",
                 "alt": "New Zealand dotterel. Longterm partners (at least 8 years) female-male fight. Shortly after this the male was replaced. Weiti River mouth,  Stillwater, December 2012. Image &copy; Martin Sanders by Martin Sanders http://martinsanders.smugmug.com/",
                 "copyright": "Martin Sanders"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401IMG_4424.jpg",
-                "alt": "New Zealand dotterel. Adult female removing egg-shell from nest. Clive Beach, Hawke's Bay, October 2016. Image &copy; Adam Clarke by Adam Clarke",
-                "copyright": "Adam Clarke"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401IMG_6557u.jpg",
@@ -26053,39 +25374,14 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12004067984948618_840bfd5ebc_o.jpg",
-                "alt": "Banded dotterel. Adult female on nest eggs visible. Kaitorete Spit,  Canterbury, September 2012. Image &copy; Steve Attwood by Steve Attwood http://stevex2.wordpress.com/",
-                "copyright": "Steve Attwood"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406IMG_6631xxx.jpg",
-                "alt": "Banded dotterel. Male taking over incubating duties from the female at nest of 3 eggs. Mokihinui River, December 2009. Image &copy; Kathy Reid by Kathy Reid http://www.kathyreidphotography.com&nbsp;",
-                "copyright": "Kathy Reid"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406RS_2018-12-27_9081.jpg",
                 "alt": "Banded dotterel. Male on nest. Waikanae River estuary, January 2019. Image &copy; Roger Smith by Roger Smith",
                 "copyright": "Roger Smith"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406Charadrius-bicinctus_12793.jpg",
-                "alt": "Banded dotterel. Nest containing two eggs. Napier, Hawke's Bay, December 2009. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
-                "copyright": "Neil Fitzgerald"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406Banded%20Dotterel%20nest%203%20eggs.JPG",
-                "alt": "Banded dotterel. Nest with 3 eggs. Ashley River,  Canterbury, November 2010. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406Banded%20dotterel_flooded%20nest_Moana%20Roa_Sept2010.jpg",
                 "alt": "Banded dotterel. Eggs in nest on flooded saltmarsh. Moana Roa, September 2010. Image &copy; Peter Frost by Peter Frost",
                 "copyright": "Peter Frost"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406IMG_9490.JPG",
-                "alt": "Banded dotterel. Nest with 2 eggs. Wanganui, November 2012. Image &copy; Ormond Torr by Ormond Torr",
-                "copyright": "Ormond Torr"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406OR.xxxxx~v%201~Charadrius%20bicinctus.jpg",
@@ -26096,11 +25392,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406OR.xxxxx~v%202~Charadrius%20bicinctus.jpg",
                 "alt": "Banded dotterel. Clutch. NMNZ OR.030244, collected by Kate Beer. Tekapo River, October 2017. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406Auckland%20Island%20banded%20dotterel%20nest%2C%20Enderby%20I.jpg",
-                "alt": "Banded dotterel. Auckland Island banded dotterel nest with 2 eggs (under rock slab). Enderby Island,  Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406Charadrius-bicinctus-18738.jpg",
@@ -26186,10 +25477,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/09%20-%20Track%209_11.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
             "Coastal",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "t\u016bturiwhatu"
@@ -26280,16 +25571,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200413Wrybill%20on%20nest%20Waimakariri%20River%20September%202009.jpg",
                 "alt": "Wrybill. Adult sitting on nest. Waimakariri River, September 2009. Image &copy; Dianne Parker by Dianne Parker",
-                "copyright": "Dianne Parker"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200413Wrybill%20nest%20Rangitata%20Rv%20mid%20Sept%202005a%201400.jpg",
-                "alt": "Wrybill. Nest with eggs and footprints. Upper Rangitata River, September 2005. Image &copy; Nicholas Allen by Nicholas Allen nick_allen@xtra.co.nz",
-                "copyright": "Nicholas Allen"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200413Wrybill%20with%20eggs%20Waimakariri%20River%20October%202009.jpg",
-                "alt": "Wrybill. Adult at nest with two eggs. Waimakariri River, September 2009. Image &copy; Dianne Parker by Dianne Parker",
                 "copyright": "Dianne Parker"
             },
             {
@@ -26477,11 +25758,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200414Black%20Fronted%20Dotterel%20%28193%29.JPG",
                 "alt": "Black-fronted dotterel. Adult. Waipara river lagoon [Amberley Beach],  North Canterbury. Image &copy; K G Shakespeare by K G Shakespeare Kevin Shakespeare Layzeboy Photography \u00a9 Nature &amp; Wildlife",
                 "copyright": "K G Shakespeare"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200414IMG_3221.JPG",
-                "alt": "Black-fronted dotterel. Nest with two eggs. Temora, New South Wales, Australia, November 2015. Image &copy; Rosemary Blachut by Rosemary Blachut",
-                "copyright": "Rosemary Blachut"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200414OR.019763~v%201~Charadrius%20melanops%20clutch.jpg",
@@ -26715,11 +25991,6 @@ data = [
                 "copyright": "Ian Armitage"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415shore2.jpg",
-                "alt": "Shore plover. Nest with 3 eggs. Rangatira Island, Chatham Islands, December 1981. Image &copy; Department of Conservation (image ref: 10031172) by Dave Crouchley, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415Shore-plover-05.jpg",
                 "alt": "Shore plover. Nest with newly hatched chicks. Rangatira Island, Chatham Islands, December 1983. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -26733,11 +26004,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415OR.024443~v%202~Thinornis%20novaeseelandiae%20clutch.jpg",
                 "alt": "Shore plover. Clutch (NMNZ OR.024443, collected by Alison Davis). Rangatira (South-east) Island, Chatham Islands, December 1985. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415shore4.jpg",
-                "alt": "Shore plover. Young chicks and egg in nest. Rangatira Island, Chatham Islands, November 1975. Image &copy; Department of Conservation (image ref: 10044646) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415DSC_0072.JPG",
@@ -26880,16 +26146,6 @@ data = [
                 "copyright": "Oscar Thomas"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417Spur-winged%20plover%20eggs%20GNZ0106.JPG",
-                "alt": "Spur-winged plover. Three eggs in a nest. Travis Wetland, Christchurch, September 2012. Image &copy; Grahame Bell by Grahame Bell http://grahamenz.com",
-                "copyright": "Grahame Bell"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/12004175%20egg%20spurwing%20nest.jpg",
-                "alt": "Spur-winged plover. Nest with 5 eggs (unusually large clutch). Ambury Regional Park, Auckland, September 2015. Image &copy; Jacqui Geux by Jacqui Geux",
-                "copyright": "Jacqui Geux"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417OR.018754~v%202~Vanellus%20miles.jpg",
                 "alt": "Spur-winged plover. Clutch (NMNZ OR.018754, collected by Max Falconer). Paekakariki, November 1975. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -26898,31 +26154,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417OR.018754~v%201~Vanellus%20miles.jpg",
                 "alt": "Spur-winged plover. Egg 46.3 x 34.9 mm (NMNZ OR.018754, collected by Max Falconer). Paekakariki, November 1975. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417Spur%20winged%20plover%20nest%20-%20Copy.jpg",
-                "alt": "Spur-winged plover. Nest with 2 eggs and a young chick. Waikato, November 2005. Image &copy; Joke Baars by Joke Baars",
-                "copyright": "Joke Baars"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417spur1.jpg",
-                "alt": "Spur-winged plover. Pair at nest containing eggs and chick. Cass River, McKenzie basin, October 1977. Image &copy; Department of Conservation (image ref: 10031016) by Dick Veitch, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417DSC_9042.jpg",
-                "alt": "Spur-winged plover. Parent, chick and remaining two eggs. Flat Bush,  Auckland, August 2014. Image &copy; Marie-Louise Myburgh by Marie-Louise Myburgh",
-                "copyright": "Marie-Louise Myburgh"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417IMG_4961.jpg",
-                "alt": "Spur-winged plover. Adult at nest with egg and chicks. Palmerston North golf course, August 2007. Image &copy; Peter Gill by Peter Gill",
-                "copyright": "Peter Gill"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417IMG_5032.jpg",
-                "alt": "Spur-winged plover. Adult brooding chicks at nest with egg. Palmerston North golf course, August 2007. Image &copy; Peter Gill by Peter Gill",
-                "copyright": "Peter Gill"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417Spur-winged%20plover%20juvenile%20GNZP1740379_0.JPG",
@@ -27037,11 +26268,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/06%20-%20Track%206_25.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -27161,11 +26392,6 @@ data = [
                 "copyright": "Les Feasey"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420sskua07.jpg",
-                "alt": "Subantarctic skua. Nest with 2 eggs. Snares Islands. Image &copy; Department of Conservation (image ref: 10048696) by Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420OR.019125~v%201~Stercorarius%20skua%20lonnbergi.jpg",
                 "alt": "Subantarctic skua. Egg 80.2 x 51.5 mm (NMNZ OR.019125, collected by Jack Sorensen). Campbell Island, November 1942. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -27174,11 +26400,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420OR.019125~v%202~Stercorarius%20skua%20lonnbergi.jpg",
                 "alt": "Subantarctic skua. Clutch (NMNZ OR.019125, collected by Jack Sorensen). Campbell Island, November 1942. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420Skua%20nest%20Snares%2019%20Nov%201986%28A.%20Tennyson%29.JPG",
-                "alt": "Subantarctic skua. Downy chick and egg in nest. Snares Islands, November 1986. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420sskua10.jpg",
@@ -27254,11 +26475,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420Skua%20with%20diving%20petrel%2C%20Shoe%20I.jpg",
                 "alt": "Subantarctic skua. Adult killing a diving petrel. Shoe Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420Skua%20with%20egg.jpg",
-                "alt": "Subantarctic skua. Adult carrying royal penguin egg. Macquarie Island, December 2014. Image &copy; Doug Gimesy by Doug Gimesy",
-                "copyright": "Doug Gimesy"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420IMG_8635anew.JPG",
@@ -27420,21 +26636,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422South%20Polar%20Skua%20Feb%202008.jpg",
                 "alt": "South Polar skua. Swimming. At sea, Off Wollongong, New South Wales,  Australia, February 2008. Image &copy; Brook Whylie by Brook Whylie http://www.sossa-international.org",
                 "copyright": "Brook Whylie"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422sthpolar3%20%201731.jpg",
-                "alt": "South Polar skua. Adult at nest with two eggs. Deception Island, South Shetland Islands, December 2009. Image &copy; Tony Crocker by Tony Crocker",
-                "copyright": "Tony Crocker"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422Crozier_0138_1000.jpg",
-                "alt": "South Polar skua. Nest with two eggs. Cape Crozier, December 2011. Image &copy; Terry Greene by Terry Greene",
-                "copyright": "Terry Greene"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422IMG_4687%282%29_1000.jpg",
-                "alt": "South Polar skua. Nest with one egg after snow. Cape Crozier, December 2011. Image &copy; Terry Greene by Terry Greene",
-                "copyright": "Terry Greene"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422OR.011283%23b~v%202~Stercorarius%20skua%20maccormicki.jpg",
@@ -27916,11 +27117,6 @@ data = [
                 "copyright": "Sarah Jamieson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200425LTJA%20egg.JPG",
-                "alt": "Long-tailed skua. Nest with 1 egg. Yukon Kuskokwim Delta, June 2004. Image &copy; Sarah Jamieson by Sarah Jamieson",
-                "copyright": "Sarah Jamieson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200425LTJA%20chick%20I.JPG",
                 "alt": "Long-tailed skua. Young chick . Yukon Kuskokwim Delta, June 2004. Image &copy; Sarah Jamieson by Sarah Jamieson",
                 "copyright": "Sarah Jamieson"
@@ -28016,21 +27212,6 @@ data = [
                 "copyright": "Ian Armitage"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026IMG_2401.JPG",
-                "alt": "Southern black-backed gull. Three eggs in nest. Turakina River estuary, October 2010. Image &copy; Ormond Torr by Ormond Torr",
-                "copyright": "Ormond Torr"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026DSC_0075_0.JPG",
-                "alt": "Southern black-backed gull. Nest with 3 eggs. Kapiti Island, November 2006. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026gull%20nest.jpg",
-                "alt": "Southern black-backed gull. Nest with 3 eggs. Kapiti Island, January 1989. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120026OR.019765~v%201~Larus%20dominicanus.jpg",
                 "alt": "Southern black-backed gull. Egg 67.4 x 47.4 mm (NMNZ OR.019765, collected by Frederich-Carl Kinsky). Baring Head, Wellington, November 1950. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -28041,11 +27222,6 @@ data = [
                 "copyright": "Te Papa"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026IMG_1844%20-%20Copy%20finished%20bbgull%20chick%20red%20nzbirdsonline.jpg",
-                "alt": "Southern black-backed gull. Newly hatched chick and egg in nest. Awarua Bay, January 2015. Image &copy; Glenda Rees by Glenda Rees https://www.flickr.com/photos/nzsamphotofanatic/",
-                "copyright": "Glenda Rees"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120026IMG_1455%20Black%20Backed%20Gull%20chick%20copy.jpg",
                 "alt": "Southern black-backed gull. Chick. Boulder Bank, Nelson, December 2011. Image &copy; Rebecca Bowater FPSNZ by Rebecca Bowater  FPSNZ www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater FPSNZ"
@@ -28054,11 +27230,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120026IMG_6445.jpg",
                 "alt": "Southern black-backed gull. Two chicks beside the sea. Nelson Haven, December 2014. Image &copy; Rebecca Bowater by Rebecca Bowater FPSNZ AFIAP www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026Gull%20and%20Chick_D805159%2B61-1024web.jpg",
-                "alt": "Southern black-backed gull. Adult, chick and abandoned egg. Mount Maunganui, December 2012. Image &copy; Tony Whitehead by Tony Whitehead www.wildlight.co.nz",
-                "copyright": "Tony Whitehead"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120026DSC_9084.jpg",
@@ -28099,11 +27270,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120026IMG_2920.JPG",
                 "alt": "Southern black-backed gull. Pair copulating on nest. Whangaehu River estuary, November 2010. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026IMG_0273u.jpg",
-                "alt": "Southern black-backed gull. Juvenile begging for food from adult. Whakatane, March 2012. Image &copy; Raewyn Adams by Raewyn Adams",
-                "copyright": "Raewyn Adams"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200262011%2004%2019%20Seagulls%20-%204-2000.jpg",
@@ -28149,14 +27315,14 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202400%20Southern%20Black-backed%20Gull.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
+            "Coastal",
             "At sea (or dead on a beach)",
             "Urban park or garden",
-            "Mountain",
-            "Coastal",
-            "Chatham Islands (not at sea)"
+            "Lake, river or wetland",
+            "Chatham Islands (not at sea)",
+            "Mountain"
         ],
         "maori_name": "karoro"
     },
@@ -28268,21 +27434,6 @@ data = [
                 "copyright": "Te Papa"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428RBG%20eggs.jpg",
-                "alt": "Red-billed gull. Nest with 3 eggs. Cape Brett, Northland, November 2018. Image &copy; Michelle Martin by Michelle Martin",
-                "copyright": "Michelle Martin"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428_MG_1378_1.jpg",
-                "alt": "Red-billed gull. Adult on nest alongside a nest with three eggs. Boulder Bank,  Nelson, November 2017. Image &copy; Rebecca Bowater by Rebeccca Bowater FPSNZ AFIAP www.floraandfauna.co.nz",
-                "copyright": "Rebecca Bowater"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428Red%20Bill%20chick%20%26%20egg%20copy.jpg",
-                "alt": "Red-billed gull.  Chick and egg in nest. Boulder Bank, Nelson, December 2011. Image &copy; Rebecca Bowater by Rebecca Bowater  FPSNZ www.floraandfauna.co.nz",
-                "copyright": "Rebecca Bowater"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428a%20few%20days%20old.jpg",
                 "alt": "Red-billed gull. Chicks a few days old. Cape Brett, November 2018. Image &copy; Michelle Martin by Michelle Martin",
                 "copyright": "Michelle Martin"
@@ -28388,12 +27539,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/18%20-%20Track%2018_6.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
+            "Coastal",
             "At sea (or dead on a beach)",
             "Urban park or garden",
-            "Coastal",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "tar\u0101punga"
@@ -28523,11 +27674,6 @@ data = [
                 "copyright": "Peter Reese"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430blackbilled%20gulls%20nests.jpg",
-                "alt": "Black-billed gull. Nests with eggs. Wairau River. Image &copy; Kate Steffens by Kate Steffens",
-                "copyright": "Kate Steffens"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430_16A03%20B%20Bill%20g.jpg",
                 "alt": "Black-billed gull. Adults on nests. Motueka Sandspit, Tasman Bay, January 2017. Image &copy; Rebecca Bowater by Rebecca Bowater FPSNZ AFIAP www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater"
@@ -28561,11 +27707,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430_16A0412_v1_edited-1.jpg",
                 "alt": "Black-billed gull. Adults calling around their chicks. Motueka Sandspit, Tasman Bay, January 2017. Image &copy; Rebecca Bowater by Rebecca Bowater FPSNZ AFIAP www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430Black-billed%20Gull%2001022019-9.jpg",
-                "alt": "Black-billed gull. Juvenile begging for food. Himatangi Beach, January 2019. Image &copy; Imogen Warren by Imogen Warren",
-                "copyright": "Imogen Warren"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430bbg1.jpg",
@@ -28644,12 +27785,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20933%20Black-billed%20Gull.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
+            "Coastal",
             "At sea (or dead on a beach)",
             "Urban park or garden",
-            "Coastal"
+            "Lake, river or wetland"
         ],
         "maori_name": "tar\u0101puka"
     },
@@ -28681,11 +27822,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200433_F5A1921-2.jpg",
                 "alt": "Black noddy. Adult on nest. Phillip Island, Norfolk Island, January 2017. Image &copy; Imogen Warren by Imogen Warren",
                 "copyright": "Imogen Warren"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120043380220039.JPG",
-                "alt": "Black noddy. Adult on nest with egg. Curtis Island, November 1989. Image &copy; Graeme Taylor by Graeme Taylor",
-                "copyright": "Graeme Taylor"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200433DSCN6435.JPG",
@@ -28869,11 +28005,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200435Grey%20Ternlet_TPST_Jan21_LR_DSC_1180.jpg",
                 "alt": "Grey noddy. Adult in flight. Poor Knights Islands, January 2021. Image &copy; Scott Brooks (ourspot) by Scott Brooks",
                 "copyright": "Scott Brooks"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200435gn2.jpg",
-                "alt": "Grey noddy. Adult on nest containing an egg. Macauley Island, Kermadec Islands, September 1966. Image &copy; Department of Conservation (image ref: 10036299) by Brian Bell, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200435OR.007423~v%201~Procelsterna%20caerulea%20albivittata.jpg",
@@ -29171,26 +28302,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439Sooty%20Tern_Kermadec%20Is_Mar21_LR_DSC_3302.jpg",
                 "alt": "Sooty tern. Juvenile in flight. Macauley Island, March 2021. Image &copy; Scott Brooks (ourspot) by Scott Brooks",
                 "copyright": "Scott Brooks"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439P1040382%20-%20Copy.JPG",
-                "alt": "Sooty tern. Adult on nest with egg. Phillip Island, Norfolk Island, December 2008. Image &copy; Joke Baars by Joke Baars",
-                "copyright": "Joke Baars"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439sootyt02.jpg",
-                "alt": "Sooty tern. Adult on nest containing an egg. Meyer Island, Kermadec Islands, December 1966. Image &copy; Department of Conservation (image ref: 10037274) by Don Merton, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439Sooty%20tern%20by%20nest%20near%20Silica%20Stream%2C%20Curtis%20I%2C%20Kermadecs.jpg",
-                "alt": "Sooty tern. Adult by nest with egg. Curtis Island, Kermadec Islands, November 1989. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120043980220014.JPG",
-                "alt": "Sooty tern. Adult on nest with egg. Curtis Island, November 1989. Image &copy; Graeme Taylor by Graeme Taylor",
-                "copyright": "Graeme Taylor"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439OR.007390~v%201~Sterna%20fuscata.jpg",
@@ -29549,16 +28660,6 @@ data = [
                 "copyright": "Malcolm Pullman"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200445fairyt3.jpg",
-                "alt": "Fairy tern. Two eggs in nest. Papakanui, January 2009. Image &copy; Department of Conservation (image ref: 10063545) by Campbell Rathe, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200445BOLfairy%20tern%2004.JPG",
-                "alt": "Fairy tern. Nest with 2 eggs. Waipu estuary, Northland, November 2012. Image &copy; Malcolm Pullman by Malcolm Pullman www.pullmanpix.kiwi.nz",
-                "copyright": "Malcolm Pullman"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200445OR.025365~v%201~Sterna%20nereis%20davisae.jpg",
                 "alt": "Fairy tern. Egg 37.3 x 26.0 mm (NMNZ OR.025365, collected by Richard Parrish). Mangawhai. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -29698,11 +28799,6 @@ data = [
                 "copyright": "Steve Attwood"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449casp1.jpg",
-                "alt": "Caspian tern. Adult at nest with 3 eggs. Grays Spit, Lake Ellesmere. Image &copy; Department of Conservation (image ref: 10031300) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449casp2.jpg",
                 "alt": "Caspian tern. Adult on nest. Grays Spit, Lake Ellesmere. Image &copy; Department of Conservation (image ref: 10043126) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -29716,11 +28812,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449IMGP0664.JPG",
                 "alt": "Caspian tern. Eggs on stony nest site. Onoke Spit, Palliser Bay, December 2006. Image &copy; Ian Armitage by Ian Armitage",
                 "copyright": "Ian Armitage"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449IMG_1405%20caspian%20tern%20nest%20for%20nzbirdsonline.jpg",
-                "alt": "Caspian tern. Nest with two eggs. Awarua Bay, January 2015. Image &copy; Glenda Rees by Glenda Rees https://www.flickr.com/photos/nzsamphotofanatic/",
-                "copyright": "Glenda Rees"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449OR.019767~v%202~Hydroprogne%20caspia.jpg",
@@ -29776,11 +28867,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449Caspian%20Tern%20Manawatu%20Estuary%20Feb%202008%20Alex%20Scott.jpg",
                 "alt": "Caspian tern. Adult with fledgling. Manawatu River estuary, February 2008. Image &copy; Alex Scott by Alex Scott",
                 "copyright": "Alex Scott"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449Caspian%20terns%20Mar%201990%20Spirits%20Bay.jpg",
-                "alt": "Caspian tern. Juvenile (right) begging from adult. Spirits Bay, March 1990. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449IMG_1348.JPG",
@@ -30092,11 +29178,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200452bft1.jpg",
-                "alt": "Black-fronted tern. Adult at nest with 2 eggs. . Image &copy; Department of Conservation (image ref: 10031040) by Barry Harcourt Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200452OR.021563~v%201~Sterna%20albostriata.jpg",
                 "alt": "Black-fronted tern. Egg 41.3 x 28.1 mm (NMNZ OR.021563, collected by Robert Falla). Ohau River, South Canterbury, November 1969. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -30219,11 +29300,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/01%20-%20Track%201_12.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
+            "Coastal",
             "At sea (or dead on a beach)",
-            "Coastal"
+            "Lake, river or wetland"
         ],
         "maori_name": "tarapirohe"
     },
@@ -30326,11 +29407,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200454White-fronted%20Tern.JPG",
                 "alt": "White-fronted tern. Adult in flight. Coast south of Waitangi,  Chatham Island, September 2012. Image &copy; Mark Fraser by Mark Fraser",
                 "copyright": "Mark Fraser"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200454White-%20Fronted%20Terns%20Nest.jpg",
-                "alt": "White-fronted tern. Nest and egg. Boulder Bank,  Nelson, December 2011. Image &copy; Rebecca Bowater FPSNZ by Rebecca Bowater  FPSNZ Courtesy of Rebecca Bowater FPSNZwww.floraandfauna.co.nz",
-                "copyright": "Rebecca Bowater FPSNZ"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200454OR.015326~v%201~Sterna%20striata.jpg",
@@ -30492,10 +29568,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202101270915%20White-fronted%20Tern.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
             "Harbour, estuary or rivermouth",
-            "At sea (or dead on a beach)",
             "Coastal",
+            "At sea (or dead on a beach)",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "tara"
@@ -30631,11 +29707,6 @@ data = [
                 "copyright": "Edin Whitehead"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455Campbell%20%284%29.jpg",
-                "alt": "Antarctic tern. Nest with eggs. Campbell Island, January 2006. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455OR.020819~v%202~Sterna%20vittata%20bethunei.jpg",
                 "alt": "Antarctic tern. Clutch (NMNZ OR.020819, collected by Euan Dunn). Venus Cove, Perseverance Harbour,  Campbell Island, January 1978. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -30644,11 +29715,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455OR.020819~v%201~Sterna%20vittata%20bethunei.jpg",
                 "alt": "Antarctic tern. Egg 43.8 x 33.0 mm (NMNZ OR.020819, collected by Euan Dunn). Venus Cove, Perseverance Harbour,  Campbell Island, January 1978. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455Antarctic%20tern%20nest%2C%20Ewing%20I.jpg",
-                "alt": "Antarctic tern. Nest with 2 eggs. Ewing Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455anttern1.jpg",
@@ -30673,11 +29739,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455antern4.jpg",
                 "alt": "Antarctic tern. Chick. Monument Island, Victoria Passage, Auckland Islands. Image &copy; Department of Conservation (image ref: 10041849) by Paul Dingwall Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455antern3.jpg",
-                "alt": "Antarctic tern. Nest with 2 eggs. Rose Island, Auckland Islands, December 1996. Image &copy; Department of Conservation (image ref: 10042330) by Greg Sherley Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
             },
             {
@@ -30951,11 +30012,6 @@ data = [
                 "copyright": "Te Papa"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200462Feral%20pigeon%20nest%20with%20egg.jpg",
-                "alt": "Rock pigeon. Nest with egg in sea cave. Mana Island, November 2018. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200462rpig1.jpg",
                 "alt": "Rock pigeon. Adult at nest with 2 chicks. Christchurch, October 1988. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -31058,10 +30114,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20164%20Feral%20Pigeon.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
+            "Farmland or horticultural block",
             "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -31174,8 +30230,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20026%20Barbary%20Dove.mp3"
         ],
         "category": [
-            "Urban park or garden",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Urban park or garden"
         ]
     },
     {
@@ -31248,8 +30304,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Spotted%20Dove_Brown-cheeked%20Bulbul_Bogor.mp3"
         ],
         "category": [
-            "Urban park or garden",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Urban park or garden"
         ]
     },
     {
@@ -31581,9 +30637,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Kereru_single%20bird_0.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ],
         "maori_name": "kerer\u016b"
     },
@@ -31660,11 +30716,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12004670095.%20Parea%2C%20Tuku%20Farm%2021.02.jpg",
                 "alt": "Chatham Island pigeon. Side view of adult in flight. Tuku Farm, Chatham Island, February 2010. Image &copy; David Boyle by David Boyle Courtesy of the Chatham Island Taiko Trusthttp://www.taiko.org.nz",
                 "copyright": "David Boyle"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200467Chatham%20pigeon%2004.jpg",
-                "alt": "Chatham Island pigeon. Nest with egg. Tuku Valley, Chatham Island. Image &copy; Ralph Powlesland by Ralph Powlesland",
-                "copyright": "Ralph Powlesland"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200467OR.025120~~Hemiphaga%20chathamensis.jpg",
@@ -31786,11 +30837,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200468OR.025580~v%201~Strigops%20habroptilus.jpg",
                 "alt": "Kakapo. Egg 51.7 x 39.5 mm (NMNZ OR.025580, collected by Don Merton). Whenua Hou / Codfish Island, April 1992. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200468kpo07.jpg",
-                "alt": "Kakapo. Nest containing 2 eggs and a 1-day-old chick. Maud Island, March 1998. Image &copy; Department of Conservation (image ref: 10039102) by Don Merton, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200468kpo06.jpg",
@@ -31980,31 +31026,6 @@ data = [
                 "copyright": "David Brooks"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200469img855web2000.jpg",
-                "alt": "Kaka. Clutch of North Island kaka eggs. Waipapa, Pureora Forest Park. Image &copy; Terry Greene by Terry Greene",
-                "copyright": "Terry Greene"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120046920101127_Zealandia_0779.jpg",
-                "alt": "Kaka. Six North Island kaka eggs in nest. Karori Sanctuary / Zealandia, Wellington, November 2010. Image &copy; Judi Lapsley Miller by Judi Lapsley Miller judi@psychokiwi.org",
-                "copyright": "Judi Lapsley Miller"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200469OR.007246~v%201~Nestor%20meridionalis%20meridionalis.jpg",
-                "alt": "Kaka. South Island kaka egg 43.1 x 31.8 mm (NMNZ OR.007246, collected by 'Burton'). Milford Sound, March 1881. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200469OR.026927~v%201~Nestor%20meridionalis%20septentrionalis.jpg",
-                "alt": "Kaka. North Island kaka egg 41.1 x 31.8 mm (NMNZ OR.026927, collected by Ralph Powlesland). Whirinaki Forest Park, November 2001. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120046920101209_Zealandia_0852.jpg",
-                "alt": "Kaka. Three North Island kaka chicks approximately 1 to 3 days old, and one unhatched egg. Karori Sanctuary / Zealandia, Wellington, December 2010. Image &copy; Judi Lapsley Miller by Judi Lapsley Miller judi@psychokiwi.org",
-                "copyright": "Judi Lapsley Miller"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120046920100909_kaka-chicks-NB53_0240_proc.jpg",
                 "alt": "Kaka. Four North Island kaka chicks 9-11-days-old. Karori Sanctuary / Zealandia, Wellington, September 2010. Image &copy; Judi Lapsley Miller by Judi Lapsley Miller judi@psychokiwi.org",
                 "copyright": "Judi Lapsley Miller"
@@ -32127,9 +31148,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202231%20Kaka.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ],
         "maori_name": "k\u0101k\u0101"
     },
@@ -32260,11 +31281,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200472D70_1481.jpg",
-                "alt": "Kea. Adult female at nest with 3 eggs. Nelson Lakes National Park, November 2011. Image &copy; Corey Mosen by Corey Mosen www.coreymosen.co.nz",
-                "copyright": "Corey Mosen"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200472Cavity2012.jpg",
                 "alt": "Kea. Nest entrance with snow. Kahurangi National Park, September 2012. Image &copy; Corey Mosen by Corey Mosen www.coreymosen.co.nz",
                 "copyright": "Corey Mosen"
@@ -32278,11 +31294,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200472OR.030183~v%201~Nestor%20notabilis.jpg",
                 "alt": "Kea. Egg (42.9 x 33.9 mm). NMNZ OR.030183, collected by John & Carol Feast. Ex captivity (Whitianga). Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200472D70_4013.jpg",
-                "alt": "Kea. Adult female with 4-day-old chick and egg. Okarito Reserve, July 2012. Image &copy; Corey Mosen by Corey Mosen www.coreymosen.co.nz",
-                "copyright": "Corey Mosen"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200472D70_1655-001.jpg",
@@ -32358,9 +31369,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/05%20-%20Track%205%281%29_1.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Mountain",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ]
     },
     {
@@ -32888,8 +31899,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/01%20-%20Crimson%20Rosella.mp3"
         ],
         "category": [
-            "Urban park or garden",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Urban park or garden"
         ]
     },
     {
@@ -33089,9 +32100,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Eastern%20Rosella%20Karori%20cemetery%209%20March%202019.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ]
     },
     {
@@ -33232,23 +32243,8 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200477RCP015web1000.jpg",
-                "alt": "Red-crowned parakeet. Complete clutch of red-crowned parakeet eggs. Little Barrier Island. Image &copy; Terry Greene by Terry Greene",
-                "copyright": "Terry Greene"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200477OR.027709~v%201~Cyanorhamphus%20n%20novaeseelandiae.jpg",
                 "alt": "Red-crowned parakeet. Egg 25.5 x 20.1 mm (NMNZ OR.027709, collected by David Moss). Matiu/Somes Island, Wellington, September 2004. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200477OR.007568~~Cyanorhamphus%20novaeseelandiae%20cyanurus.jpg",
-                "alt": "Red-crowned parakeet. Kermadec Island red-crowned parakeet egg 26.8 x 21.2 mm (NMNZ OR.007568). Kermadec Islands, December 1906. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200477OR.024484~~Cyanorhamphus%20novaeseelandiae%20chathamensis.jpg",
-                "alt": "Red-crowned parakeet. Chatham Island red-crowned parakeet egg 23.4 x 21.0 mm (NMNZ OR.024484, collected by Don Merton). Rangatira Island, Chatham Islands, November 1987. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
             },
             {
@@ -33632,11 +32628,6 @@ data = [
                 "copyright": "John Kearvell"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200483IMG_1545.JPG",
-                "alt": "Orange-fronted parakeet. Clutch of 3 eggs (abandoned). Isaacs Wildlife Trust, April 2012. Image &copy; John Kearvell by John Kearvell",
-                "copyright": "John Kearvell"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200483OR.030173~v%202~Cyanoramphus%20malherbi.jpg",
                 "alt": "Orange-fronted parakeet. Part clutch (4 of 7). NMNZ OR.030173, collected by Anne Richardson. Ex captivity (The Isaac Conservation Park, Christchurch), August 2017. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -33853,11 +32844,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12004850423.%20Antipodes%20Parakeet%2C%20Reef%20Pount%2028.02.2008.jpg",
                 "alt": "Antipodes Island parakeet. Adult in flight. Antipodes Island, February 2008. Image &copy; David Boyle by David Boyle",
                 "copyright": "David Boyle"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200485Antip006web1000.jpg",
-                "alt": "Antipodes Island parakeet. Complete clutch of Antipodes Island parakeet eggs. Antipodes Island, November 1995. Image &copy; Terry Greene by Terry Greene",
-                "copyright": "Terry Greene"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200485OR.012293~v%202~Cyanorhamphus%20unicolor.jpg",
@@ -34260,10 +33246,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202175%20Shining%20Cuckoo.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Chatham Islands (not at sea)",
+            "Forest (native or plantation)"
         ],
         "maori_name": "p\u012bp\u012bwharauroa"
     },
@@ -34398,9 +33384,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Longtailed%20Cuckoo_Waitahinga_20150220.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ],
         "maori_name": "koekoe\u0101"
     },
@@ -34495,11 +33481,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200495more3.jpg",
                 "alt": "Morepork. Adult at nest entrance. Taranga / Hen Island, November 1978. Image &copy; Department of Conservation (image ref: 10039806) by Dick Veitch, Department of Conservation Curtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200495DSC09107%2012%2007.JPG",
-                "alt": "Morepork. Nest with eggs in dead treefern. Lower Hutt, December 2007. Image &copy; John Flux by John Flux",
-                "copyright": "John Flux"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200495OR.021334~v%202~Ninox%20novaehollandiae.jpg",
@@ -34599,9 +33580,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/7%20Oct%202018%20morepork%20croaking.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ],
         "maori_name": "ruru"
     },
@@ -34750,8 +33731,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Little%20owl%20long%20call.mp3"
         ],
         "category": [
-            "Urban park or garden",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Urban park or garden"
         ]
     },
     {
@@ -34882,11 +33863,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200508DSC02841.JPG",
                 "alt": "Laughing kookaburra. Juvenile in nesting hollow. Canberra, December 2017. Image &copy; R.M. by R.M.",
-                "copyright": "R.M."
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200508DSC00281.JPG",
-                "alt": "Laughing kookaburra. Family group. Adult (second left) eventually fed the Cunningham's skink to the begging juvenile (far right). Canberra, Australia, October 2017. Image &copy; R.M. by R.M.",
                 "copyright": "R.M."
             },
             {
@@ -35191,12 +34167,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201271%20NZ%20Kingfisher.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Coastal",
+            "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "k\u014dtare"
@@ -35335,16 +34311,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200514RiflemanPair.jpg",
                 "alt": "Rifleman. North Island rifleman pair at nest box (female lower). Pukaha Mount Bruce, January 2015. Image &copy; John and Melody Anderson, Wayfarer International Ltd by John and Melody Anderson Love our Birds\u00ae&nbsp;| www.wayfarerimages.co.nz",
                 "copyright": "John and Melody Anderson, Wayfarer International Ltd"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200514OR.007264~v%201~Acanthisitta%20c%20chloris.jpg",
-                "alt": "Rifleman. South Island rifleman egg 15.9 x 12.9 mm (NMNZ OR.007264, collected by Captain John Bollons). Akaroa. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200514OR.019249~v%201~Acanthisitta%20c%20granti.jpg",
-                "alt": "Rifleman. North Island rifleman egg 16.5 x 12.6 mm (NMNZ OR.019249, collected by Peter Gaze). Orongorongo River mouth, October 1976. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200514IMG_6612%20-%20Copy%20red.jpg",
@@ -35577,21 +34543,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526Kokako%202.jpg",
                 "alt": "North Island kokako. Captive juvenile. Pukaha Mount Bruce, March 1998. Image &copy; Alex Scott by Alex Scott",
                 "copyright": "Alex Scott"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526nik02.jpg",
-                "alt": "North Island kokako. Nest with three eggs. Mapara, King Country, March 1995. Image &copy; Department of Conservation (image ref: 10025058) by Ian Flux Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526Knest.jpg",
-                "alt": "North Island kokako. Nest with 2 infertile eggs (of 3 laid by captive bird). Pukaha Mount Bruce, June 2015. Image &copy; Oscar Thomas by Oscar Thomas https://www.flickr.com/photos/kokakola11/",
-                "copyright": "Oscar Thomas"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526IMG_0519.jpg",
-                "alt": "North Island kokako. Nest with 4 eggs. Parininihi Forest, December 2017. Image &copy; Joel Henton by Joel Henton",
-                "copyright": "Joel Henton"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526OR.025438~v%202~Callaeas%20cinerea%20wilson.jpg",
@@ -36300,11 +35251,6 @@ data = [
                 "copyright": "Peter Frost"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200531NB16_WO-YM_c4.jpg",
-                "alt": "Stitchbird. Nest with eggs. Bushy Park, Whanganui, November 2015. Image &copy; Peter Frost by Peter Frost",
-                "copyright": "Peter Frost"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200531OR.016032~v%201~Notiomystis%20cincta.jpg",
                 "alt": "Stitchbird. Egg 21.9 x 16.9 mm (NMNZ OR.016032, collected by New Zealand Wildlife Service). Mount Bruce Wildlife Centre, Wairarapa, December 1970. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -36492,11 +35438,6 @@ data = [
                 "copyright": "Te Papa"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200536Gerygone-igata-16055.jpg",
-                "alt": "Grey warbler. Adult at nest with chicks begging inside. Waikato, October 2011. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
-                "copyright": "Neil Fitzgerald"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200536Gerygone-igata-16047.jpg",
                 "alt": "Grey warbler. Chick peering from nest. Waikato, October 2011. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
                 "copyright": "Neil Fitzgerald"
@@ -36523,9 +35464,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201029%20Grey%20Warbler%20opining%20call.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ],
         "maori_name": "riroriro"
     },
@@ -36617,11 +35558,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200537ciwarb4.jpg",
                 "alt": "Chatham Island warbler. Adult on nest. Mangere Island, Chatham Islands, December 1982. Image &copy; Department of Conservation (image ref: 10047974) by Dave Crouchley, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200537ciwarb1.jpg",
-                "alt": "Chatham Island warbler. Three eggs in nest. Mangere Island, Chatham Islands, October 1980. Image &copy; Department of Conservation (image ref: 10047911) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
             },
             {
@@ -36999,9 +35935,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Bellbirdcall.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ],
         "maori_name": "korimako"
     },
@@ -37297,10 +36233,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Yvan%20Richard%20tui%20song.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Chatham Islands (not at sea)",
+            "Forest (native or plantation)"
         ],
         "maori_name": "t\u016b\u012b"
     },
@@ -37434,11 +36370,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200549DSCF7584.jpg",
                 "alt": "Whitehead. Adult on nest. Motuora Island, Hauraki Gulf, December 2014. Image &copy; Yvonne Sprey by Yvonne Sprey",
-                "copyright": "Yvonne Sprey"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200549IMGP1164.jpg",
-                "alt": "Whitehead. Three eggs in nest. Motuora Island, Hauraki Gulf, December 2014. Image &copy; Yvonne Sprey by Yvonne Sprey",
                 "copyright": "Yvonne Sprey"
             },
             {
@@ -37786,9 +36717,9 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/42%20-%20Track%2042_2.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Forest (native or plantation)"
         ],
         "maori_name": "p\u012bpipi"
     },
@@ -37901,11 +36832,6 @@ data = [
                 "copyright": "Peter Reese"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200552010_8.jpg",
-                "alt": "Australian magpie. Nest (containing fencing wire) with three eggs. Whakatane. Image &copy; Rosemary Tully by Rosemary Tully",
-                "copyright": "Rosemary Tully"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200552Magpie%20eggs%20no.%201.jpg",
                 "alt": "Australian magpie. Eggs laid by ten different birds. Upper Hutt. Image &copy; David Angus by David Angus",
                 "copyright": "David Angus"
@@ -37956,8 +36882,8 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202369%20Australian%20Magpie.mp3"
         ],
         "category": [
-            "Urban park or garden",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Urban park or garden"
         ],
         "maori_name": "makipae"
     },
@@ -38098,26 +37024,6 @@ data = [
                 "copyright": "John and Melody Anderson, Wayfarer International Ltd"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200555N%20I%20Fantail%20nest%20with%204%20eggs%202007-10-28DSC_0009.JPG",
-                "alt": "New Zealand fantail. Nest with 4 eggs. Wellington, October 2007. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200555FantailwithEgg.jpg",
-                "alt": "New Zealand fantail. Adult North Island fantail at nest with eggs. Oratia, November 2016. Image &copy; John and Melody Anderson, Wayfarer International Ltd by John and Melody Anderson Love our Birds\u00ae&nbsp;| www.wayfarerimages.co.nz",
-                "copyright": "John and Melody Anderson, Wayfarer International Ltd"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200555OR.007272~v%201~Rhipidura%20fuliginosa%20fuliginosa.jpg",
-                "alt": "New Zealand fantail. South Island fantail egg 16.1 x 12.5 mm (NMNZ OR.007272). Port Underwood. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200555OR.007275~v%201~Rhipidura%20fuliginosa%20placabili.jpg",
-                "alt": "New Zealand fantail. North Island fantail egg 16.0 x 12.5 mm (NMNZ OR.007275, collected by Captain John Bollons). Kaipara Head. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200555N%20I%20Fantail%20nest%20with%20chicks%202007-11-07DSC_0008.JPG",
                 "alt": "New Zealand fantail. Nest with small chicks. Wellington, November 2007. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -38230,10 +37136,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Fantail_excited%20calls_Bushy%20Park%20%5B2%5D.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
             "Farmland or horticultural block",
-            "Urban park or garden",
             "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "p\u012bwakawaka"
@@ -38480,31 +37386,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200567tom10.jpg",
                 "alt": "Tomtit. Adult Snares Island tomtit on nest. Snares Islands, November 1983. Image &copy; Department of Conservation (image ref: 10047977) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200567Codfish%20%281%29.JPG",
-                "alt": "Tomtit. South Island tomtit nest with eggs. Whenua Hou / Codfish Island, December 2011. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200567tom06.jpg",
-                "alt": "Tomtit. Chatham Island tomtit nest with 3 eggs. Rangatira Island, Chatham Islands. Image &copy; Department of Conservation (image ref: 10047922) by Allan Munn, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200567OR.007276~v%201~Petroica%20macrocephala%20toitoi.jpg",
-                "alt": "Tomtit. North Island tomtit egg 18.3 x 15.0 mm (NMNZ OR.007276). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200567OR.007277~v%201~Petroica%20macrocephala%20macrocephala.jpg",
-                "alt": "Tomtit. South Island tomtit egg 18.8 x 14.7 mm (NMNZ OR.007277). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200567OR.024476~v%201~Petroica%20macrocephala%20chathamensis.jpg",
-                "alt": "Tomtit. Chatham Island tomtit egg 18.8 x 14.3 mm (NMNZ OR.024476, collected by Don Merton). Rangatira (South-east) Island, November 1987. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200567SI-tomtit-nest-Port-Hills-Jan-2011.JPG",
@@ -39029,16 +37910,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200578blkrob01.jpg",
-                "alt": "Black robin. Nest with 2 eggs. Mangere Island, Chatham Islands. Image &copy; Department of Conservation (image ref: 10047925) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200578blkrob02.jpg",
-                "alt": "Black robin. Nest with 2 eggs concealed in Chatham Island akeake stump. Little Mangere Island, Chatham Islands, December 1975. Image &copy; Department of Conservation (image ref: 10045548) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200578OR.024448~v%202~Petroica%20traversi.jpg",
                 "alt": "Black robin. Clutch (NMNZ OR.024448, collected by Don Merton). Rangatira (South-east) Island, November 1988. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -39186,21 +38057,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579Skylark_nest_MoanaRoa_Nov10.jpg",
-                "alt": "Eurasian skylark. Nest with three eggs. Moana Roa, November 2010. Image &copy; Peter Frost by Peter Frost",
-                "copyright": "Peter Frost"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579sky3.jpg",
-                "alt": "Eurasian skylark. Nest with 3 eggs. Birdlings Flat, Lake Ellesmere, October 1958. Image &copy; Department of Conservation (image ref: 10030616) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579DSC_01060001.JPG",
-                "alt": "Eurasian skylark. Nest with 4 eggs. Miranda, November 2008. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579OR.015292~v%201~Alauda%20arvensis.jpg",
                 "alt": "Eurasian skylark. Egg 22.5 x 16.6 mm (NMNZ OR.015292, collected by Frederich-Carl Kinsky). Whakaki, Wairoa, October 1952. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -39255,10 +38111,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/Skylark%20recorded%20Burwood%20Bush%20Southland%20Nov%202017.mp3"
         ],
         "category": [
+            "Farmland or horticultural block",
             "Coastal",
-            "Chatham Islands (not at sea)",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Chatham Islands (not at sea)"
         ],
         "maori_name": "kaireka"
     },
@@ -39376,31 +38232,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120018Codfish%20%289%29.JPG",
-                "alt": "Fernbird. Codfish Island fernbird nest with eggs. Whenua Hou / Codfish Island, December 2011. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120018fer3.jpg",
-                "alt": "Fernbird. North Island fernbird nest with 2 eggs and a chick. Te Werahi swamp, Te Paki, Far North, October 1994. Image &copy; Department of Conservation (image ref: 10041226) by Greg Sherley, Department of Conservation Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120018OR.007643~v%201~Bowdleria%20p%20vealeae.jpg",
-                "alt": "Fernbird. North Island fernbird egg 18.5 x 13.7 mm (NMNZ OR.007643). Rangitoto Ranges, Waitomo County, February 1925. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120018OR.007740~v%201~Bowdleria%20p%20caudata.jpg",
-                "alt": "Fernbird. Snares Island fernbird egg 23.1 x 16.6 mm (NMNZ OR.007740, collected by Robert Falla). North East Island, Snares Islands, November 1948. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120018OR.025411~v%201~Bowdleria%20punctata%20wilsoni.jpg",
-                "alt": "Fernbird. Codfish Island fernbird egg 21.8 x 16.4 mm (NMNZ OR.025411, collected by Pete McClelland). Whenua Hou / Codfish Island, January 1996. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120018fer7.jpg",
                 "alt": "Fernbird. Adult Snares Island fernbird on nest. Snares Islands, November 1983. Image &copy; Department of Conservation (image ref: 10047933) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -39492,8 +38323,8 @@ data = [
         ],
         "category": [
             "Harbour, estuary or rivermouth",
-            "Lake, river or wetland",
-            "Farmland or horticultural block"
+            "Farmland or horticultural block",
+            "Lake, river or wetland"
         ],
         "maori_name": "m\u0101t\u0101t\u0101"
     },
@@ -39599,11 +38430,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200586seye1.jpg",
                 "alt": "Silvereye. Adult on nest. Pukepuke Lagoon, Manawatu, January 1970. Image &copy; Department of Conservation (image ref: 10045531) by John Kendrick, Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200586seye2.jpg",
-                "alt": "Silvereye. Nest containing 3 eggs. Pukepuke Lagoon, Manawatu, January 1970. Image &copy; Department of Conservation (image ref: 10048172) by John Kendrick, Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
             },
             {
@@ -39718,10 +38544,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/06%20-%20Track%206_24.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
             "Farmland or horticultural block",
-            "Urban park or garden",
             "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "tauhou"
@@ -39973,11 +38799,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/24%20-%20Track%2024_7.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ],
         "maori_name": "warou"
@@ -40095,16 +38921,6 @@ data = [
                 "copyright": "Neil Fitzgerald"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200593Blackbird%20Nest%203%20eggs.JPG",
-                "alt": "Eurasian blackbird. Nest with 3 eggs. Wellington, December 2007. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200593OR.015304~v%201~Turdus%20merula.jpg",
-                "alt": "Eurasian blackbird. Faded egg 27.9 x 21.2 mm (NMNZ OR.015304, collected by Frederich-Carl Kinsky). Pigeon Bush, Featherston, November 1952. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200593Blackbird%20Male%20feeding%20week%20old%20chicks%20at%20nest.JPG",
                 "alt": "Eurasian blackbird. Adult male feeding chicks at nest. Wellington, November 2007. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -40205,10 +39021,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/08%20-%20Track%208_19.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
             "Farmland or horticultural block",
-            "Urban park or garden",
             "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -40302,11 +39118,6 @@ data = [
                 "copyright": "Neil Fitzgerald"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200595Turdus-philomelos-18874.jpg",
-                "alt": "Song thrush. Nest with four eggs. Kerikeri, Northland, November 2011. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
-                "copyright": "Neil Fitzgerald"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200595P1100802%20-%20Copy.JPG",
                 "alt": "Song thrush. Nest in European beech, after a visit from a harrier. Waikato, September 2012. Image &copy; Koos Baars by Koos Baars",
                 "copyright": "Koos Baars"
@@ -40324,11 +39135,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200595thrush2.jpg",
                 "alt": "Song thrush. Adult feeding 2 chicks in nest. , November 1974. Image &copy; Department of Conservation (image ref: 10030904) by Barry Harcourt, Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200595thrush1.jpg",
-                "alt": "Song thrush. Adult at nest containing one chick and an egg. Invercargill, October 1979. Image &copy; Department of Conservation (image ref: 10047914) by Dick Veitch, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
             },
             {
@@ -40360,10 +39166,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20944%20Song%20Thrush.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
             "Farmland or horticultural block",
-            "Urban park or garden",
             "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -40509,21 +39315,6 @@ data = [
                 "copyright": "John Flux"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200596DSC02063%2010%2005.JPG",
-                "alt": "Common starling. Nest with eggs and fresh (anti-parasite?) leaves brought by male. Belmont, Lower Hutt, October 2005. Image &copy; John Flux by John Flux",
-                "copyright": "John Flux"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200596starling_nest.jpg",
-                "alt": "Common starling. Old nest with faded eggs. Mana Island, November 2012. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200596DSC_0045_1.JPG",
-                "alt": "Common starling. Four newly hatched chicks and egg in nest box. Mana Island, November 2008. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200596star2.jpg",
                 "alt": "Common starling. Adult male at nest containing chicks. Ramarama, South Auckland. Image &copy; Department of Conservation (image ref: 10031251) by Dick Veitch, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -40596,11 +39387,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/05%20-%20Track%205_25.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -40751,11 +39542,6 @@ data = [
                 "copyright": "Marie-Louise Myburgh"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200598OR.021356~v%201~Acridotheres%20tristis.jpg",
-                "alt": "Common myna. Faded egg 28.2 x 21.7 mm (NMNZ OR.021356, collected by Thomas Cockcroft). New Zealand. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200598S1020009.JPG",
                 "alt": "Common myna. Aberrant adult. Manurewa, October 2017. Image &copy; Mike Williams by Mike Williams",
                 "copyright": "Mike Williams"
@@ -40771,12 +39557,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/08%20-%20Track%208_18.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
+            "Coastal",
             "Forest (native or plantation)",
-            "Coastal"
+            "Urban park or garden",
+            "Lake, river or wetland"
         ]
     },
     {
@@ -41020,11 +39806,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202409%20House%20Sparrow.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -41196,11 +39982,6 @@ data = [
                 "copyright": "Ian Armitage"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601pip04.jpg",
-                "alt": "New Zealand pipit. Chatham Island pipit nest containing 3 eggs under carex. Rangatira Island, Chatham Islands, November 1975. Image &copy; Department of Conservation (image ref: 10032158) by Rod Morris Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601pip05.jpg",
                 "alt": "New Zealand pipit. Chatham Island adult on nest with chicks. Mangere Island, December 1981. Image &copy; Department of Conservation (image ref: 10037559) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -41211,24 +39992,9 @@ data = [
                 "copyright": "Kyle Morrison"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601DSC_0002_0.JPG",
-                "alt": "New Zealand pipit. Nest with 3 eggs. Maud Island, September 2008. Image &copy; Peter Reese by Peter Reese",
-                "copyright": "Peter Reese"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601OR.007604~v%201~Anthus%20n%20novaesealandiae.jpg",
                 "alt": "New Zealand pipit. Egg 22.6 x 16.6 mm (NMNZ OR.007604). Murupara, November 1937. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601OR.026508~v%201~Anthus%20novaeseelandiae%20aucklandicus.jpg",
-                "alt": "New Zealand pipit. Auckland Island pipit egg 24.3 x 16.9 mm (NMNZ OR.026508, collected by Robert Falla). Ocean Island, Auckland Islands, October 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601Auckland%20Island%20pipit%20nest%2C%20Ocean%20I.jpg",
-                "alt": "New Zealand pipit. Auckland Island pipit nest with 2 eggs. Ocean Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601pip08.jpg",
@@ -41238,11 +40004,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601KWM_8547.jpg",
                 "alt": "New Zealand pipit. Adult Auckland Island pipit feeding chick. Penguin Bay,  Campbell Island, December 2012. Image &copy; Kyle Morrison by Kyle Morrison",
-                "copyright": "Kyle Morrison"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601KWM_8611.jpg",
-                "alt": "New Zealand pipit. Auckland Island pipit chicks begging from adult. Penguin Bay,  Campbell Island, December 2012. Image &copy; Kyle Morrison by Kyle Morrison",
                 "copyright": "Kyle Morrison"
             },
             {
@@ -41274,12 +40035,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202012301139%20NZ%20Pipit.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Mountain",
+            "Farmland or horticultural block",
             "Coastal",
-            "Chatham Islands (not at sea)"
+            "Lake, river or wetland",
+            "Chatham Islands (not at sea)",
+            "Mountain"
         ],
         "maori_name": "p\u012bhoihoi"
     },
@@ -41384,16 +40145,6 @@ data = [
                 "copyright": "Peter Reese"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606P1020001_0.JPG",
-                "alt": "Dunnock. Nest and eggs. Marlborough. Image &copy; James Murray by James Murray",
-                "copyright": "James Murray"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606OR.023266~v%201~Prunella%20modularis.jpg",
-                "alt": "Dunnock. Faded egg 20.4 x 14.5 mm (NMNZ OR.023266, collected by Dave Crouchley). Mangere Island, Chatham Islands, December 1980. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606OR.023266~v%202~Prunella%20modularis.jpg",
                 "alt": "Dunnock. Faded clutch (NMNZ OR.023266, collected by Dave Crouchley). Mangere Island, Chatham Islands, December 1980. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -41401,11 +40152,6 @@ data = [
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606IMG_8802.JPG",
                 "alt": "Dunnock. Fledgling. Christchurch Botanic Gardens, January 2015. Image &copy; Oscar Thomas by Oscar Thomas https://www.flickr.com/photos/kokakola11",
-                "copyright": "Oscar Thomas"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606IMG_8811.JPG",
-                "alt": "Dunnock. Fledgling begging for food from adult. Christchurch Botanic Gardens, January 2015. Image &copy; Oscar Thomas by Oscar Thomas https://www.flickr.com/photos/kokakola11",
                 "copyright": "Oscar Thomas"
             },
             {
@@ -41433,10 +40179,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201444%20Dunnock.mp3"
         ],
         "category": [
-            "Forest (native or plantation)",
-            "Chatham Islands (not at sea)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Chatham Islands (not at sea)",
+            "Forest (native or plantation)"
         ]
     },
     {
@@ -41561,11 +40307,6 @@ data = [
                 "copyright": "Dick Porter"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200607chaff1.jpg",
-                "alt": "Chaffinch. Adult male at nest containing eggs. , February 1986. Image &copy; Department of Conservation (image ref: 10031365) by T. Smith Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200607OR.026383~v%202~Fringilla%20coelebs.jpg",
                 "alt": "Chaffinch. Clutch (NMNZ OR.026383, ex Captain John Bollons collection). Kaipara Heads, Northland. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -41615,12 +40356,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%201305%20Chaffinch.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Coastal",
+            "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -41766,11 +40507,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/11%20-%20Track%2011_15.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -41879,11 +40620,6 @@ data = [
                 "copyright": "Tamas Zeke"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200609IMG_0193%20Goldfinch%20nest.JPG",
-                "alt": "European goldfinch. Nest with egg. Morrinsville, January 2005. Image &copy; Andrew Thomas by Andrew Thomas",
-                "copyright": "Andrew Thomas"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200609OR.019743~v%202~Carduelis%20carduelis.jpg",
                 "alt": "European goldfinch. Clutch (NMNZ OR.019743, collected by Frederich-Carl Kinsky)). Lipporg, Kreis Beckum, Westfalia, May 1949. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -41962,12 +40698,12 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%202422%20Goldfinch.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
-            "Forest (native or plantation)",
+            "Farmland or horticultural block",
             "Coastal",
+            "Forest (native or plantation)",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -42091,10 +40827,10 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/17%20-%20Track%2017_5.mp3"
         ],
         "category": [
-            "Mountain",
-            "Chatham Islands (not at sea)",
+            "Farmland or horticultural block",
             "Urban park or garden",
-            "Farmland or horticultural block"
+            "Chatham Islands (not at sea)",
+            "Mountain"
         ]
     },
     {
@@ -42202,11 +40938,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200612Yellowhammer_nest_eggs_PGHF.jpg",
-                "alt": "Yellowhammer. Nest and eggs. Bushy Park, December 2014. Image &copy; Peter Frost by Peter Frost",
-                "copyright": "Peter Frost"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200612OR.029545~v%201~Emberiza%20citrinella.jpg",
                 "alt": "Yellowhammer. Egg 20.3 x 15.7 mm (NMNZ OR.029545, collected by G.W. Gilbert). England. Image &copy; Te Papa by Jean-Claude Stahl",
                 "copyright": "Te Papa"
@@ -42255,11 +40986,11 @@ data = [
             "https://nzbirdsonline.org.nz/sites/all/files/NIA%20613%20Yellowhammer.mp3"
         ],
         "category": [
-            "Lake, river or wetland",
-            "Farmland or horticultural block",
             "Harbour, estuary or rivermouth",
-            "Urban park or garden",
+            "Farmland or horticultural block",
             "Coastal",
+            "Urban park or garden",
+            "Lake, river or wetland",
             "Chatham Islands (not at sea)"
         ]
     },
@@ -42397,11 +41128,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613Cirl%20bunting%203.jpg",
                 "alt": "Cirl bunting. Female. Auxerre,  France, February 2017. Image &copy; Cyril Vathelet by Cyril Vathelet",
                 "copyright": "Cyril Vathelet"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613Cirl%20bunting%20nest%20and%20eggs-27%20Dec%202012.jpg",
-                "alt": "Cirl bunting. Nest with three eggs (in captivity). Upper Hutt, December 2012. Image &copy; David Angus by David Angus",
-                "copyright": "David Angus"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613Cirl%20bunting%20eggs.jpg",

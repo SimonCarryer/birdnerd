@@ -46,10 +46,13 @@ function RenderImage(bird) {
     elem.setAttribute("src", image.href);
     elem.setAttribute("alt", image.alt);
     elem.setAttribute("title", image.alt);
-    var link = document.createElement("a")
-    link.setAttribute("href", `http://nzbirdsonline.org.nz${bird.link}`)
-    link.appendChild(elem)
-    return link
+    var img = document.createElement("div")
+    img.appendChild(elem)
+    var credit = document.createElement("div");
+    credit.setAttribute("class", "imageCredit");
+    credit.innerHTML = `©${image.copyright}`;
+    img.appendChild(credit);
+    return img
 }
 
 function ClearOptions() {

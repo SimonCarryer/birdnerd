@@ -154,8 +154,20 @@ function restartGame() {
     correctCount = 0;
     usedBirds = [];
     questions = [];
-    const categories = Shuffle(["Forest (native or plantation)", "At sea (or dead on a beach)", "Coastal", "Lake, river or wetland", "Urban park or garden", "Urban park or garden", "Urban park or garden", "Mountain", "Harbour, estuary or rivermouth", "Farmland or horticultural block", "Farmland or horticultural block"])
-    const levels = ["Egg", "Egg", "Egg", "Fledgeling", "Fledgeling", "Fledgeling", "Flapper", "Flapper", "Bird brain", "True bird nerd", "True bird nerd", "True bird nerd"]
+    const categories = Shuffle(["Forest (native or plantation)",
+        "Forest (native or plantation)",
+        "At sea (or dead on a beach)",
+        "Coastal",
+        "Lake, river or wetland",
+        "Urban park or garden",
+        "Urban park or garden",
+        "Urban park or garden",
+        "Mountain",
+        "Harbour, estuary or rivermouth",
+        "Harbour, estuary or rivermouth",
+        "Farmland or horticultural block",
+        "Farmland or horticultural block"])
+    const levels = ["Egg", "Egg", "Egg", "Fledgeling", "Fledgeling", "Fledgeling", "Flapper", "Flapper", "Flapper", "Bird brain", "True bird nerd", "True bird nerd"]
     for (let i = 0; i < totalQuestions; i++) {
         questions.push(BuildQuestion(levels[i], categories[i]))
     }
@@ -166,8 +178,6 @@ function restartGame() {
 
 function endGame() {
     ClearOptions()
-    var outcome_container = document.getElementById("outcome");
-    outcome_container.remove();
     var final = document.getElementById("final");
     let bird = Shuffle(usedBirds)[0]
     let img = RenderImage(bird)

@@ -81,8 +81,11 @@ function PickPictureFromBird(correct, selected) {
         input.setAttribute("id", bird.name);
         input.setAttribute("name", "answer");
         input.setAttribute("value", bird.name);
+        var label = document.createElement("label");
+        label.setAttribute("for", bird.name);
         selector.appendChild(input);
-        selector.appendChild(img);
+        label.appendChild(img);
+        selector.appendChild(label);
         answer.appendChild(selector);
         answers.appendChild(answer);
     }
@@ -124,7 +127,7 @@ function PickEnglishName(correct, selected) {
     var answers = document.createElement("ul");
     for (const bird of Shuffle(selected)) {
         var answer = document.createElement("li");
-        answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${capitalizeFirstLetter(bird.maori_name)}">${bird.name}</label>`;
+        answer.innerHTML = `<input type="radio" id="${bird.name}" name="answer" value="${bird.name}"><label for="${bird.name}">${bird.name}</label>`;
         answers.appendChild(answer);
     }
     answers_container.appendChild(answers);

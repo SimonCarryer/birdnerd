@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    font-size: 18pt;
+    font-size: 1.2rem;
 }
 
 .title {
@@ -22,8 +22,10 @@ body {
 
 .content {
     width: 100%;
+    max-width: 450px;
     margin: 0 auto;
     display: flex;
+    background-color: whitesmoke;
     flex-direction: column;
 }
 
@@ -64,7 +66,7 @@ button {
 }
 
 .answerImage * {
-    width: 50%;
+    width: 280px;
     vertical-align: middle;
     padding-right: 20px;
 }
@@ -84,13 +86,13 @@ li {
 .credit {
     height: auto;
     padding: 10px;
-    font-size: 10pt;
+    font-size: 0.8rem;
     width: 100%;
     align-self: flex-start;
 }
 
 .imageCredit {
-    font-size: 8pt;
+    font-size: 0.8rem;
     position: relative;
     bottom: 0;
     left: 25px;
@@ -108,9 +110,9 @@ li {
 }
 
 .finalAttribution {
-    font-size: small;
+    font-size: 1rem;
 }
-
+/* 
 @media screen and (orientation:landscape) {
 
 .content {
@@ -120,27 +122,4 @@ li {
     font-size: 12pt;
 }
 
-.controls {
-    padding: 10px;
-}
-
-.q_and_a {
-    padding: 10px;
-}
-
-.outcome {
-
-}
-
-.outcome .outcome-content {
-    padding: 10px;
-}
-
-.outcome.incorrect {
-    background-color: pink;
-}
-
-.outcome.correct {
-    background-color: lightgreen;
-}
-}
+} */

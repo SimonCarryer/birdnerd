@@ -31,7 +31,8 @@ for bird in bird_data:
     extra_name = " ".join(
         [n for n in bird["name"].lower().split() if n not in common_words]
     )
-    bird["other_names"] = other_names + new_names + [extra_name]
+    lowercase_name = " ".join([n for n in bird["name"].lower().split()])
+    bird["other_names"] = other_names + new_names + [extra_name, lowercase_name]
     birds.append(bird)
 
 with open("final_bird_data.json", "w") as file_obj:

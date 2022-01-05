@@ -159,7 +159,10 @@ data = [
             "Forest (native or plantation)"
         ],
         "other_names": [
-            "brown kiwi"
+            "brown kiwi",
+            "brown kiwi",
+            "brown kiwi",
+            "north island brown kiwi"
         ]
     },
     {
@@ -168,6 +171,9 @@ data = [
         "status": "Nationally Vulnerable",
         "other_names": [
             "rowi",
+            "okarito brown kiwi",
+            "okarito brown kiwi",
+            "okarito brown kiwi",
             "okarito brown kiwi"
         ],
         "images": [
@@ -282,7 +288,10 @@ data = [
         "status": "Nationally Endangered",
         "other_names": [
             "tokoeka",
-            "brown kiwi"
+            "brown kiwi",
+            "brown kiwi",
+            "brown kiwi",
+            "southern brown kiwi"
         ],
         "images": [
             {
@@ -370,6 +379,9 @@ data = [
         "status": "Recovering",
         "other_names": [
             "kiwi pukupuku",
+            "little spotted kiwi",
+            "little spotted kiwi",
+            "little spotted kiwi",
             "little spotted kiwi"
         ],
         "images": [
@@ -475,6 +487,9 @@ data = [
         "other_names": [
             "roa",
             "roroa",
+            "great spotted kiwi",
+            "great spotted kiwi",
+            "great spotted kiwi",
             "great spotted kiwi"
         ],
         "images": [
@@ -540,6 +555,9 @@ data = [
             "plumed quail",
             "quail",
             "McPherson quail",
+            "california quail",
+            "california quail",
+            "california quail",
             "california quail"
         ],
         "images": [
@@ -778,6 +796,9 @@ data = [
         "other_names": [
             "tufted guineafowl",
             "crowned guineafowl",
+            "helmeted guineafowl",
+            "helmeted guineafowl",
+            "helmeted guineafowl",
             "helmeted guineafowl"
         ],
         "images": [
@@ -906,6 +927,9 @@ data = [
             "chukar",
             "chukor partridge",
             "chukar partridge",
+            "chukor",
+            "chukor",
+            "chukor",
             "chukor"
         ],
         "images": [
@@ -1004,6 +1028,11 @@ data = [
             "Australian brown quail",
             "kuera",
             "koera",
+            "brown quail",
+            "brown quail",
+            "brown quail",
+            "brown quail",
+            "brown quail",
             "brown quail",
             "brown quail"
         ],
@@ -1122,7 +1151,10 @@ data = [
             "English pheasant",
             "peihana",
             "Chinese pheasant",
-            "pheasant"
+            "pheasant",
+            "pheasant",
+            "pheasant",
+            "common pheasant"
         ],
         "images": [
             {
@@ -1293,6 +1325,9 @@ data = [
             "peacock",
             "peahen",
             "Indian peafowl",
+            "peafowl",
+            "peafowl",
+            "peafowl",
             "peafowl"
         ],
         "images": [
@@ -1407,6 +1442,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "feral turkey",
+            "wild turkey",
+            "wild turkey",
+            "wild turkey",
             "wild turkey"
         ],
         "images": [
@@ -1517,6 +1555,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "white swan",
+            "mute swan",
+            "mute swan",
+            "mute swan",
             "mute swan"
         ],
         "images": [
@@ -1651,6 +1692,9 @@ data = [
         "other_names": [
             "kak\u012b\u0101nau",
             "kakianau",
+            "black swan",
+            "black swan",
+            "black swan",
             "black swan"
         ],
         "images": [
@@ -1905,6 +1949,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "pig goose",
+            "cape barren goose",
+            "cape barren goose",
+            "cape barren goose",
             "cape barren goose"
         ],
         "images": [
@@ -2037,6 +2084,9 @@ data = [
             "kuihi",
             "graylag goose",
             "wild goose",
+            "greylag goose",
+            "greylag goose",
+            "greylag goose",
             "greylag goose"
         ],
         "images": [
@@ -2171,6 +2221,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "honker",
+            "canada goose",
+            "canada goose",
+            "canada goose",
             "canada goose"
         ],
         "images": [
@@ -2374,6 +2427,9 @@ data = [
             "pari",
             "parry",
             "parrie",
+            "paradise shelduck",
+            "paradise shelduck",
+            "paradise shelduck",
             "paradise shelduck"
         ],
         "images": [
@@ -2645,6 +2701,9 @@ data = [
             "whio",
             "mountain duck",
             "blue mountain duck",
+            "blue duck",
+            "blue duck",
+            "blue duck",
             "blue duck"
         ],
         "images": [
@@ -2851,6 +2910,9 @@ data = [
             "tete moroiti",
             "tete",
             "gray teal",
+            "grey teal",
+            "grey teal",
+            "grey teal",
             "grey teal"
         ],
         "images": [
@@ -3060,6 +3122,9 @@ data = [
             "brown duck",
             "p\u0101teke",
             "pateke",
+            "brown teal",
+            "brown teal",
+            "brown teal",
             "brown teal"
         ],
         "images": [
@@ -3284,7 +3349,14 @@ data = [
             "flightless teal",
             "teal",
             "flightless duck",
-            "teal"
+            "teal",
+            "teal",
+            "flightless duck",
+            "teal",
+            "teal",
+            "flightless duck",
+            "teal",
+            "auckland island teal"
         ],
         "images": [
             {
@@ -3450,7 +3522,12 @@ data = [
         "other_names": [
             "Campbell Island flightless teal",
             "campbell flightless teal",
-            "campbell teal"
+            "campbell teal",
+            "campbell flightless teal",
+            "campbell teal",
+            "campbell flightless teal",
+            "campbell teal",
+            "campbell island teal"
         ],
         "images": [
             {
@@ -3628,6 +3705,9 @@ data = [
             "wild duck",
             "northern mallard",
             "greenhead",
+            "mallard",
+            "mallard",
+            "mallard",
             "mallard"
         ],
         "images": [
@@ -3834,6 +3914,9 @@ data = [
             "parera",
             "gray duck",
             "black duck",
+            "grey duck",
+            "grey duck",
+            "grey duck",
             "grey duck"
         ],
         "images": [
@@ -3993,7 +4076,12 @@ data = [
             "spoonie",
             "shoveller",
             "shoveler",
-            "shoveler"
+            "shoveler",
+            "shoveler",
+            "shoveler",
+            "shoveler",
+            "shoveler",
+            "australasian shoveler"
         ],
         "images": [
             {
@@ -4198,7 +4286,10 @@ data = [
             "matapouri",
             "titiporangi",
             "raipo",
-            "scaup"
+            "scaup",
+            "scaup",
+            "scaup",
+            "new zealand scaup"
         ],
         "images": [
             {
@@ -4440,7 +4531,12 @@ data = [
             "kamana",
             "k\u0101mana",
             "crested grebe",
-            "crested grebe"
+            "crested grebe",
+            "crested grebe",
+            "crested grebe",
+            "crested grebe",
+            "crested grebe",
+            "australasian crested grebe"
         ],
         "images": [
             {
@@ -4680,7 +4776,12 @@ data = [
             "taratimoho (Waikato)",
             "New Zealand grebe",
             "grebe",
-            "dabchick"
+            "dabchick",
+            "grebe",
+            "dabchick",
+            "grebe",
+            "dabchick",
+            "new zealand dabchick"
         ],
         "images": [
             {
@@ -5133,6 +5234,9 @@ data = [
             "Coastal"
         ],
         "other_names": [
+            "eastern rockhopper penguin",
+            "eastern rockhopper penguin",
+            "eastern rockhopper penguin",
             "eastern rockhopper penguin"
         ]
     },
@@ -5148,6 +5252,11 @@ data = [
             "thick-billed penguin",
             "Victoria penguin",
             "crested penguin",
+            "fiordland crested penguin",
+            "crested penguin",
+            "fiordland crested penguin",
+            "crested penguin",
+            "fiordland crested penguin",
             "fiordland crested penguin"
         ],
         "images": [
@@ -5358,6 +5467,11 @@ data = [
             "Snares penguin",
             "Snares Island penguin",
             "snares penguin",
+            "snares crested penguin",
+            "snares penguin",
+            "snares crested penguin",
+            "snares penguin",
+            "snares crested penguin",
             "snares crested penguin"
         ],
         "images": [
@@ -5590,6 +5704,9 @@ data = [
         "other_names": [
             "erect crested penguin",
             "erectcrested penguin",
+            "erect-crested penguin",
+            "erect-crested penguin",
+            "erect-crested penguin",
             "erect-crested penguin"
         ],
         "images": [
@@ -5794,6 +5911,9 @@ data = [
             "yellow eyed penguin",
             "yelloweyed penguin",
             "Richdale's penguin",
+            "yellow-eyed penguin",
+            "yellow-eyed penguin",
+            "yellow-eyed penguin",
             "yellow-eyed penguin"
         ],
         "images": [
@@ -6036,6 +6156,9 @@ data = [
             "white-flippered penguin",
             "koror\u0101",
             "korora",
+            "little penguin",
+            "little penguin",
+            "little penguin",
             "little penguin"
         ],
         "images": [
@@ -6273,6 +6396,9 @@ data = [
         "other_names": [
             "snowy albatross",
             "toroa",
+            "wandering albatross",
+            "wandering albatross",
+            "wandering albatross",
             "wandering albatross"
         ],
         "images": [
@@ -6403,6 +6529,9 @@ data = [
             "wandering albatross",
             "toroa",
             "Gibson's albatross",
+            "antipodean albatross",
+            "antipodean albatross",
+            "antipodean albatross",
             "antipodean albatross"
         ],
         "images": [
@@ -6702,7 +6831,10 @@ data = [
         "status": "Naturally Uncommon",
         "other_names": [
             "toroa",
-            "royal albatross"
+            "royal albatross",
+            "royal albatross",
+            "royal albatross",
+            "southern royal albatross"
         ],
         "images": [
             {
@@ -6946,6 +7078,9 @@ data = [
         "other_names": [
             "toroa",
             "royal albatross",
+            "northern royal albatross",
+            "northern royal albatross",
+            "northern royal albatross",
             "northern royal albatross"
         ],
         "images": [
@@ -7114,6 +7249,9 @@ data = [
             "greyheaded mollymawk",
             "grey headed albatross",
             "greyheaded albatross",
+            "grey-headed mollymawk",
+            "grey-headed mollymawk",
+            "grey-headed mollymawk",
             "grey-headed mollymawk"
         ],
         "images": [
@@ -7313,6 +7451,13 @@ data = [
             "Campbell albatross",
             "campbell mollymawk",
             "campbell albatross",
+            "campbell black-browed mollymawk",
+            "campbell mollymawk",
+            "campbell albatross",
+            "campbell black-browed mollymawk",
+            "campbell mollymawk",
+            "campbell albatross",
+            "campbell black-browed mollymawk",
             "campbell black-browed mollymawk"
         ],
         "images": [
@@ -7498,6 +7643,9 @@ data = [
             "Pacific albatross",
             "Bullers mollymawk",
             "Bullers albatross",
+            "buller's mollymawk",
+            "buller's mollymawk",
+            "buller's mollymawk",
             "buller's mollymawk"
         ],
         "images": [
@@ -7775,6 +7923,9 @@ data = [
             "white capped mollymawk",
             "whitecapped albatross",
             "white capped albatross",
+            "white-capped mollymawk",
+            "white-capped mollymawk",
+            "white-capped mollymawk",
             "white-capped mollymawk"
         ],
         "images": [
@@ -7981,7 +8132,16 @@ data = [
             "albatross",
             "albatross",
             "mollymawk",
-            "mollymawk"
+            "mollymawk",
+            "albatross",
+            "albatross",
+            "mollymawk",
+            "mollymawk",
+            "albatross",
+            "albatross",
+            "mollymawk",
+            "mollymawk",
+            "chatham island mollymawk"
         ],
         "images": [
             {
@@ -8215,6 +8375,11 @@ data = [
             "Salvins mollymawk",
             "Salvins albatross",
             "bounty mollymawk",
+            "salvin's mollymawk",
+            "bounty mollymawk",
+            "salvin's mollymawk",
+            "bounty mollymawk",
+            "salvin's mollymawk",
             "salvin's mollymawk"
         ],
         "images": [
@@ -8399,6 +8564,9 @@ data = [
             "light-mantled albatross",
             "lightmantled sooty albatross",
             "light mantled sooty albatross",
+            "light-mantled sooty albatross",
+            "light-mantled sooty albatross",
+            "light-mantled sooty albatross",
             "light-mantled sooty albatross"
         ],
         "images": [
@@ -8605,7 +8773,10 @@ data = [
             "glutton",
             "stinkpot",
             "sea vulture",
-            "giant petrel"
+            "giant petrel",
+            "giant petrel",
+            "giant petrel",
+            "southern giant petrel"
         ],
         "images": [
             {
@@ -8789,6 +8960,9 @@ data = [
             "giant fulmar",
             "stinkpot",
             "sea vulture",
+            "northern giant petrel",
+            "northern giant petrel",
+            "northern giant petrel",
             "northern giant petrel"
         ],
         "images": [
@@ -9047,6 +9221,11 @@ data = [
             "silver-grey fulmar",
             "slender-billed fulmar",
             "fulmar",
+            "antarctic fulmar",
+            "fulmar",
+            "antarctic fulmar",
+            "fulmar",
+            "antarctic fulmar",
             "antarctic fulmar"
         ],
         "images": [
@@ -9170,6 +9349,9 @@ data = [
         "other_names": [
             "Cape pigeon",
             "pintado petrel",
+            "cape petrel",
+            "cape petrel",
+            "cape petrel",
             "cape petrel"
         ],
         "images": [
@@ -9502,6 +9684,9 @@ data = [
         ],
         "category": [],
         "other_names": [
+            "snow petrel",
+            "snow petrel",
+            "snow petrel",
             "snow petrel"
         ]
     },
@@ -9543,6 +9728,9 @@ data = [
             "At sea (or dead on a beach)"
         ],
         "other_names": [
+            "kerguelen petrel",
+            "kerguelen petrel",
+            "kerguelen petrel",
             "kerguelen petrel"
         ]
     },
@@ -9561,6 +9749,9 @@ data = [
             "greyfaced petrel",
             "grey faced petrel",
             "northern mutton bird",
+            "grey-faced petrel",
+            "grey-faced petrel",
+            "grey-faced petrel",
             "grey-faced petrel"
         ],
         "images": [
@@ -9745,6 +9936,9 @@ data = [
         "other_names": [
             "whiteheaded petrel",
             "white headed petrel",
+            "white-headed petrel",
+            "white-headed petrel",
+            "white-headed petrel",
             "white-headed petrel"
         ],
         "images": [
@@ -9879,7 +10073,10 @@ data = [
             "Magenta petrel",
             "t\u0101iko",
             "tchaik",
-            "taiko"
+            "taiko",
+            "taiko",
+            "taiko",
+            "chatham island taiko"
         ],
         "images": [
             {
@@ -10214,6 +10411,9 @@ data = [
             "At sea (or dead on a beach)"
         ],
         "other_names": [
+            "kermadec petrel",
+            "kermadec petrel",
+            "kermadec petrel",
             "kermadec petrel"
         ]
     },
@@ -10224,6 +10424,9 @@ data = [
         "other_names": [
             "softplumaged petrel",
             "soft plumaged petrel",
+            "soft-plumaged petrel",
+            "soft-plumaged petrel",
+            "soft-plumaged petrel",
             "soft-plumaged petrel"
         ],
         "images": [
@@ -10358,6 +10561,9 @@ data = [
             "korure",
             "Peale's petrel",
             "Dawson's petrel",
+            "mottled petrel",
+            "mottled petrel",
+            "mottled petrel",
             "mottled petrel"
         ],
         "images": [
@@ -10453,6 +10659,11 @@ data = [
             "whitenaped petrel",
             "white naped petrel",
             "petrel",
+            "white-naped petrel",
+            "petrel",
+            "white-naped petrel",
+            "petrel",
+            "white-naped petrel",
             "white-naped petrel"
         ],
         "images": [
@@ -10566,6 +10777,9 @@ data = [
         "other_names": [
             "blackwinged petrel",
             "black winged petrel",
+            "black-winged petrel",
+            "black-winged petrel",
+            "black-winged petrel",
             "black-winged petrel"
         ],
         "images": [
@@ -10754,7 +10968,12 @@ data = [
             "ranguru",
             "Chatham Island petrel",
             "petrel",
-            "petrel"
+            "petrel",
+            "petrel",
+            "petrel",
+            "petrel",
+            "petrel",
+            "chatham petrel"
         ],
         "images": [
             {
@@ -10897,6 +11116,9 @@ data = [
             "titi",
             "blue-footed petrel",
             "Cooks petrel",
+            "cook's petrel",
+            "cook's petrel",
+            "cook's petrel",
             "cook's petrel"
         ],
         "images": [
@@ -11024,6 +11246,9 @@ data = [
         "status": "Recovering",
         "other_names": [
             "Pycrofts petrel",
+            "pycroft's petrel",
+            "pycroft's petrel",
+            "pycroft's petrel",
             "pycroft's petrel"
         ],
         "images": [
@@ -11157,6 +11382,11 @@ data = [
             "New Caledonian petrel",
             "Goulds petrel",
             "caledonian petrel",
+            "gould's petrel",
+            "caledonian petrel",
+            "gould's petrel",
+            "caledonian petrel",
+            "gould's petrel",
             "gould's petrel"
         ],
         "images": [
@@ -11384,6 +11614,9 @@ data = [
             "At sea (or dead on a beach)"
         ],
         "other_names": [
+            "blue petrel",
+            "blue petrel",
+            "blue petrel",
             "blue petrel"
         ]
     },
@@ -11398,6 +11631,9 @@ data = [
             "whalebird",
             "broadbilled prion",
             "broad billed prion",
+            "broad-billed prion",
+            "broad-billed prion",
+            "broad-billed prion",
             "broad-billed prion"
         ],
         "images": [
@@ -11562,6 +11798,11 @@ data = [
             "Crozet Island prion",
             "Salvins prion",
             "crozet prion",
+            "salvin's prion",
+            "crozet prion",
+            "salvin's prion",
+            "crozet prion",
+            "salvin's prion",
             "salvin's prion"
         ],
         "images": [
@@ -11639,6 +11880,9 @@ data = [
             "totorore",
             "dove prion",
             "whalebird",
+            "antarctic prion",
+            "antarctic prion",
+            "antarctic prion",
             "antarctic prion"
         ],
         "images": [
@@ -11827,6 +12071,9 @@ data = [
             "narrow billed prion",
             "slenderbilled prion",
             "slender billed prion",
+            "thin-billed prion",
+            "thin-billed prion",
+            "thin-billed prion",
             "thin-billed prion"
         ],
         "images": [
@@ -11924,6 +12171,9 @@ data = [
             "t\u012bt\u012b wainui",
             "titi wainui",
             "dove petrel",
+            "fairy prion",
+            "fairy prion",
+            "fairy prion",
             "fairy prion"
         ],
         "images": [
@@ -12401,6 +12651,9 @@ data = [
         ],
         "category": [],
         "other_names": [
+            "fulmar prion",
+            "fulmar prion",
+            "fulmar prion",
             "fulmar prion"
         ]
     },
@@ -12413,6 +12666,9 @@ data = [
             "Cape hen",
             "whitechinned petrel",
             "white chinned petrel",
+            "white-chinned petrel",
+            "white-chinned petrel",
+            "white-chinned petrel",
             "white-chinned petrel"
         ],
         "images": [
@@ -12633,6 +12889,9 @@ data = [
             "Westland black petrel",
             "t\u0101iko",
             "taiko",
+            "westland petrel",
+            "westland petrel",
+            "westland petrel",
             "westland petrel"
         ],
         "images": [
@@ -12820,6 +13079,9 @@ data = [
             "t\u0101iko",
             "taiko",
             "t\u0101koketai",
+            "black petrel",
+            "black petrel",
+            "black petrel",
             "black petrel"
         ],
         "images": [
@@ -13004,6 +13266,9 @@ data = [
             "brown petrel",
             "black-tailed shearwater",
             "black-tailed petrel",
+            "grey petrel",
+            "grey petrel",
+            "grey petrel",
             "grey petrel"
         ],
         "images": [
@@ -13132,6 +13397,9 @@ data = [
             "wedgetailed shearwater",
             "wedge tailed shearwater",
             "wedge-tailed mutton bird",
+            "wedge-tailed shearwater",
+            "wedge-tailed shearwater",
+            "wedge-tailed shearwater",
             "wedge-tailed shearwater"
         ],
         "images": [
@@ -13311,6 +13579,11 @@ data = [
             "Bullers shearwater",
             "rako",
             "shearwater",
+            "buller's shearwater",
+            "shearwater",
+            "buller's shearwater",
+            "shearwater",
+            "buller's shearwater",
             "buller's shearwater"
         ],
         "images": [
@@ -13534,6 +13807,9 @@ data = [
             "pale-footed shearwater",
             "fleshfooted shearwater",
             "flesh footed shearwater",
+            "flesh-footed shearwater",
+            "flesh-footed shearwater",
+            "flesh-footed shearwater",
             "flesh-footed shearwater"
         ],
         "images": [
@@ -13694,6 +13970,11 @@ data = [
             "New Zealand muttonbird",
             "mutton bird",
             "muttonbird",
+            "sooty shearwater",
+            "muttonbird",
+            "sooty shearwater",
+            "muttonbird",
+            "sooty shearwater",
             "sooty shearwater"
         ],
         "images": [
@@ -13894,6 +14175,9 @@ data = [
             "shorttailed shearwater",
             "short tailed shearwater",
             "Tasmanian mutton bird",
+            "short-tailed shearwater",
+            "short-tailed shearwater",
+            "short-tailed shearwater",
             "short-tailed shearwater"
         ],
         "images": [
@@ -13990,6 +14274,9 @@ data = [
             "Forster's shearwater",
             "flutterer",
             "brown-beaked shearwater",
+            "fluttering shearwater",
+            "fluttering shearwater",
+            "fluttering shearwater",
             "fluttering shearwater"
         ],
         "images": [
@@ -14149,6 +14436,9 @@ data = [
         "status": "Nationally Vulnerable",
         "other_names": [
             "Huttons shearwater",
+            "hutton's shearwater",
+            "hutton's shearwater",
+            "hutton's shearwater",
             "hutton's shearwater"
         ],
         "images": [
@@ -14292,6 +14582,9 @@ data = [
         "status": "Recovering",
         "other_names": [
             "allied shearwater",
+            "little shearwater",
+            "little shearwater",
+            "little shearwater",
             "little shearwater"
         ],
         "images": [
@@ -14431,6 +14724,9 @@ data = [
         "status": "Naturally Uncommon",
         "other_names": [
             "allied shearwater",
+            "subantarctic little shearwater",
+            "subantarctic little shearwater",
+            "subantarctic little shearwater",
             "subantarctic little shearwater"
         ],
         "images": [
@@ -14485,6 +14781,9 @@ data = [
             "Wilson's petrel",
             "Wilsons storm petrel",
             "Wilsons petrel",
+            "wilson's storm petrel",
+            "wilson's storm petrel",
+            "wilson's storm petrel",
             "wilson's storm petrel"
         ],
         "images": [
@@ -14595,6 +14894,9 @@ data = [
             "gray-backed storm petrel",
             "greybacked storm petrel",
             "grey backed storm petrel",
+            "grey-backed storm petrel",
+            "grey-backed storm petrel",
+            "grey-backed storm petrel",
             "grey-backed storm petrel"
         ],
         "images": [
@@ -14720,6 +15022,9 @@ data = [
             "Mother Carey's chicken",
             "whitefaced storm petrel",
             "white faced storm petrel",
+            "white-faced storm petrel",
+            "white-faced storm petrel",
+            "white-faced storm petrel",
             "white-faced storm petrel"
         ],
         "images": [
@@ -14974,6 +15279,9 @@ data = [
         "sounds": [],
         "category": [],
         "other_names": [
+            "kermadec storm petrel",
+            "kermadec storm petrel",
+            "kermadec storm petrel",
             "kermadec storm petrel"
         ]
     },
@@ -15143,7 +15451,10 @@ data = [
             "At sea (or dead on a beach)"
         ],
         "other_names": [
-            "storm petrel"
+            "storm petrel",
+            "storm petrel",
+            "storm petrel",
+            "new zealand storm petrel"
         ]
     },
     {
@@ -15153,6 +15464,9 @@ data = [
         "other_names": [
             "blackbellied storm petrel",
             "black bellied storm petrel",
+            "black-bellied storm petrel",
+            "black-bellied storm petrel",
+            "black-bellied storm petrel",
             "black-bellied storm petrel"
         ],
         "images": [
@@ -15289,6 +15603,9 @@ data = [
             "broad-tailed storm petrel",
             "whitebellied storm petrel",
             "white bellied storm petrel",
+            "white-bellied storm petrel",
+            "white-bellied storm petrel",
+            "white-bellied storm petrel",
             "white-bellied storm petrel"
         ],
         "images": [
@@ -15432,7 +15749,10 @@ data = [
             "kuaka",
             "Richdale's diving petrel",
             "diver",
-            "diving petrel"
+            "diving petrel",
+            "diving petrel",
+            "diving petrel",
+            "common diving petrel"
         ],
         "images": [
             {
@@ -15724,7 +16044,10 @@ data = [
         ],
         "category": [],
         "other_names": [
-            "georgian diving petrel"
+            "georgian diving petrel",
+            "georgian diving petrel",
+            "georgian diving petrel",
+            "south georgian diving petrel"
         ]
     },
     {
@@ -15739,6 +16062,9 @@ data = [
             "'ula",
             "redtailed tropicbird",
             "red tailed tropicbird",
+            "red-tailed tropicbird",
+            "red-tailed tropicbird",
+            "red-tailed tropicbird",
             "red-tailed tropicbird"
         ],
         "images": [
@@ -15959,7 +16285,12 @@ data = [
             "Australian gannet",
             "Pacific gannet",
             "gannet",
-            "gannet"
+            "gannet",
+            "gannet",
+            "gannet",
+            "gannet",
+            "gannet",
+            "australasian gannet"
         ],
         "images": [
             {
@@ -16288,6 +16619,9 @@ data = [
             "white booby",
             "whistling booby",
             "Tasman booby",
+            "masked booby",
+            "masked booby",
+            "masked booby",
             "masked booby"
         ],
         "images": [
@@ -16485,6 +16819,9 @@ data = [
             "little cormorant",
             "kawau paka",
             "little pied cormorant",
+            "little shag",
+            "little shag",
+            "little shag",
             "little shag"
         ],
         "images": [
@@ -16731,6 +17068,9 @@ data = [
             "great cormorant",
             "kawau",
             "large black shag",
+            "black shag",
+            "black shag",
+            "black shag",
             "black shag"
         ],
         "images": [
@@ -16905,6 +17245,9 @@ data = [
             "kawau",
             "yellow-faced cormorant ",
             "large pied shag",
+            "pied shag",
+            "pied shag",
+            "pied shag",
             "pied shag"
         ],
         "images": [
@@ -17194,6 +17537,9 @@ data = [
             "little black cormorant",
             "kawau t\u016b\u012b",
             "kawau tui",
+            "little black shag",
+            "little black shag",
+            "little black shag",
             "little black shag"
         ],
         "images": [
@@ -17378,7 +17724,12 @@ data = [
             "Marlborough Sounds shag",
             "Cook Strait cormorant",
             "king cormorant",
-            "king shag"
+            "king shag",
+            "king cormorant",
+            "king shag",
+            "king cormorant",
+            "king shag",
+            "new zealand king shag"
         ],
         "images": [
             {
@@ -17538,7 +17889,12 @@ data = [
             "Otago shag",
             "Foveaux shag",
             "stewart cormorant",
-            "stewart shag"
+            "stewart shag",
+            "stewart cormorant",
+            "stewart shag",
+            "stewart cormorant",
+            "stewart shag",
+            "stewart island shag"
         ],
         "images": [
             {
@@ -17730,7 +18086,14 @@ data = [
             "Chatham shag",
             "cormorant",
             "shag",
-            "shag"
+            "shag",
+            "cormorant",
+            "shag",
+            "shag",
+            "cormorant",
+            "shag",
+            "shag",
+            "chatham island shag"
         ],
         "images": [
             {
@@ -17860,7 +18223,12 @@ data = [
         "other_names": [
             "Bounty Island cormorant",
             "bounty cormorant",
-            "bounty shag"
+            "bounty shag",
+            "bounty cormorant",
+            "bounty shag",
+            "bounty cormorant",
+            "bounty shag",
+            "bounty island shag"
         ],
         "images": [
             {
@@ -18283,7 +18651,10 @@ data = [
         ],
         "category": [],
         "other_names": [
-            "shag"
+            "shag",
+            "shag",
+            "shag",
+            "auckland island shag"
         ]
     },
     {
@@ -18293,7 +18664,12 @@ data = [
         "other_names": [
             "Campbell Island cormorant",
             "campbell cormorant",
-            "campbell shag"
+            "campbell shag",
+            "campbell cormorant",
+            "campbell shag",
+            "campbell cormorant",
+            "campbell shag",
+            "campbell island shag"
         ],
         "images": [
             {
@@ -18409,7 +18785,12 @@ data = [
         "other_names": [
             "Macquarie Island cormorant",
             "macquarie cormorant",
-            "macquarie shag"
+            "macquarie shag",
+            "macquarie cormorant",
+            "macquarie shag",
+            "macquarie cormorant",
+            "macquarie shag",
+            "macquarie island shag"
         ],
         "images": [
             {
@@ -18491,6 +18872,9 @@ data = [
             "parekareka",
             "kawau tikitiki",
             "blue shag (southern subspecies)",
+            "spotted shag",
+            "spotted shag",
+            "spotted shag",
             "spotted shag"
         ],
         "images": [
@@ -18791,7 +19175,12 @@ data = [
             "Pitt Island cormorant",
             "Pitt shag",
             "pitt cormorant",
-            "pitt shag"
+            "pitt shag",
+            "pitt cormorant",
+            "pitt shag",
+            "pitt cormorant",
+            "pitt shag",
+            "pitt island shag"
         ],
         "images": [
             {
@@ -18974,6 +19363,9 @@ data = [
             "kotuku",
             "great white egret",
             "eastern great egret",
+            "white heron",
+            "white heron",
+            "white heron",
             "white heron"
         ],
         "images": [
@@ -19317,6 +19709,9 @@ data = [
             "Lake, river or wetland"
         ],
         "other_names": [
+            "cattle egret",
+            "cattle egret",
+            "cattle egret",
             "cattle egret"
         ]
     },
@@ -19331,6 +19726,9 @@ data = [
             "blue crane",
             "whitefaced heron",
             "white faced heron",
+            "white-faced heron",
+            "white-faced heron",
+            "white-faced heron",
             "white-faced heron"
         ],
         "images": [
@@ -19592,6 +19990,9 @@ data = [
         "other_names": [
             "matuku moana",
             "eastern reef egret",
+            "reef heron",
+            "reef heron",
+            "reef heron",
             "reef heron"
         ],
         "images": [
@@ -19810,7 +20211,10 @@ data = [
             "matuku-hurepo",
             "boomer",
             "brown bittern",
-            "bittern"
+            "bittern",
+            "bittern",
+            "bittern",
+            "australasian bittern"
         ],
         "images": [
             {
@@ -20043,6 +20447,9 @@ data = [
             "k\u014dtuku ngutupapa",
             "kotuku ngutupapa",
             "black-billed spoonbill",
+            "royal spoonbill",
+            "royal spoonbill",
+            "royal spoonbill",
             "royal spoonbill"
         ],
         "images": [
@@ -20288,6 +20695,11 @@ data = [
             "k\u0101hu",
             "kahu",
             "harrier",
+            "swamp harrier",
+            "harrier",
+            "swamp harrier",
+            "harrier",
+            "swamp harrier",
             "swamp harrier"
         ],
         "images": [
@@ -20480,7 +20892,7 @@ data = [
             "karearea",
             "quail hawk",
             "falcon",
-            "falcon"
+            "new zealand falcon"
         ],
         "images": [
             {
@@ -20723,7 +21135,10 @@ data = [
         ],
         "category": [],
         "other_names": [
-            "rail"
+            "rail",
+            "rail",
+            "rail",
+            "auckland island rail"
         ]
     },
     {
@@ -20736,6 +21151,9 @@ data = [
             "kata tei",
             "moho perer\u016b",
             "buff-banded rail",
+            "banded rail",
+            "banded rail",
+            "banded rail",
             "banded rail"
         ],
         "images": [
@@ -20992,6 +21410,9 @@ data = [
         "status": "Not Threatened",
         "other_names": [
             "woodhen",
+            "weka",
+            "weka",
+            "weka",
             "weka"
         ],
         "images": [
@@ -21212,6 +21633,9 @@ data = [
             "p\u016bweto",
             "puweto",
             "putoto",
+            "spotless crake",
+            "spotless crake",
+            "spotless crake",
             "spotless crake"
         ],
         "images": [
@@ -21357,6 +21781,9 @@ data = [
             "Baillon's crake",
             "koitareke",
             "kotoreke",
+            "marsh crake",
+            "marsh crake",
+            "marsh crake",
             "marsh crake"
         ],
         "images": [
@@ -21559,6 +21986,11 @@ data = [
             "pook",
             "Australasian swamphen",
             "swamphen",
+            "pukeko",
+            "swamphen",
+            "pukeko",
+            "swamphen",
+            "pukeko",
             "pukeko"
         ],
         "images": [
@@ -21791,7 +22223,10 @@ data = [
         "other_names": [
             "takah\u0113",
             "notornis",
-            "takahe"
+            "takahe",
+            "takahe",
+            "takahe",
+            "south island takahe"
         ],
         "images": [
             {
@@ -22013,7 +22448,12 @@ data = [
             "Eurasian coot",
             "common coot",
             "coot",
-            "coot"
+            "coot",
+            "coot",
+            "coot",
+            "coot",
+            "coot",
+            "australian coot"
         ],
         "images": [
             {
@@ -22420,7 +22860,10 @@ data = [
             "Chatham Islands (not at sea)"
         ],
         "other_names": [
-            "snipe"
+            "snipe",
+            "snipe",
+            "snipe",
+            "chatham island snipe"
         ]
     },
     {
@@ -22431,7 +22874,12 @@ data = [
             "tutukiwi",
             "New Zealand snipe (collective name for several forms now recognised as full species)",
             "snipe (collective name for several forms now recognised as full species)",
-            "snares snipe"
+            "snares snipe",
+            "snipe (collective name for several forms now recognised as full species)",
+            "snares snipe",
+            "snipe (collective name for several forms now recognised as full species)",
+            "snares snipe",
+            "snares island snipe"
         ],
         "images": [
             {
@@ -22515,6 +22963,13 @@ data = [
             "New Zealand snipe (collective name for several forms now recognised as full species) ",
             "snipe",
             "snipe (collective name for several forms now recognised as full species)",
+            "subantarctic snipe",
+            "snipe",
+            "snipe (collective name for several forms now recognised as full species)",
+            "subantarctic snipe",
+            "snipe",
+            "snipe (collective name for several forms now recognised as full species)",
+            "subantarctic snipe",
             "subantarctic snipe"
         ],
         "images": [
@@ -22700,6 +23155,9 @@ data = [
             "red knot",
             "knot",
             "huahou",
+            "lesser knot",
+            "lesser knot",
+            "lesser knot",
             "lesser knot"
         ],
         "images": [
@@ -22862,6 +23320,9 @@ data = [
         "other_names": [
             "sharptailed sandpiper",
             "sharp tailed sandpiper",
+            "sharp-tailed sandpiper",
+            "sharp-tailed sandpiper",
+            "sharp-tailed sandpiper",
             "sharp-tailed sandpiper"
         ],
         "images": [
@@ -23003,6 +23464,9 @@ data = [
             "rufous-necked stint",
             "rednecked stint",
             "red necked stint",
+            "red-necked stint",
+            "red-necked stint",
+            "red-necked stint",
             "red-necked stint"
         ],
         "images": [
@@ -23128,6 +23592,9 @@ data = [
         "other_names": [
             "Asiatic whimbrel",
             "American whimbrel",
+            "whimbrel",
+            "whimbrel",
+            "whimbrel",
             "whimbrel"
         ],
         "images": [
@@ -23345,6 +23812,9 @@ data = [
             "barwit",
             "bartailed godwit",
             "bar tailed godwit",
+            "bar-tailed godwit",
+            "bar-tailed godwit",
+            "bar-tailed godwit",
             "bar-tailed godwit"
         ],
         "images": [
@@ -23561,6 +24031,9 @@ data = [
         "other_names": [
             "turnstone",
             "eastern turnstone",
+            "ruddy turnstone",
+            "ruddy turnstone",
+            "ruddy turnstone",
             "ruddy turnstone"
         ],
         "images": [
@@ -23753,6 +24226,9 @@ data = [
             "t\u014drea",
             "torea",
             "VOC",
+            "variable oystercatcher",
+            "variable oystercatcher",
+            "variable oystercatcher",
             "variable oystercatcher"
         ],
         "images": [
@@ -23999,7 +24475,12 @@ data = [
             "torea",
             "SIPO",
             "pied oystercatcher",
-            "pied oystercatcher"
+            "pied oystercatcher",
+            "pied oystercatcher",
+            "pied oystercatcher",
+            "pied oystercatcher",
+            "pied oystercatcher",
+            "south island pied oystercatcher"
         ],
         "images": [
             {
@@ -24193,7 +24674,10 @@ data = [
         "other_names": [
             "t\u014drea tai",
             "torea tai",
-            "oystercatcher"
+            "oystercatcher",
+            "oystercatcher",
+            "oystercatcher",
+            "chatham island oystercatcher"
         ],
         "images": [
             {
@@ -24311,6 +24795,11 @@ data = [
             "Australasian pied stilt",
             "black-winged stilt",
             "white-headed stilt",
+            "pied stilt",
+            "pied stilt",
+            "pied stilt",
+            "pied stilt",
+            "pied stilt",
             "pied stilt",
             "pied stilt"
         ],
@@ -24597,6 +25086,9 @@ data = [
         "other_names": [
             "kak\u012b",
             "kaki",
+            "black stilt",
+            "black stilt",
+            "black stilt",
             "black stilt"
         ],
         "images": [
@@ -24796,6 +25288,9 @@ data = [
             "eastern golden plover",
             "least golden plover",
             "lesser golden plover",
+            "pacific golden plover",
+            "pacific golden plover",
+            "pacific golden plover",
             "pacific golden plover"
         ],
         "images": [
@@ -24958,7 +25453,10 @@ data = [
             "tuturiwhatu",
             "tuturiwhatu-pukunui",
             "rako",
-            "dotterel"
+            "dotterel",
+            "dotterel",
+            "dotterel",
+            "new zealand dotterel"
         ],
         "images": [
             {
@@ -25205,6 +25703,9 @@ data = [
             "t\u016bturiwhatu",
             "tuturiwhatu",
             "pohowera",
+            "banded dotterel",
+            "banded dotterel",
+            "banded dotterel",
             "banded dotterel"
         ],
         "images": [
@@ -25495,6 +25996,9 @@ data = [
             "ngutu pare",
             "wrybill plover",
             "crook-bill",
+            "wrybill",
+            "wrybill",
+            "wrybill",
             "wrybill"
         ],
         "images": [
@@ -25681,6 +26185,9 @@ data = [
             "black-fronted plover",
             "blackfronted dotterel",
             "black fronted dotterel",
+            "black-fronted dotterel",
+            "black-fronted dotterel",
+            "black-fronted dotterel",
             "black-fronted dotterel"
         ],
         "images": [
@@ -25882,6 +26389,13 @@ data = [
             "shore dotterel",
             "shore plover",
             "plover",
+            "shore plover",
+            "shore plover",
+            "plover",
+            "shore plover",
+            "shore plover",
+            "plover",
+            "shore plover",
             "shore plover"
         ],
         "images": [
@@ -26072,6 +26586,9 @@ data = [
             "spur-wing",
             "spurwinged plover",
             "spur winged plover",
+            "spur-winged plover",
+            "spur-winged plover",
+            "spur-winged plover",
             "spur-winged plover"
         ],
         "images": [
@@ -26288,6 +26805,13 @@ data = [
             "hakoakoa",
             "skua",
             "great skua",
+            "subantarctic skua",
+            "skua",
+            "great skua",
+            "subantarctic skua",
+            "skua",
+            "great skua",
+            "subantarctic skua",
             "subantarctic skua"
         ],
         "images": [
@@ -26569,7 +27093,10 @@ data = [
         "other_names": [
             "Antarctic skua",
             "McCormick's skua",
-            "polar skua"
+            "polar skua",
+            "polar skua",
+            "polar skua",
+            "south polar skua"
         ],
         "images": [
             {
@@ -26740,6 +27267,9 @@ data = [
         "status": "Migrant",
         "other_names": [
             "pomarine jaeger",
+            "pomarine skua",
+            "pomarine skua",
+            "pomarine skua",
             "pomarine skua"
         ],
         "images": [
@@ -26842,6 +27372,9 @@ data = [
         "status": "Migrant",
         "other_names": [
             "parasitic jaeger (jaeger is German for hunter)",
+            "arctic skua",
+            "arctic skua",
+            "arctic skua",
             "arctic skua"
         ],
         "images": [
@@ -27028,6 +27561,9 @@ data = [
             "long-tailed jaeger",
             "longtailed skua",
             "long tailed skua",
+            "long-tailed skua",
+            "long-tailed skua",
+            "long-tailed skua",
             "long-tailed skua"
         ],
         "images": [
@@ -27143,7 +27679,10 @@ data = [
             "seagull",
             "blackbacked gull",
             "black backed gull",
-            "black-backed gull"
+            "black-backed gull",
+            "black-backed gull",
+            "black-backed gull",
+            "southern black-backed gull"
         ],
         "images": [
             {
@@ -27340,6 +27879,9 @@ data = [
             "seagull",
             "redbilled gull",
             "red billed gull",
+            "red-billed gull",
+            "red-billed gull",
+            "red-billed gull",
             "red-billed gull"
         ],
         "images": [
@@ -27560,6 +28102,9 @@ data = [
             "seagull",
             "blackbilled gull",
             "black billed gull",
+            "black-billed gull",
+            "black-billed gull",
+            "black-billed gull",
             "black-billed gull"
         ],
         "images": [
@@ -27800,6 +28345,9 @@ data = [
         "status": "Naturally Uncommon",
         "other_names": [
             "white-capped noddy",
+            "black noddy",
+            "black noddy",
+            "black noddy",
             "black noddy"
         ],
         "images": [
@@ -27913,6 +28461,9 @@ data = [
             "gray ternlet",
             "gray noddy",
             "blue-gray noddy",
+            "grey noddy",
+            "grey noddy",
+            "grey noddy",
             "grey noddy"
         ],
         "images": [
@@ -28096,6 +28647,9 @@ data = [
             "white noddy",
             "love tern",
             "angel tern",
+            "white tern",
+            "white tern",
+            "white tern",
             "white tern"
         ],
         "images": [
@@ -28220,6 +28774,9 @@ data = [
             "wideawake tern",
             "egg bird",
             "whale bird",
+            "sooty tern",
+            "sooty tern",
+            "sooty tern",
             "sooty tern"
         ],
         "images": [
@@ -28532,6 +29089,9 @@ data = [
             "Harbour, estuary or rivermouth"
         ],
         "other_names": [
+            "little tern",
+            "little tern",
+            "little tern",
             "little tern"
         ]
     },
@@ -28541,6 +29101,9 @@ data = [
         "status": "Nationally Critical",
         "other_names": [
             "tara iti",
+            "fairy tern",
+            "fairy tern",
+            "fairy tern",
             "fairy tern"
         ],
         "images": [
@@ -28715,6 +29278,9 @@ data = [
         "status": "Nationally Vulnerable",
         "other_names": [
             "taranui",
+            "caspian tern",
+            "caspian tern",
+            "caspian tern",
             "caspian tern"
         ],
         "images": [
@@ -28919,6 +29485,9 @@ data = [
             "white-winged tern",
             "whitewinged black tern",
             "white winged black tern",
+            "white-winged black tern",
+            "white-winged black tern",
+            "white-winged black tern",
             "white-winged black tern"
         ],
         "images": [
@@ -29104,6 +29673,9 @@ data = [
             "tarapiroe",
             "blackfronted tern",
             "black fronted tern",
+            "black-fronted tern",
+            "black-fronted tern",
+            "black-fronted tern",
             "black-fronted tern"
         ],
         "images": [
@@ -29320,6 +29892,9 @@ data = [
             "black-billed tern",
             "whitefronted tern",
             "white fronted tern",
+            "white-fronted tern",
+            "white-fronted tern",
+            "white-fronted tern",
             "white-fronted tern"
         ],
         "images": [
@@ -29787,6 +30362,9 @@ data = [
         ],
         "category": [],
         "other_names": [
+            "antarctic tern",
+            "antarctic tern",
+            "antarctic tern",
             "antarctic tern"
         ]
     },
@@ -29934,6 +30512,9 @@ data = [
             "Coastal"
         ],
         "other_names": [
+            "arctic tern",
+            "arctic tern",
+            "arctic tern",
             "arctic tern"
         ]
     },
@@ -29948,6 +30529,9 @@ data = [
             "rock dove",
             "homing pigeon",
             "street pigeon",
+            "rock pigeon",
+            "rock pigeon",
+            "rock pigeon",
             "rock pigeon"
         ],
         "images": [
@@ -30130,6 +30714,9 @@ data = [
             "African ring-necked dove",
             "ringed turtle dove",
             "ring dove",
+            "barbary dove",
+            "barbary dove",
+            "barbary dove",
             "barbary dove"
         ],
         "images": [
@@ -30244,6 +30831,9 @@ data = [
             "Chinese dove",
             "pearl-necked dove",
             "laceneck dove",
+            "spotted dove",
+            "spotted dove",
+            "spotted dove",
             "spotted dove"
         ],
         "images": [
@@ -30320,7 +30910,10 @@ data = [
             "wood pigeon",
             "native pigeon",
             "kokopa",
-            "pigeon"
+            "pigeon",
+            "pigeon",
+            "pigeon",
+            "new zealand pigeon"
         ],
         "images": [
             {
@@ -30649,7 +31242,10 @@ data = [
         "status": "Nationally Vulnerable",
         "other_names": [
             "parea",
-            "pigeon"
+            "pigeon",
+            "pigeon",
+            "pigeon",
+            "chatham island pigeon"
         ],
         "images": [
             {
@@ -30800,6 +31396,9 @@ data = [
             "tarapo",
             "tarepo",
             "night parrot",
+            "kakapo",
+            "kakapo",
+            "kakapo",
             "kakapo"
         ],
         "images": [
@@ -30932,6 +31531,9 @@ data = [
             "k\u0101k\u0101",
             "brown parrot",
             "kawkaw",
+            "kaka",
+            "kaka",
+            "kaka",
             "kaka"
         ],
         "images": [
@@ -31162,6 +31764,11 @@ data = [
             "mountain parrot",
             "New Zealand mountain parrot",
             "mountain parrot",
+            "kea",
+            "mountain parrot",
+            "kea",
+            "mountain parrot",
+            "kea",
             "kea"
         ],
         "images": [
@@ -31382,6 +31989,9 @@ data = [
             "white cockatoo",
             "sulphurcrested cockatoo",
             "sulphur crested cockatoo",
+            "sulphur-crested cockatoo",
+            "sulphur-crested cockatoo",
+            "sulphur-crested cockatoo",
             "sulphur-crested cockatoo"
         ],
         "images": [
@@ -31550,6 +32160,9 @@ data = [
             "roseate cockatoo",
             "rose-breasted cockatoo",
             "Willock cockatoo",
+            "galah",
+            "galah",
+            "galah",
             "galah"
         ],
         "images": [
@@ -31765,6 +32378,9 @@ data = [
             "crimson parrot",
             "red lowry",
             "mountain lowry",
+            "crimson rosella",
+            "crimson rosella",
+            "crimson rosella",
             "crimson rosella"
         ],
         "images": [
@@ -31909,6 +32525,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "white-cheeked rosella",
+            "eastern rosella",
+            "eastern rosella",
+            "eastern rosella",
             "eastern rosella"
         ],
         "images": [
@@ -32119,6 +32738,9 @@ data = [
             "powhaitere",
             "redcrowned parakeet",
             "red crowned parakeet",
+            "red-crowned parakeet",
+            "red-crowned parakeet",
+            "red-crowned parakeet",
             "red-crowned parakeet"
         ],
         "images": [
@@ -32347,6 +32969,9 @@ data = [
             "kakariki",
             "yellow crowned parakeet",
             "yellowcrowned parakeet",
+            "yellow-crowned parakeet",
+            "yellow-crowned parakeet",
+            "yellow-crowned parakeet",
             "yellow-crowned parakeet"
         ],
         "images": [
@@ -32479,6 +33104,9 @@ data = [
             "kakariki karaka",
             "orangefronted parakeet",
             "orange fronted parakeet",
+            "orange-fronted parakeet",
+            "orange-fronted parakeet",
+            "orange-fronted parakeet",
             "orange-fronted parakeet"
         ],
         "images": [
@@ -32677,6 +33305,11 @@ data = [
             "Forbe's parakeet",
             "Forbes's parakeet",
             "yellow-crowned parakeet",
+            "forbes' parakeet",
+            "yellow-crowned parakeet",
+            "forbes' parakeet",
+            "yellow-crowned parakeet",
+            "forbes' parakeet",
             "forbes' parakeet"
         ],
         "images": [
@@ -32807,7 +33440,10 @@ data = [
         "other_names": [
             "green parakeet",
             "uniform parakeet",
-            "antipodes parakeet"
+            "antipodes parakeet",
+            "antipodes parakeet",
+            "antipodes parakeet",
+            "antipodes island parakeet"
         ],
         "images": [
             {
@@ -32947,6 +33583,9 @@ data = [
         "other_names": [
             "Antipodes red-crowned parakeet",
             "Reischeks parakeet",
+            "reischek's parakeet",
+            "reischek's parakeet",
+            "reischek's parakeet",
             "reischek's parakeet"
         ],
         "images": [
@@ -33030,6 +33669,9 @@ data = [
             "shining bronze-cuckoo",
             "pipiwharauroa",
             "p\u012bp\u012bwharauroa",
+            "shining cuckoo",
+            "shining cuckoo",
+            "shining cuckoo",
             "shining cuckoo"
         ],
         "images": [
@@ -33264,6 +33906,9 @@ data = [
             "long-tailed koel",
             "longtailed cuckoo",
             "long tailed cuckoo",
+            "long-tailed cuckoo",
+            "long-tailed cuckoo",
+            "long-tailed cuckoo",
             "long-tailed cuckoo"
         ],
         "images": [
@@ -33399,6 +34044,11 @@ data = [
             "boobook",
             "New Zealand owl",
             "owl",
+            "morepork",
+            "owl",
+            "morepork",
+            "owl",
+            "morepork",
             "morepork"
         ],
         "images": [
@@ -33592,6 +34242,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "German owl",
+            "little owl",
+            "little owl",
+            "little owl",
             "little owl"
         ],
         "images": [
@@ -33742,6 +34395,9 @@ data = [
         "other_names": [
             "kookaburra",
             "laughing-jackass",
+            "laughing kookaburra",
+            "laughing kookaburra",
+            "laughing kookaburra",
             "laughing kookaburra"
         ],
         "images": [
@@ -33908,6 +34564,11 @@ data = [
             "k\u014dtare",
             "kotare",
             "kingfisher",
+            "sacred kingfisher",
+            "kingfisher",
+            "sacred kingfisher",
+            "kingfisher",
+            "sacred kingfisher",
             "sacred kingfisher"
         ],
         "images": [
@@ -34184,6 +34845,9 @@ data = [
         "other_names": [
             "t\u012btitipounamu",
             "titipounamu",
+            "rifleman",
+            "rifleman",
+            "rifleman",
             "rifleman"
         ],
         "images": [
@@ -34362,6 +35026,13 @@ data = [
             "tuke",
             "rock wren",
             "wren",
+            "rock wren",
+            "rock wren",
+            "wren",
+            "rock wren",
+            "rock wren",
+            "wren",
+            "rock wren",
             "rock wren"
         ],
         "images": [
@@ -34471,7 +35142,10 @@ data = [
             "onge",
             "pakara",
             "werewere",
-            "kokako"
+            "kokako",
+            "kokako",
+            "kokako",
+            "north island kokako"
         ],
         "images": [
             {
@@ -34713,7 +35387,10 @@ data = [
             "k\u014dka",
             "koka",
             "cinereous wattlebird",
-            "kokako"
+            "kokako",
+            "kokako",
+            "kokako",
+            "south island kokako"
         ],
         "images": [
             {
@@ -34766,7 +35443,10 @@ data = [
             "t\u012beke",
             "tieke",
             "tiaki",
-            "saddleback"
+            "saddleback",
+            "saddleback",
+            "saddleback",
+            "north island saddleback"
         ],
         "images": [
             {
@@ -34979,7 +35659,10 @@ data = [
             "t\u012beke",
             "tieke",
             "jackbird",
-            "saddleback"
+            "saddleback",
+            "saddleback",
+            "saddleback",
+            "south island saddleback"
         ],
         "images": [
             {
@@ -35102,6 +35785,9 @@ data = [
         "status": "Nationally Vulnerable",
         "other_names": [
             "hihi",
+            "stitchbird",
+            "stitchbird",
+            "stitchbird",
             "stitchbird"
         ],
         "images": [
@@ -35299,6 +35985,11 @@ data = [
             "New Zealand gerygone",
             "grey gerygone",
             "gerygone",
+            "grey warbler",
+            "gerygone",
+            "grey warbler",
+            "gerygone",
+            "grey warbler",
             "grey warbler"
         ],
         "images": [
@@ -35477,7 +36168,12 @@ data = [
         "other_names": [
             "Chatham gerygone",
             "gerygone",
-            "warbler"
+            "warbler",
+            "gerygone",
+            "warbler",
+            "gerygone",
+            "warbler",
+            "chatham island warbler"
         ],
         "images": [
             {
@@ -35610,6 +36306,11 @@ data = [
             "makomako",
             "mockie",
             "bell bird",
+            "bellbird",
+            "bellbird",
+            "bellbird",
+            "bellbird",
+            "bellbird",
             "bellbird",
             "bellbird"
         ],
@@ -35950,6 +36651,9 @@ data = [
             "t\u016b\u012b",
             "k\u014dk\u014d",
             "koko",
+            "tui",
+            "tui",
+            "tui",
             "tui"
         ],
         "images": [
@@ -36249,6 +36953,9 @@ data = [
             "popokatea",
             "p\u014dpokotea",
             "popokotea",
+            "whitehead",
+            "whitehead",
+            "whitehead",
             "whitehead"
         ],
         "images": [
@@ -36428,6 +37135,9 @@ data = [
             "mohua",
             "bush canary",
             "mohoua",
+            "yellowhead",
+            "yellowhead",
+            "yellowhead",
             "yellowhead"
         ],
         "images": [
@@ -36594,6 +37304,13 @@ data = [
             "New Zealand titmouse",
             "creeper",
             "titmouse",
+            "brown creeper",
+            "creeper",
+            "titmouse",
+            "brown creeper",
+            "creeper",
+            "titmouse",
+            "brown creeper",
             "brown creeper"
         ],
         "images": [
@@ -36733,7 +37450,10 @@ data = [
             "black-backed magpie",
             "makipae",
             "makipai",
-            "magpie"
+            "magpie",
+            "magpie",
+            "magpie",
+            "australian magpie"
         ],
         "images": [
             {
@@ -36900,7 +37620,10 @@ data = [
             "black fantail",
             "t\u012brairaka",
             "tirairaka",
-            "fantail"
+            "fantail",
+            "fantail",
+            "fantail",
+            "new zealand fantail"
         ],
         "images": [
             {
@@ -37150,6 +37873,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "crow",
+            "rook",
+            "rook",
+            "rook",
             "rook"
         ],
         "images": [
@@ -37263,6 +37989,11 @@ data = [
             "black tomtit",
             "piropiro",
             "maui-potiki",
+            "tomtit",
+            "tomtit",
+            "tomtit",
+            "tomtit",
+            "tomtit",
             "tomtit",
             "tomtit"
         ],
@@ -37458,7 +38189,12 @@ data = [
             "toutouwai",
             "bush robin",
             "robin",
-            "robin"
+            "robin",
+            "robin",
+            "robin",
+            "robin",
+            "robin",
+            "north island robin"
         ],
         "images": [
             {
@@ -37591,7 +38327,12 @@ data = [
             "toutouwai",
             "bush robin",
             "robin",
-            "robin"
+            "robin",
+            "robin",
+            "robin",
+            "robin",
+            "robin",
+            "south island robin"
         ],
         "images": [
             {
@@ -37831,6 +38572,13 @@ data = [
             "kakaruia",
             "black robin",
             "robin",
+            "black robin",
+            "black robin",
+            "robin",
+            "black robin",
+            "black robin",
+            "robin",
+            "black robin",
             "black robin"
         ],
         "images": [
@@ -37953,6 +38701,11 @@ data = [
             "kaireka",
             "common skylark",
             "skylark",
+            "eurasian skylark",
+            "skylark",
+            "eurasian skylark",
+            "skylark",
+            "eurasian skylark",
             "eurasian skylark"
         ],
         "images": [
@@ -38128,6 +38881,9 @@ data = [
             "matata",
             "koroatito",
             "utick",
+            "fernbird",
+            "fernbird",
+            "fernbird",
             "fernbird"
         ],
         "images": [
@@ -38339,6 +39095,9 @@ data = [
             "tauhou",
             "silver-eye",
             "wax-eye",
+            "silvereye",
+            "silvereye",
+            "silvereye",
             "silvereye"
         ],
         "images": [
@@ -38559,6 +39318,9 @@ data = [
         "other_names": [
             "warou",
             "house swallow",
+            "welcome swallow",
+            "welcome swallow",
+            "welcome swallow",
             "welcome swallow"
         ],
         "images": [
@@ -38817,6 +39579,11 @@ data = [
             "common blackbird",
             "manu pango",
             "blackbird",
+            "eurasian blackbird",
+            "blackbird",
+            "eurasian blackbird",
+            "blackbird",
+            "eurasian blackbird",
             "eurasian blackbird"
         ],
         "images": [
@@ -39034,6 +39801,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "thrush",
+            "song thrush",
+            "song thrush",
+            "song thrush",
             "song thrush"
         ],
         "images": [
@@ -39181,7 +39951,12 @@ data = [
             "starling",
             "European starling",
             "starling",
-            "starling"
+            "starling",
+            "starling",
+            "starling",
+            "starling",
+            "starling",
+            "common starling"
         ],
         "images": [
             {
@@ -39403,7 +40178,10 @@ data = [
             "myna",
             "Indian myna",
             "mynah",
-            "myna"
+            "myna",
+            "myna",
+            "myna",
+            "common myna"
         ],
         "images": [
             {
@@ -39572,6 +40350,9 @@ data = [
         "other_names": [
             "tiu",
             "English sparrow ",
+            "house sparrow",
+            "house sparrow",
+            "house sparrow",
             "house sparrow"
         ],
         "images": [
@@ -39823,7 +40604,10 @@ data = [
             "p\u012bhoihoi",
             "pihoihoi",
             "Richard's pipit",
-            "pipit"
+            "pipit",
+            "pipit",
+            "pipit",
+            "new zealand pipit"
         ],
         "images": [
             {
@@ -40051,6 +40835,9 @@ data = [
         "other_names": [
             "hedge sparrow",
             "hedge accentor",
+            "dunnock",
+            "dunnock",
+            "dunnock",
             "dunnock"
         ],
         "images": [
@@ -40192,6 +40979,11 @@ data = [
         "other_names": [
             "pahirini",
             "common chaffinch",
+            "chaffinch",
+            "chaffinch",
+            "chaffinch",
+            "chaffinch",
+            "chaffinch",
             "chaffinch",
             "chaffinch"
         ],
@@ -40374,7 +41166,10 @@ data = [
             "green linnet",
             "greenie",
             "green finch",
-            "greenfinch"
+            "greenfinch",
+            "greenfinch",
+            "greenfinch",
+            "european greenfinch"
         ],
         "images": [
             {
@@ -40521,7 +41316,10 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "goldfinch",
-            "goldfinch"
+            "goldfinch",
+            "goldfinch",
+            "goldfinch",
+            "european goldfinch"
         ],
         "images": [
             {
@@ -40713,7 +41511,10 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "redpoll",
-            "redpoll"
+            "redpoll",
+            "redpoll",
+            "redpoll",
+            "common redpoll"
         ],
         "images": [
             {
@@ -40839,6 +41640,9 @@ data = [
         "status": "Introduced and Naturalised",
         "other_names": [
             "yellow bunting",
+            "yellowhammer",
+            "yellowhammer",
+            "yellowhammer",
             "yellowhammer"
         ],
         "images": [
@@ -41170,6 +41974,9 @@ data = [
             "Farmland or horticultural block"
         ],
         "other_names": [
+            "cirl bunting",
+            "cirl bunting",
+            "cirl bunting",
             "cirl bunting"
         ]
     }

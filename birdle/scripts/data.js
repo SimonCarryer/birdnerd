@@ -60,11 +60,6 @@ data = [
                 "copyright": "Adam Clarke"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120047OR.012785%23a~v%201~Apteryx%20australis%20%20mantelli.jpg",
-                "alt": "North Island brown kiwi. Egg 129.3 x 82.9 mm (NMNZ OR.012785/a, collected by NZ Wildlife Service). Whangarei, August 1967. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200471000th%20Chick.jpg",
                 "alt": "North Island brown kiwi. Newly hatched chick. Kiwi Encounter Rainbow Springs, September 2011. Image &copy; National Kiwi Trust by National Kiwi Trust 1000th kiwi chick hatched at Kiwi Encounter - Rainbow Springs breeding facility at Rotorua",
                 "copyright": "National Kiwi Trust"
@@ -236,11 +231,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120048rowi_chick_small%5B1%5D.jpg",
                 "alt": "Okarito brown kiwi. Chick with white patches on face (a common feature of this species). Franz Josef, February 2013. Image &copy; Julie Alach by Julie Alach",
                 "copyright": "Julie Alach"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120048OR.006710~v%201~Apteryx%20rowi.jpg",
-                "alt": "Okarito brown kiwi. Egg 126.0 x 79.3 mm (NMNZ OR.006710, collector unknown). Okarito. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120048Motuara_094_small%5B1%5D.jpg",
@@ -416,21 +406,6 @@ data = [
                 "copyright": "Andrew Digby"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120050apd-20101105-DIMG_0004_k20egg.jpg",
-                "alt": "Little spotted kiwi. Egg in nest. Karori Sanctuary / Zealandia, November 2010. Image &copy; Andrew Digby by Andrew Digby \u00a9 Andrew Digbyhttp://photos.andrewdigby.com",
-                "copyright": "Andrew Digby"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120050apd-20101105-DIMG_0008_k26egg.jpg",
-                "alt": "Little spotted kiwi. Egg in nest. Karori Sanctuary / Zealandia, November 2010. Image &copy; Andrew Digby by Andrew Digby \u00a9 Andrew Digbyhttp://photos.andrewdigby.com",
-                "copyright": "Andrew Digby"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120050OR.025240~v%201~Apteryx%20oweni.jpg",
-                "alt": "Little spotted kiwi. Egg 108.3 x 69.2 mm (NMNZ OR.025240, collected by Jim Jolly, NZ Wildlife Service). Kapiti Island, November 1984. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120050apd-20110110-S0294.jpg",
                 "alt": "Little spotted kiwi. Chick. Karori Sanctuary / Zealandia, January 2011. Image &copy; Andrew Digby by Andrew Digby \u00a9 Andrew Digbyhttp://photos.andrewdigby.com",
                 "copyright": "Andrew Digby"
@@ -595,16 +570,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120052MLM_0675eded.jpg",
                 "alt": "California quail. Adult pair (male on left). Whitford area, Auckland, February 2016. Image &copy; Marie-Louise Myburgh by Marie-Louise Myburgh",
                 "copyright": "Marie-Louise Myburgh"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120052OR.012021~v%201~Lophortyx%20californica%20n.jpg",
-                "alt": "California quail. Egg (NMNZ OR.012021, collected by I. Mackenzie). Aviary, Lower Hutt, December 1965. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120052OR.012021~v%202~Lophortyx%20californica%20n.jpg",
-                "alt": "California quail. Clutch (NMNZ OR.012021, collected by I. Mackenzie). Aviary, Lower Hutt, December 1965. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120052California%20Quail%20Family.jpg",
@@ -893,11 +858,6 @@ data = [
                 "copyright": "Eugene Polkan"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120053OR.029710~v%201~Numida%20meleagris.jpg",
-                "alt": "Helmeted guineafowl. Egg 52.1 x 37.1 mm (NMNZ OR.029710). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120053IMG_0755.JPG",
                 "alt": "Helmeted guineafowl. Adult with young chicks. Kirstenbosch Botanical Gardens, Cape Town, South Africa, October 2015. Image &copy; Geoff de Lisle by Geoff de Lisle",
                 "copyright": "Geoff de Lisle"
@@ -1078,21 +1038,6 @@ data = [
                 "copyright": "Les Feasey"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120060IMG_1728%20L.jpg",
-                "alt": "Brown quail. Eggs in nest. Morrinsville, April 2006. Image &copy; Andrew Thomas by Andrew Thomas",
-                "copyright": "Andrew Thomas"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120060Brown%20Quail%20eggs%20No.1.jpg",
-                "alt": "Brown quail. Eggs laid by captive bird. Upper Hutt. Image &copy; David Angus by David Angus",
-                "copyright": "David Angus"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120060OR.021343~v%201~Synoicus%20ypsilophorus.jpg",
-                "alt": "Brown quail. Egg 31.5 x 23.1 mm (NMNZ OR.021343, collected by T. Cockcroft). Kaitaia. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120060DSC_0172.JPG",
                 "alt": "Brown quail. Adult sitting. Tiritiri Matangi Island, November 2008. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -1266,11 +1211,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120062PheasantsCopulating.jpg",
                 "alt": "Common pheasant. Adults copulating. Cornwall Park, October 2016. Image &copy; John and Melody Anderson, Wayfarer International Ltd by John and Melody Anderson Love our Birds\u00ae&nbsp;| www.wayfarerimages.co.nz",
                 "copyright": "John and Melody Anderson, Wayfarer International Ltd"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120062OR.026496~v%201~Phasianus%20colchicus.jpg",
-                "alt": "Common pheasant. Egg 41.4 x 33.9 mm (NMNZ OR.026496, collected by Arnold Wells). Taranaki. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120062Birds%20online%20CD1%20061.jpg",
@@ -1489,16 +1429,6 @@ data = [
                 "copyright": "Marie-louse Myburgh"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120064OR.021332~v%201~Meleagris%20gallopavo%20a.jpg",
-                "alt": "Wild turkey. Egg 65.4 x 47.4 mm (NMNZ OR.021332, collected by Thomas Cockcroft). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120064OR.021332~v%202~Meleagris%20gallopavo%20a.jpg",
-                "alt": "Wild turkey. Clutch (NMNZ OR.021332, collected by Thomas Cockcroft). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120064Turkeys.jpg",
                 "alt": "Wild turkey. Adult male with chicks. Waimarama, Southern Hawke's Bay, November 2011. Image &copy; Roger Smith by Roger Smith",
                 "copyright": "Roger Smith"
@@ -1610,11 +1540,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120068Birds%20online%20CD1%20023.jpg",
                 "alt": "Mute swan. Adult on nest. Rocky Point, Lake Ellesmere. Image &copy; Department of Conservation ( image ref: 10037606 ) by Peter Morrison, Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120068OR.016453~v%201~Cygnus%20olor.jpg",
-                "alt": "Mute swan. Egg 112.7 x 75.4 mm (NMNZ OR.016453, collected by NZ Wildlife Service). Waikato. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120068IMG_4774.JPG",
@@ -1747,21 +1672,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120069Family%20of%20Black%20Swans.jpg",
                 "alt": "Black swan. Pair near their nest with 4 cygnets. Nelson sewage ponds, March 2017. Image &copy; Rebecca Bowater by Rebecca Bowater FPSNZ AFIAP www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120069OR.018751~v%201~Cygnus%20atratus%20b.jpg",
-                "alt": "Black swan. Egg 100.9 x 68.4 mm (NMNZ OR.018751, collected by Frederich-Carl Kinsky). Lake Wairarapa, October 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120069OR.018751~v%202~Cygnus%20atratus%20b.jpg",
-                "alt": "Black swan. Clutch (NMNZ OR.018751, collected by Frederich-Carl Kinsky). Lake Wairarapa, October 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120069Birds%20online%20CD1%20026.jpg",
-                "alt": "Black swan. Eggs and cygnet. Garibaldi Island, Lake Ellesmere, January 1958. Image &copy; Department of Conservation ( image ref: 10046955 )  by Tom Caithness Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120069Birds%20online%20CD1%20064.jpg",
@@ -2136,11 +2046,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120073OR.007469~v%201~Anser%20anser.jpg",
-                "alt": "Greylag goose. Egg 87.2 x 60.2 mm (NMNZ OR.007469, collected by A. Haywood). Chatham Island. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120073Gosling%20little%20P1110587.jpg",
                 "alt": "Greylag goose. Gosling. Waimanu Lagoon, Waikanae, November 2014. Image &copy; Alan Tennyson  by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -2296,16 +2201,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120074DSC_0040.JPG",
                 "alt": "Canada goose. Flock in flight. Ashley estuary, Canterbury, February 2011. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120074OR.xxxx2~v%202~Branta%20canadensis.jpg",
-                "alt": "Canada goose. Clutch. NMNZ OR.030243, collected by Nikki McArthur and Hayley Ricardo. Tekapo River, September 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120074OR.xxxx2~v%201~Branta%20canadensis.jpg",
-                "alt": "Canada goose. Egg (89.6 x 59.3 mm). NMNZ OR.030243, collected by Nikki McArthur and Hayley Ricardo. Tekapo River, September 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120074Birds%20online%20CD1%20019.jpg",
@@ -2549,21 +2444,6 @@ data = [
                 "copyright": "Peter Reese"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120079Birds%20online%20CD1%20030.jpg",
-                "alt": "Paradise shelduck. Eggs. Huiarua Station, Tolaga Bay, October 1974. Image &copy; Department of Conservation ( image ref: 10044653 ) by Murray Williams, Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120079OR.019055~v%202~Tadorna%20variegata%20b.jpg",
-                "alt": "Paradise shelduck. Clutch  (NMNZ OR.019055, collected by NZ Wildlife Service). Mt Bruce Wildlife Reserve. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120079OR.019055~v%201~Tadorna%20variegata%20b.jpg",
-                "alt": "Paradise shelduck. Egg 69.9 x 47.5 mm (NMNZ OR.019055, collected by NZ Wildlife Service). Mt Bruce Wildlife Reserve. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120079Paradise%20shelduck_Oct%202009.jpg",
                 "alt": "Paradise shelduck. Ducklings. Auckland, October 2009. Image &copy; Steffi Ismar by Steffi Ismar Courtesy of S. Ismar.",
                 "copyright": "Steffi Ismar"
@@ -2766,21 +2646,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120084Nesting%20whio.jpg",
                 "alt": "Blue duck. Adult female on nest. Fyfe River. Image &copy; Kate Steffens by Kate Steffens",
                 "copyright": "Kate Steffens"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120084Whio%20clutch.jpg",
-                "alt": "Blue duck. Eggs in nest. Fyfe River. Image &copy; Kate Steffens by Kate Steffens",
-                "copyright": "Kate Steffens"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120084OR.030217~v%202~Hymenolaimus%20malacorhynchos.jpg",
-                "alt": "Blue duck. Part clutch. NMNZ OR.030217, collected by Dave Conley. Waipa Stream, Tongariro, October 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120084OR.030217~v%201~Hymenolaimus%20malacorhynchos.jpg",
-                "alt": "Blue duck. Egg (67.9 x 47.5 mm). NMNZ OR.030217, collected by Dave Conley. Waipa Stream, Tongariro, October 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120084Birds%20online%20CD1%20088.jpg",
@@ -3042,16 +2907,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120086grey%20teal.jpg",
-                "alt": "Grey teal. Eggs . Lake Whangape, October 1980. Image &copy; Department of Conservation ( image ref: 10029837 )  by John Kendrick Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120086OR.007433~v%201~Anas%20gibberifrons.jpg",
-                "alt": "Grey teal. Egg 48.9 x 36.1 mm (NMNZ OR.007433, collected by Charles Fleming). Carterton, Wairarapa, October 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120086Grey%20teal%20Hamilton.jpg",
                 "alt": "Grey teal. Downy chicks. Hamilton Zoo, October 2011. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -3202,16 +3057,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120088Pateke%20Scow%20Landing%2007.jpg",
                 "alt": "Brown teal. Nine adults in flight . Ngunguru River, December 2013. Image &copy; Malcolm Pullman by Malcolm Pullman www.pullmanphotography.co.nz",
                 "copyright": "Malcolm Pullman"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120088OR.012415~v%201~Anas%20chlorotis%20e.jpg",
-                "alt": "Brown teal. Egg 64.8 x 45.1 mm (NMNZ OR.012415, collected by Colin Roderick). Mt Bruce Wildlife Reserve, May 1966. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120088OR.012415~v%202~Anas%20chlorotis%20e.jpg",
-                "alt": "Brown teal. Clutch (NMNZ OR.012415, collected by Colin Roderick). Mt Bruce Wildlife Reserve, May 1966. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120088Bropwn%20Teal%2CGreat%20Barrier%20Island%2C210319%2C-37-Editwebnz.jpg",
@@ -3430,21 +3275,6 @@ data = [
                 "copyright": "Mark Lethlean"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120089Birds%20online%20CD1%20039.jpg",
-                "alt": "Auckland Island teal. Eggs. Auckland Island, Auckland Islands. Image &copy; Department of Conservation ( image ref: 10034261 ) by Murray Williams Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120089OR.025368~v%202~Anas%20aucklandica%20a.jpg",
-                "alt": "Auckland Island teal. Clutch (NMNZ OR.025368, collected by Department of Conservation). Mt Bruce Wildlife Reserve, October 1997. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120089OR.025368~v%201~Anas%20aucklandica%20a.jpg",
-                "alt": "Auckland Island teal. Egg 61.4 x 45.8 mm (NMNZ OR.025368, collected by Department of Conservation). Mt Bruce Wildlife Reserve, October 1997. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120089Birds%20online%20CD1%20040.jpg",
                 "alt": "Auckland Island teal. Adult and chick . Auckland Islands. Image &copy; Department of Conservation ( image ref: 10034212 ) by Murray Williams Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -3574,16 +3404,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120090CI%20Teal%20juvenile%200402%20Codfish%201.JPG",
                 "alt": "Campbell Island teal. Juvenile in forest at night. Codfish Island, February 2004. Image &copy; Ingrid Hutzler by Ingrid Hutzler",
                 "copyright": "Ingrid Hutzler"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120090OR.026381~v%201~Anas%20aucklandica%20nesiotis.jpg",
-                "alt": "Campbell Island teal. Egg 70.0 x 43.3 mm (NMNZ OR.026381, collected by Karen Barlow). Mt Bruce Wildlife Reserve, October 1999. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120090OR.026381~v%202~Anas%20aucklandica%20nesiotis.jpg",
-                "alt": "Campbell Island teal. Clutch (NMNZ OR.026381, collected by Karen Barlow). Mt Bruce Wildlife Reserve, October 1999. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120090Campbell%20teal%20Auckland%20Zoo%20Jan%202012.jpg",
@@ -3780,21 +3600,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120092P1000249%20-%20Copy.JPG",
                 "alt": "Mallard. Adult female on nest. Waikato, August 2011. Image &copy; Joke Baars by Joke Baars",
                 "copyright": "Joke Baars"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120092Birds%20online%20CD1%20034.jpg",
-                "alt": "Mallard. Eggs. Mount Bruce Wildlife Centre. Image &copy; Department of Conservation ( image ref: 10031509 ) by Roy Walker, Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120092OR.007446~v%202~Anas%20platyrhynchos%20f.jpg",
-                "alt": "Mallard. Clutch (NMNZ OR.007446, collected by Robert Falla). Rangitikei River, September 1952. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120092OR.007446~v%201~Anas%20platyrhynchos%20f.jpg",
-                "alt": "Mallard. Egg 58.9 x 42.4 mm (NMNZ OR.007446, collected by Robert Falla). Rangitikei River, September 1952. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120092IMG_1654.JPG",
@@ -4031,16 +3836,6 @@ data = [
                 "copyright": "Ormond Torr"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120094OR.019137~v%201~Anas%20superciliosa%20g.jpg",
-                "alt": "Grey duck. Egg 57.8 x 41.9 mm (NMNZ OR.019137, collected by Jack Sorensen). Campbell Island, December 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120094OR.019137~v%202~Anas%20superciliosa%20g.jpg",
-                "alt": "Grey duck. Clutch (NMNZ OR.019137, collected by Jack Sorensen). Campbell Island, December 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120094Birds%20online%20CD1%20031.jpg",
                 "alt": "Grey duck. Adult and ducklings. Queenstown, April 1962. Image &copy; Department of Conservation ( image ref: 10035429 ) by Dick Veitch, Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -4210,11 +4005,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120095120095Birds%2520online%2520CD1%2520047%5B1%5D.jpg",
-                "alt": "Australasian shoveler. Eggs. Lake Repongaere, November 1959. Image &copy; Department of Conservation ( image ref: 10029848 ) by Brian Bell Department of Conservation  Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120095Shoverler%20duck%205%20ducklings.JPG",
                 "alt": "Australasian shoveler. Female with 5 ducklings. Manawatu River estuary, November 2009. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -4341,16 +4131,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120098IMG_3393.JPG",
                 "alt": "New Zealand scaup. Close view of female. Wanganui, August 2012. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120098OR.007452~v%202~Aythya%20novaeseelandiae%20b.jpg",
-                "alt": "New Zealand scaup. Clutch (NMNZ OR.007452, collected by Robert Falla). Lake Brunner, Westland, January 1948. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120098OR.007452~v%201~Aythya%20novaeseelandiae%20b.jpg",
-                "alt": "New Zealand scaup. Egg 66.4 x 45.7 mm (NMNZ OR.007452, collected by Robert Falla). Lake Brunner, Westland, January 1948. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120098IMG_4947.JPG",
@@ -4573,16 +4353,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120099IMG_9704.JPG",
                 "alt": "Australasian crested grebe. Adult standing on nesting platform. Lake Wanaka, January 2015. Image &copy; Oscar Thomas by Oscar Thomas https://www.flickr.com/photos/kokakola11",
                 "copyright": "Oscar Thomas"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120099OR.019284~v%201~Podiceps%20cristatus%20australis%20b.jpg",
-                "alt": "Australasian crested grebe. Egg 56.3 x 35.4 mm (NMNZ OR.019284, collected by B. Strange). Lake Clearwater, South Canterbury, January 1977. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120099OR.019284~v%202~Podiceps%20cristatus%20australis%20b.jpg",
-                "alt": "Australasian crested grebe. Clutch (NMNZ OR.019284, collected by B. Strange). Lake Clearwater, South Canterbury, January 1977. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120099IMG_7201%20-%20Copyright%20birdsonline.jpg",
@@ -4860,11 +4630,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200101OR.012026~v%201~Podiceps%20rufipectus.jpg",
-                "alt": "New Zealand dabchick. Egg 45.3 x 30.3 mm (NMNZ OR.012026, collected by NZ Wildlife Service). Motuoapa Bay, Lake Taupo, October 1965. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200101IMG_5100.JPG",
                 "alt": "New Zealand dabchick. Chick. Wanganui, November 2012. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
@@ -5079,11 +4844,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112Birds%20online%20CD2%20006.jpg",
                 "alt": "Eastern rockhopper penguin. Front view of adult on nest. Antipodes Islands, November 1978. Image &copy; Department of Conservation ( image ref: 10035673 ) by John Kendrick Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112OR.021486~v%201~Eudyptes%20c%20chrysocome.jpg",
-                "alt": "Eastern rockhopper penguin. Egg 74.5 x 52.6 mm (NMNZ OR.021486, collected by Christopher Robertson). Antipodes Islands, November 1978. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200112Birds%20online%20CD2%20008.jpg",
@@ -5336,11 +5096,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200114OR.007941~v%201~Eudyptes%20pachyrhynchus.jpg",
-                "alt": "Fiordland crested penguin. Egg 62.5 x 50.8 mm (NMNZ OR.007941, collected by Jack Thomson). Mukumuku, Palliser Bay, September 1954. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200114IMG_5145.jpg",
                 "alt": "Fiordland crested penguin. Recently fledged juvenile. Halfmoon Bay, Stewart Island, January 2012. Image &copy; Peter Tait by Peter Tait Courtesy Peter Tait http://www.sailsashore.co.nz, tait@sailsashore.co.nz",
                 "copyright": "Peter Tait"
@@ -5514,11 +5269,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115Birds%20online%20CD2%20025.jpg",
                 "alt": "Snares crested penguin. Adult on nest. Snares Islands, November 1983. Image &copy; Department of Conservation ( image ref: 10033368 ) by Rod Morris Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115OR.026840~v%201~Eudyptes%20robustus.jpg",
-                "alt": "Snares crested penguin. Egg 74.0 x 56.5 mm (NMNZ OR.026840, collected by Alan Tennyson). North-East Island, Snares Islands, October 2000. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200115Birds%20online%20CD2%20074.jpg",
@@ -5831,11 +5581,6 @@ data = [
                 "copyright": "Mark Fraser"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116OR.001620~v%201~Eudyptes%20sclateri.jpg",
-                "alt": "Erect-crested penguin. Egg 82.3 x 57.8 mm (NMNZ OR.001620, collected by Robert Falla). Antipodes Island, November 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200116Erect-crested%20penguins%20%232%20Anchorage%20Bay%20Antipodes%2025%20Nov%201995%20%28A%20Tennyson%29.JPG",
                 "alt": "Erect-crested penguin. Adults with downy chick. Anchorage Bay, Antipodes Island, November 1995. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -6038,11 +5783,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200119OR.019100~v%201~Megadyptes%20antipodes.jpg",
-                "alt": "Yellow-eyed penguin. Egg 78.6 x 55.9 mm (NMNZ OR.019100, collected by Jack Sorensen). Campbell Island, November 1942. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200119Yellow%20eyed%20penguin%20chicks.jpg",
                 "alt": "Yellow-eyed penguin. Chicks c.10-days-old. Catlins, December 2007. Image &copy; Cheryl Pullar by Cheryl Pullar",
                 "copyright": "Cheryl Pullar"
@@ -6231,21 +5971,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121Birds%20online%20CD2%20004.jpg",
                 "alt": "Little penguin. Adult on nest. Mokopuna Island, Wellington Harbour, October 1973. Image &copy; Department of Conservation ( image ref: 10031827 )  by John Kendrick Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121White-flippered-penguin-eggs-Christchurch-Dec-2009.JPG",
-                "alt": "Little penguin. Eggs of white-flippered penguin. Christchurch, December 2009. Image &copy; James Mortimer by James Mortimer",
-                "copyright": "James Mortimer"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121OR.015313~v%201~Eudyptula%20minor%20variabilis%20a.jpg",
-                "alt": "Little penguin. Egg 61.0 x 44.1 mm (NMNZ OR.015313, collected by Frederich-Carl Kinsky). Matiu/Somes Island, Wellington, October 1954. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121OR.015313~v%202~Eudyptula%20minor%20variabilis%20a.jpg",
-                "alt": "Little penguin. Clutch (NMNZ OR.015313, collected by Frederich-Carl Kinsky). Matiu/Somes Island, Wellington, October 1954. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200121L%20Little%20penguin%20chicks.jpg",
@@ -6736,11 +6461,6 @@ data = [
                 "copyright": "Jenny Atkins"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200123OR.006719~v%201~Diomedea%20antipodensis.jpg",
-                "alt": "Antipodean albatross. Egg 121.1 x 78.3 mm (NMNZ OR.006719, collected by Captain John Bollons). Antipodes Island, January 1901. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200123Birds%20online%20CD2%20039.jpg",
                 "alt": "Antipodean albatross. Young chick being brooded. Mowbray Hill, Campbell Island, May 1963. Image &copy; Department of Conservation ( image ref: 10038463 ) by Alan Wright Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -6963,11 +6683,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200126OR.019063~v%201~Diomedea%20e%20epomophora.jpg",
-                "alt": "Southern royal albatross. Egg 118.8 x 73.6 mm (NMNZ OR.019063, collected by Jack Sorensen). Campbell Island, December 1942. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200126Birds%20online%20CD2%20043.jpg",
                 "alt": "Southern royal albatross. Adult and chick on nest . Campbell Island, March 1971. Image &copy; Department of Conservation ( image ref: 10038254 ) by Don Merton Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -7175,16 +6890,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200127Birds%20online%20CD2%20046.jpg",
-                "alt": "Northern royal albatross. Egg in nest . Little Sister Island, Chatham Islands, November 1973. Image &copy; Department of Conservation ( image ref: 10047089 ) by Rod Morris Courtesy of&nbsp;Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200127OR.018484~v%201~Diomedea%20epomophora%20%20sanfordi.jpg",
-                "alt": "Northern royal albatross. Egg 121.7 x 79.9 mm (NMNZ OR.018484, collected by Christopher Robertson). Middle Sister Island, Chatham Islands, November 1974. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200127Birds%20online%20CD2%20076.jpg",
                 "alt": "Northern royal albatross. Adult and chick . Twin Rock, Taiaroa Head, February 1969. Image &copy; Department of Conservation ( image ref: 10028289 ) by Alan Wright Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -7369,11 +7074,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200132Birds%20online%20CD2%20032.jpg",
                 "alt": "Grey-headed mollymawk. Adult on nest. Bull Rock, Campbell Island, November 1986. Image &copy; Department of Conservation ( image ref: 10039564 ) by Graeme Taylor Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200132OR.019083~v%201~Diomedea%20chrysostoma.jpg",
-                "alt": "Grey-headed mollymawk. Egg 106.2 x 60.9 mm (NMNZ OR.019083, collected by Jack Sorensen). Campbell Island, October 1942. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200132NZ%20Birds%20Online%20-%20not%20RHP%20-%20Morrison%20-%2046.jpg",
@@ -7565,11 +7265,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200134Black-browed%20albatross%20colony%20SBull%20Rock%20Campbell%20I%2024%20Jan%201993%20%28A%20Tennyson%29.JPG",
                 "alt": "Campbell black-browed mollymawk. Adult in colony. South Bull Rock, Campbell Island, January 1993. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200134OR.019074~v%201~Diomedea%20impavida.jpg",
-                "alt": "Campbell black-browed mollymawk. Egg 101.7 x 68.6 mm (NMNZ OR.019074, collected by Jack Sorensen). Campbell Island, November 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200134Albatross%20SBull%20Rock%20Campbell%20I%2024%20Jan%201993%20%28A%20Tennyson%29%20with%20mould%20removed.jpg",
@@ -7768,11 +7463,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200135IMG_2200bnew.JPG",
                 "alt": "Buller's mollymawk. Pair of adult northern subspecies at nest. Forty Fours,  Chatham Islands, December 2009. Image &copy; Mark Fraser by Mark Fraser",
                 "copyright": "Mark Fraser"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200135OR.025005~v%201~Diomedea%20bulleri.jpg",
-                "alt": "Buller's mollymawk. Egg 96.2 x 63.2 mm (NMNZ OR.025005, collected by Alan Tennyson). Solander Island, February 1996. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200135bull3_0.jpg",
@@ -8045,11 +7735,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200138OR.018499~v%201~Diomedea%20c%20cauta.jpg",
-                "alt": "White-capped mollymawk. Egg 100.4 x 68.2 mm (NMNZ OR.018499, collected by Graham Turbott). Disappointment Island,  Auckland Islands, December 1944. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200138Birds%20online%20CD2%20061_0.jpg",
                 "alt": "White-capped mollymawk. Adult and chick on nest . Disappointment Island, Auckland Islands, February 1988. Image &copy; Department of Conservation (image ref: 10038635) by Graeme Taylor Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -8218,11 +7903,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200141Birds%20online%20CD2%20064.jpg",
                 "alt": "Chatham Island mollymawk. Adult on nest . The Pyramid,  Chatham Islands, September 1974. Image &copy; Department of Conservation ( image ref: 10038073 ) by Chris Robertson Department of Conservation  Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200141OR.019068~v%201~Diomedea%20c%20eremita.jpg",
-                "alt": "Chatham Island mollymawk. Egg 106.2 x 67.9 mm (NMNZ OR.019068, collected by Christopher Robertson). The Pyramid,  Chatham Islands, September 1974. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200141IMG_3136anew.JPG",
@@ -8464,16 +8144,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200142OR.006785~v%201~Diomedea%20c%20salvini.jpg",
-                "alt": "Salvin's mollymawk. Egg 112.2 x 63.5 mm (NMNZ OR.006785, collected by Captain John Bollons). Bounty Islands, October 1895. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200142P1000537%20Salvins%20egg.jpg",
-                "alt": "Salvin's mollymawk. Egg in nest. Proclamation Island, Bounty Islands, October 2019. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200142C017.jpg",
                 "alt": "Salvin's mollymawk. Chick. Toru Islet, Western Chain, Snares Islands, December 1984. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -8699,11 +8369,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200144KWM_1547.jpg",
                 "alt": "Light-mantled sooty albatross. Non-breeders prospecting a nest. Penguin Bay,  Campbell Island, December 2012. Image &copy; Kyle Morrison by Kyle Morrison",
                 "copyright": "Kyle Morrison"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200144OR.019087~v%201~Phoebetria%20palpebrata.jpg",
-                "alt": "Light-mantled sooty albatross. Egg 103.4 x 63.0 mm (NMNZ OR.019087, collected by Jack Sorensen). Campbell Island, October 1942. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200144Light-mantled%20sooty%20albatross%20Beeman%20Hill%20Campbell%20I%2028%20Jan1993%20%28A%20Tennyson%29.JPG",
@@ -9070,11 +8735,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200146ngp1.jpg",
                 "alt": "Northern giant petrel. Pair at nest site. Antipodes Island, October 1990. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200146OR.019097~v%201~Macronectes%20halli.jpg",
-                "alt": "Northern giant petrel. Egg 100.0 x 66.1 mm (NMNZ OR.019097, collected by Jack Sorensen). Campbell Island, September 1942. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200146Giantpetantip001web2000.jpg",
@@ -9456,11 +9116,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200149OR.007678~v%201~Daption%20capense.jpg",
-                "alt": "Cape petrel. Egg 61.5 x 43.3 mm (NMNZ OR.007678, collected by Robert Falla). Western Chain, Snares Islands, December 1947. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200149Cape%20petrel%20nest%2045%20NProm%20Snares%2022%20Dec%201985%20%28A%20Tennyson%29.JPG",
                 "alt": "Cape petrel. Snares adult with downy chick. North Promontory, Snares Islands, December 1985. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -9643,11 +9298,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200152snowpet1.jpg",
                 "alt": "Snow petrel. Adult on nest. Cape Denniston, Antarctica, December 1981. Image &copy; Department of Conservation (image ref: 10037112) by Brian Ahern, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200152OR.011291~v%201~Pagodroma%20n%20nivea.jpg",
-                "alt": "Snow petrel. Egg 56.1 x 40.6 mm (NMNZ OR.011291, collected by Frederich-Carl Kinsky). Pryors Precipice, Cape Hallett, Ross Sea, Antarctica, December 1963. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200152B015.jpg",
@@ -9839,11 +9489,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200156petrel%20gf%20burrow%20near%20killing%20log%202.jpg",
                 "alt": "Grey-faced petrel. Burrow entrance. Cliffs overlooking Ohope (west end), November 2000. Image &copy; Rosemary Tully by Rosemary Tully",
                 "copyright": "Rosemary Tully"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200156OR.006853~v%201~Pterodroma%20macroptera%20gouldi.jpg",
-                "alt": "Grey-faced petrel. Egg 71.4 x 47.1 mm (NMNZ OR.006853, collected by Captain John Bollons). Cuvier Island, July 1902. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200156gfp3.jpg",
@@ -10043,11 +9688,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200158OR.014748~v%201~Pterodroma%20lessoni.jpg",
-                "alt": "White-headed petrel. Egg 69.5 x 51.3 mm (NMNZ OR.014748, collected by William Daubin). Figure of Eight Island, Carnley Harbour, Auckland Islands, December 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200158White-headed%20petrel%20chick%201.jpg",
                 "alt": "White-headed petrel. Chick. Disappointment Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -10128,11 +9768,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200160taiko3.jpg",
                 "alt": "Chatham Island taiko. Burrow entrance. Tuku Nature Reserve, Chatham Island, December 1993. Image &copy; Department of Conservation (image ref: 10024118) by Alan Tennyson Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200160OR.029870~v%201~Pterodroma%20magentae.jpg",
-                "alt": "Chatham Island taiko. Egg 65.6 x 44.3 mm (NMNZ OR.029870, collected by Graeme Taylor). Tuku Nature Reserve, Chatham Island, March 2014. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200160CI-taiko-09.jpg",
@@ -10360,11 +9995,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200161P1040420%20-%20Copy.JPG",
                 "alt": "Kermadec petrel. Adult intermediate morph on nest, facing forward. Phillip Island, Norfolk Island, December 2008. Image &copy; Koos Baars by Koos Baars",
                 "copyright": "Koos Baars"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200161OR.015857~v%201~Pterodroma%20neglecta.jpg",
-                "alt": "Kermadec petrel. Egg 65.3 x 48.4 mm (NMNZ OR.015857, collected by John Yaldwyn). Macauley Island, Kermadec Islands, November 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200161kermpet02.jpg",
@@ -10628,11 +10258,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200165OR.019285~v%201~Pterodroma%20inexpectata.jpg",
-                "alt": "Mottled petrel. Egg 57.0 x 40.6 mm (NMNZ OR.019285, collected by Sandy Bartle). North East Island, Snares Islands, January 1977. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200165Mottled%20petrel%20%26%200-1%20day%20old%20chick%20NProm%20Snares%2012%20Feb%201986%20%28A%20Tennyson%29.JPG",
                 "alt": "Mottled petrel. Adult and hatchling. North Promontory, Snares Islands, February 1986. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -10731,11 +10356,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200167White-naped%20in%20flight%201988.jpg",
                 "alt": "White-naped petrel. Side view of adult in flight. Macauley Island, Kermadec Islands, December 1988. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200167OR.006872~v%201~Pterodroma%20cervicalis.jpg",
-                "alt": "White-naped petrel. Egg 64.7 x 44.2 mm (NMNZ OR.006872, collected by Captain John Bollons). Raoul Island, Kermadec Islands, November 1901. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200167wnp1.jpg",
@@ -10914,16 +10534,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200168BWP%20egg%20Burgess%20Feb%202013.jpg",
-                "alt": "Black-winged petrel. Egg. Burgess Island, Mokohinau Islands, February 2013. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200168OR.012430~v%201~Pterodroma%20nigripennis.jpg",
-                "alt": "Black-winged petrel. Egg 48.8 x 37.4 mm (NMNZ OR.012430, collected by Jim Anton). North Meyer Islet, Kermadec Islands, January 1967. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200168DSC09657.JPG",
                 "alt": "Black-winged petrel. Chick in the hand. Rangatira Island, February 2009. Image &copy; Graeme Taylor by Graeme Taylor",
                 "copyright": "Graeme Taylor"
@@ -11025,16 +10635,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200169Chatham%20islands%20098.jpg",
                 "alt": "Chatham petrel. Adult (with 'Twink' on head) by nest with neoprene entrance cover. Rangatira Island, Chatham Islands, February 2004. Image &copy; Graeme Taylor by Graeme Taylor",
                 "copyright": "Graeme Taylor"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200169Chatham%20islands%20054.jpg",
-                "alt": "Chatham petrel. Egg in nest box. Rangatira Island, Chatham Islands, February 2004. Image &copy; Graeme Taylor by Graeme Taylor",
-                "copyright": "Graeme Taylor"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200169OR.026921~v%201~Pterodroma%20axillaris.jpg",
-                "alt": "Chatham petrel. Egg 50.9 x 37.1 mm (NMNZ OR.026921, collected by Helen Gummer). Rangatira Island, Chatham Islands. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200169DSC09140.JPG",
@@ -11193,11 +10793,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200170OR.006874~v%201~Pterodroma%20cooki.jpg",
-                "alt": "Cook's petrel. Egg 51.6 x 38.9 mm (NMNZ OR.006874, collected by Edgar Stead). Codfish Island, January 1935. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200170cook2.jpg",
                 "alt": "Cook's petrel. Chick. Little Barrier Island, February 1974. Image &copy; Department of Conservation (image ref: 10035329) by John Kendrick, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -11311,11 +10906,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200172DSC00189.JPG",
                 "alt": "Pycroft's petrel. Adult entering burrow. Red Mercury Island, December 2009. Image &copy; Graeme Taylor by Graeme Taylor",
                 "copyright": "Graeme Taylor"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200172OR.006867~v%201~Pterodroma%20pycrofti.jpg",
-                "alt": "Pycroft's petrel. Egg 48.3 x 34.5 mm (NMNZ OR.006867, collected by Edgar Stead). Hen Island, November 1933. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200172_IGP5606.JPG",
@@ -11683,11 +11273,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200176OR.030151~v%201~Pachyptila%20vittata.jpg",
-                "alt": "Broad-billed prion. Egg 51.5 x 37.2 mm (NMNZ OR.030151, collected by Colin Miskelly). Seal Islands, Dusky Sound, November 2016. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200176bbp1_0.jpg",
                 "alt": "Broad-billed prion. Downy chick. Snares Islands, November 1987. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -12017,16 +11602,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200179Antarctic%20prion%20egg%20med-res.jpg",
-                "alt": "Antarctic prion. Egg. Ile aux Cochons, Iles Kerguelen, January 2016. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200179OR.014749~v%201~Pachyptila%20desolata%20alter.jpg",
-                "alt": "Antarctic prion. Egg 49.7 x 33.5 mm (NMNZ OR.014749, collected by William Daubin). Figure-of-Eight Island, Auckland Islands, December 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200179Antarctic%20prion%201981.jpg",
                 "alt": "Antarctic prion. Sick bird. Waikanae River estuary, September 1981. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -12303,11 +11878,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200181OR.009802~v%201~Pachyptila%20turtur.jpg",
-                "alt": "Fairy prion. Egg 44.0 x 30.5 mm (NMNZ OR.009802, collected by Alan Wright). North Brother Island, Cook Strait, October 1961. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200181Fairy%20prion%20chick%20%238%20Flea%20Cave%20Snares%2026%20Dec%201986%20%28A%20Tennyson%29.JPG",
                 "alt": "Fairy prion. Downy chick. Flea Cave, Snares Islands, December 1986. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -12531,21 +12101,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200182OR.021122~v%201~Pachyptila%20c%20crassirostris.jpg",
-                "alt": "Fulmar prion. Egg 45.6 x 35.5 mm (NMNZ OR.021122, collected by Christopher Robertson). Bounty Islands, November 1978. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200182P1000599%20prion%20nest.jpg",
-                "alt": "Fulmar prion. Egg in nest. Proclamation Island, Bounty Islands, October 2019. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200182Fulmar%20prion%20nest%20Oct%202019%20%231.jpg",
-                "alt": "Fulmar prion. Egg in nest. Proclamation Island, Bounty Islands, October 2019. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200182Fulmar%20prion%20nest%20Oct%202019%20%232.jpg",
                 "alt": "Fulmar prion. Adults at nest. Proclamation Island, Bounty Islands, October 2019. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -12761,16 +12316,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200187White-chinned%20petrel%20burrows%2C%20Ewing%20I.jpg",
                 "alt": "White-chinned petrel. Burrow entrances. Ewing Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200187White-chinned%20petrel%20egg%20med-res.jpg",
-                "alt": "White-chinned petrel. Egg. Ile aux Cochons, Iles Kerguelen, January 2016. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200187OR.019113~v%201~Procellaria%20aequinoctialis.jpg",
-                "alt": "White-chinned petrel. Egg 82.5 x 51.5 mm (NMNZ OR.019113, collected by Graham Turbott). Disappointment Island,  Auckland Islands, December 1944. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200187White-chinned%20Petrel%20chick%2C%20Antipodes%20Island2%20new1.JPG",
@@ -13021,16 +12566,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200188IMGP2195.jpg",
-                "alt": "Westland petrel. Egg in nest chamber. Punakaiki, July 2015. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200188OR.023827~v%201~Procellaria%20westlandica.jpg",
-                "alt": "Westland petrel. Egg 82.9 x 57.7 mm (NMNZ OR.023827, collected by Sandy Bartle). Scotsman's Creek, Punakaiki, June 1987. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200188Chick.jpg",
                 "alt": "Westland petrel. Chick - about 2 days old. Punakaiki, July 2015. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -13149,11 +12684,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200189Black%20Petrel%2001.jpg",
                 "alt": "Black petrel. Adult in flight, dorsal. Pacific Ocean, March 2009. Image &copy; Nigel Voaden by Nigel Voaden http://www.flickr.com/photos/nvoaden/",
                 "copyright": "Nigel Voaden"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200189OR.023263~v%201~Procellaria%20parkinsoni.jpg",
-                "alt": "Black petrel. Egg 69.1 x 50.0 mm (NMNZ OR.023263, collected by Mike Imber). Little Barrier Island, February 1985. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200189blkpet4.jpg",
@@ -13353,11 +12883,6 @@ data = [
                 "copyright": "James Russell"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200190OR.026886~v%201~Procellaria%20cinerea.jpg",
-                "alt": "Grey petrel. Egg 81.6 x 52.3 mm (NMNZ OR.026886, collected by Mike Imber). Antipodes Island, May 2001. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200190Grey%20petrel%20fledgling%20Bollons%20I%20Antipodes%20I%2030%20Oct%201995%20%28A%20Tennyson%29.JPG",
                 "alt": "Grey petrel. Fledgling. Bollons Island, Antipodes Island, October 1995. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -13514,11 +13039,6 @@ data = [
                 "copyright": "Gareth Rapley"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200194OR.012420~v%201~Puffinus%20pacificus.jpg",
-                "alt": "Wedge-tailed shearwater. Egg 70.2 x 45.4 mm (NMNZ OR.012420, collected by David Crockett). Meyer Island, Kermadec Islands, January 1967. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200194IMG_3219.JPG",
                 "alt": "Wedge-tailed shearwater. Young nestling. Montague Island, January 2016. Image &copy; Dean Portelli by Dean Portelli",
                 "copyright": "Dean Portelli"
@@ -13671,16 +13191,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200197bullsh2.jpg",
                 "alt": "Buller's shearwater. Adult pair on nest. Poor Knights Islands, November 1973. Image &copy; Department of Conservation (image ref: 10035313) by Dick Veitch Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200197Buller%27s%20egg.jpg",
-                "alt": "Buller's shearwater. Egg. Aorangi Island, February 2013. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200197OR.021480~v%201~Puffinus%20bulleri.jpg",
-                "alt": "Buller's shearwater. Egg 67.3 x 41.1 mm (NMNZ OR.021480, collected by Peter Harper). Aorangi Island, Poor Knights Islands, January 1973. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200197Buller%27s%20chick3.jpg",
@@ -13889,21 +13399,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200198carneipes%20egg.jpg",
-                "alt": "Flesh-footed shearwater. Egg (70.0 x 48.6 mm) outside burrow entrance. Titi Island, Marlborough Sounds, January 2013. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200198Fleshfooted%20shearwater%20egg%201302%20Titi.JPG",
-                "alt": "Flesh-footed shearwater. Egg. Titi Island, February 2013. Image &copy; Ingrid Hutzler by Ingrid Hutzler",
-                "copyright": "Ingrid Hutzler"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200198OR.002773~v%201~Puffinus%20carneipes.jpg",
-                "alt": "Flesh-footed shearwater. Egg 61.6 x 45.5 mm (NMNZ OR.027713, collected by Graeme Taylor). Kauwahaia Island, Bethells Beach, December 2004. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200198DSC_2330.JPG",
                 "alt": "Flesh-footed shearwater. Chick. Titi Island, February 2013. Image &copy; Ingrid Hutzler by Ingrid Hutzler",
                 "copyright": "Ingrid Hutzler"
@@ -14037,21 +13532,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200201Sooty%20shearwaters%20off%20Vancouver%20Rock%20Snares%2019%20Jan%201986%20%28A%20Tennyson%29.JPG",
                 "alt": "Sooty shearwater. Flock in flight at sea. Snares Islands, January 1986. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200201Sol2.JPG",
-                "alt": "Sooty shearwater. Egg and burrow entrance. Putauhinu Island, Stewart Island, March 2012. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200201sootysh1.jpg",
-                "alt": "Sooty shearwater. Egg outside burrow entrance. Mangere Island, Chatham Islands, August 1979. Image &copy; Department of Conservation (image ref: 10043409) Courtesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200201OR.024496~v%201~Puffinus%20griseus.jpg",
-                "alt": "Sooty shearwater. Egg 74.2 x 47.2 mm (NMNZ OR.024496, collected by Don Merton). Rangatira Island, Chatham Islands, December 1988. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200201DSC03109.JPG",
@@ -14376,11 +13856,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200206OR.009314~v%201~Puffinus%20g%20gavia.jpg",
-                "alt": "Fluttering shearwater. Egg 58.8 x 41.3 mm (NMNZ OR.009314, collected by John Yaldwyn). Ninepin Reef, Chetwode Islands, Marlborough Sounds, October 1959. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200206ManaDec2010.JPG",
                 "alt": "Fluttering shearwater. Chick. Mana Island, December 2010. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -14674,11 +14149,6 @@ data = [
                 "copyright": "Graeme Taylor"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200209OR.025766~v%201~Puffinus%20assimilis%20kermadecensis.jpg",
-                "alt": "Little shearwater. Egg 53.9 x 37.5 mm (NMNZ OR.025766, collected by Reginald Oliver). Meyer Island, Kermadec Islands, August 1908. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200209Chick%20nest%20%234_5.09.16%20%286%29.JPG",
                 "alt": "Little shearwater. Nestling (nominate subspecies). Lord Howe Island, September 2016. Image &copy; Dean Portelli by Dean Portelli",
                 "copyright": "Dean Portelli"
@@ -14868,11 +14338,6 @@ data = [
                 "copyright": "Sergey Golubev"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200214OR.011932~v%201~Oceanites%20oceanicus%20exasperatus.jpg",
-                "alt": "Wilson's storm petrel. Egg 35.3 x 25.6 mm (NMNZ OR.011932, collected by Frederich-Carl Kinsky). Cape Hallett, Ross Sea, Antarctica, January 1966. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200214B035.jpg",
                 "alt": "Wilson's storm petrel. Chick. Hop Island, Prydz Bay, Antarctica, February 1990. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -14964,11 +14429,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200217Mangere%20I.jpg",
                 "alt": "Grey-backed storm petrel. Side view of adult on the ground. Mangere Island, Chatham Islands, January 1988. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200217OR.021213~v%201~Garrodia%20nereis.jpg",
-                "alt": "Grey-backed storm petrel. Egg 30.5 x 22.2 mm (NMNZ OR.021213). Houruakopara Island, Chatham Islands, January 1979. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200217gbsp2.jpg",
@@ -15097,11 +14557,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200218DSC00803%20-%20Copy.JPG",
                 "alt": "White-faced storm petrel. Chick. Rangatira Island, Chatham Islands, February 2018. Image &copy; Graeme Taylor by Graeme Taylor",
                 "copyright": "Graeme Taylor"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200218OR.016039~v%201~Pelagodroma%20marina%20maoriana.jpg",
-                "alt": "White-faced storm petrel. Egg 35.1 x 25.5 mm (NMNZ OR.016039, collected by Don Merton). Rangatira Island, Chatham Islands, November 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200218WFSP%20chick.jpg",
@@ -15391,11 +14846,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200222NZSP%20egg%20Little%20Barrier%20Island%20Feb%202014.jpg",
-                "alt": "New Zealand storm petrel. Egg (the first ever found). Little Barrier Island, February 2014. Image &copy; Alan Tennyson by Alan Tennyson",
-                "copyright": "Alan Tennyson"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200222NZSP%20chick%20ventral.jpg",
                 "alt": "New Zealand storm petrel. Chick ventral view. Little Barrier Island, June 2013. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -15574,16 +15024,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200223Black-bellied%20storm%20petrel%20adult%20incubating%20egg%20in%20nest.jpg",
                 "alt": "Black-bellied storm petrel. Adult incubating in shallow burrow. Enderby Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200223Black-bellied%20storm%20petrel%20egg%20in%20nest.jpg",
-                "alt": "Black-bellied storm petrel. Egg in nest. Enderby Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200223OR.030242~v%201~Fregetta%20tropica.jpg",
-                "alt": "Black-bellied storm petrel. Egg (35.5 x 26.5 mm). NMNZ OR.030242, collected by Alan Tennyson. Rose Island, Auckland Islands, January 2018. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -15851,11 +15291,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200228OR.027607~v%201~Pelecanoides%20u%20urinatrix.jpg",
-                "alt": "Common diving petrel. Egg 39.0 x 30.2 mm (NMNZ OR.027607, collected by Graeme Taylor). Mana Island. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200228diver3.jpg",
                 "alt": "Common diving petrel. Small chick (northern diving petrel). Mana Island, October 2003. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
@@ -16007,16 +15442,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200232Jojo%20burrow%202%20med-res.jpg",
                 "alt": "South Georgian diving petrel. Breeding burrow. Ile aux Cochons, Iles Kerguelen, January 2016. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200232Jojo%20egg%20med-res.jpg",
-                "alt": "South Georgian diving petrel. Egg. Ile aux Cochons, Iles Kerguelen, January 2016. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200232OR.021120~v%201~Pelecanoides%20georgicus.jpg",
-                "alt": "South Georgian diving petrel. Egg 38.5 x 30.9 mm (NMNZ OR.021120, collected by Peter Harper). Codfish Island, November 1978. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200232Jojo%20chick%204%20med-res.jpg",
@@ -16182,16 +15607,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200233rttb1.jpg",
                 "alt": "Red-tailed tropicbird. Adult at nest site. Macauley Island, Kermadec Islands, May 1982. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200233rttb2_0.jpg",
-                "alt": "Red-tailed tropicbird. Egg in nest. South Meyer Island, Kermadec Islands, December 1966. Image &copy; Department of Conservation (image ref: 10038159) by Don Merton, Department of Conservation Coutesy of Department of Conservation",
-                "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200233OR.007068~v%201~Phaeton%20rubricauda.jpg",
-                "alt": "Red-tailed tropicbird. Egg 68.5 x 48.7 mm (NMNZ OR.007068, collected by Roy Bell). Raoul Island, Kermadec Islands, January 1909. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200233DSC00699.JPG",
@@ -16392,11 +15807,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238gannets.jpg",
                 "alt": "Australasian gannet. Adult in flight over colony. Muriwai gannet colony, October 2015. Image &copy; Nick Goldwater by Nick Goldwater",
                 "copyright": "Nick Goldwater"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238OR.007117~v%201~Morus%20serrator.jpg",
-                "alt": "Australasian gannet. Egg 74.4 x 47.5 mm (NMNZ OR.007117, collected by Reginald Oliver). White Island, December 1912. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200238IMG_4709.JPG",
@@ -16751,16 +16161,6 @@ data = [
                 "copyright": "Mike Thorsen"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200242OR.007061~v%201~Sula%20dactylatra%20personata.jpg",
-                "alt": "Masked booby. Egg 70.8 x 48.1 mm (NMNZ OR.007061). Macauley Island, Kermadec Islands, November 1908. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200242OR.007062~v%201~Sula%20dactylatra%20personata.jpg",
-                "alt": "Masked booby. Egg 62.2 x 45.9 mm (NMNZ OR.007062). Macauley Island, Kermadec Islands, November 1908. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120024280210027.JPG",
                 "alt": "Masked booby. Very young chicks on nest. Curtis Island, October 1989. Image &copy; Graeme Taylor by Graeme Taylor",
                 "copyright": "Graeme Taylor"
@@ -16976,16 +16376,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200244OR.008433~v%201~Phalacrocorax%20melanoleucos%20brevirostris%20a.jpg",
-                "alt": "Little shag. Egg 50.1 x 29.9 mm (NMNZ OR.008433, collected by Robert Falla). Green Island, Otago, January 1955. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200244OR.008433~v%202~Phalacrocorax%20melanoleucos%20brevirostris%20a%20clutch.jpg",
-                "alt": "Little shag. Clutch (NMNZ OR.008433, collected by Robert Falla). Green Island, Otago, January 1955. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200244lcor%20chick%20PBattley%20IMG_2677.jpg",
                 "alt": "Little shag. Chicks in nest. Sulphur Point, Lake Rotorua, October 2007. Image &copy; Phil Battley by Phil Battley",
                 "copyright": "Phil Battley"
@@ -17155,16 +16545,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200246OR.021330%23a~v%202~Phalacrocorax%20carbo%20a%20clutch.jpg",
-                "alt": "Black shag. Clutch (NMNZ OR.021330, collected by Thomas Cockcroft). Gollans Valley, Wellington. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200246OR.021330%23a~v%201~Phalacrocorax%20carbo%20a.jpg",
-                "alt": "Black shag. Egg 56.4 x 35.5 mm (NMNZ OR.021330, collected by Thomas Cockroft). Gollans Valley, Wellington. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200246Black-shag-02.jpg",
                 "alt": "Black shag. Adult with large chicks in nest. Lake Kohangatera, Wellington, June 1994. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -17330,11 +16710,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200249IMG_0348u.jpg",
                 "alt": "Pied shag. Side view of adult in flight. Tauranga, October 2011. Image &copy; Raewyn Adams by Raewyn Adams",
                 "copyright": "Raewyn Adams"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200249OR.006955~v%201~Phalacrocorax%20varius.jpg",
-                "alt": "Pied shag. Egg 59.7 x 38.6 mm (NMNZ OR.006955, collected by Captain John Bollons). Little Barrier Island, August 1906. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200249037%20Wairau%20River%20mouth.jpg",
@@ -17614,16 +16989,6 @@ data = [
                 "copyright": "Oscar Thomas"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200251OR.002090~v%201~Phalacrocorax%20sulcirostris%20a.jpg",
-                "alt": "Little black shag. Egg 54.4 x 33.4 mm (NMNZ OR.002090, collected by Charles Fleming). Lake Waikare, Waikato, January 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200251OR.002090~v%202~Phalacrocorax%20sulcirostris%20a%20clutch.jpg",
-                "alt": "Little black shag. Clutch (NMNZ OR.002090, collected by Charles Fleming). Lake Waikare, January 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200251IMG_3507.JPG",
                 "alt": "Little black shag. Juveniles. Wanganui, December 2010. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
@@ -17833,11 +17198,6 @@ data = [
                 "copyright": "Mennobart Van Eerden"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200252OR.006972~v%201~Leucocarbo%20carunculatus.jpg",
-                "alt": "New Zealand king shag. Egg 65.9 x 42.2 mm (NMNZ OR.006972, collected by Robert Falla). White Rocks, Marlborough Sounds, September 1948. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200252kingshag4.jpg",
                 "alt": "New Zealand king shag. Chicks on nest. Duffers Reef, Pelorus Sound, October 1962. Image &copy; Department of Conservation (image ref: 10038239) by John O'Brien, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -17988,11 +17348,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200253OR.006980~v%201~Leucocarbo%20chalconotus.jpg",
-                "alt": "Stewart Island shag. Egg 64.9 x 40.8 mm (NMNZ OR.006980, collected by Edgar Stead). High Rock, near Codfish Island, November 1929. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12002532016-11%20Dusky%20Sound%20P1160645%20chick.jpg",
                 "alt": "Stewart Island shag. Chick. Sumpter Wharf, Oamaru, November 2016. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -18115,16 +17470,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200254r047A4352.jpg",
                 "alt": "Chatham Island shag. Adult on nest. Star Keys, Chatham Islands, November 2020. Image &copy; James Russell by James Russell",
                 "copyright": "James Russell"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200254OR.002086%23a~v%202~Leucocarbo%20onslowii%201%20clutch.jpg",
-                "alt": "Chatham Island shag. Clutch (NMNZ OR.002086, collected by Charles Fleming). Okawa Point, Chatham Island, December 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200254OR.002086%23a~v%201~Leucocarbo%20onslowii%201.jpg",
-                "alt": "Chatham Island shag. Egg 62.2 x 37.7 mm (NMNZ OR.002086, collected by Charles Fleming). Okawa Point, Chatham Island, December 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200254P1105494%20%283%29.JPG",
@@ -18387,16 +17732,6 @@ data = [
                 "copyright": "Alan Tennyson"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200255OR.021488~v%201~Leucocarbo%20ranfurlyi.jpg",
-                "alt": "Bounty Island shag. Egg 65.2 x 39.5 mm (NMNZ OR.021488, collected by Gerry van Tets). Proclamation Island, Bounty Islands, November 1978. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200255OR.021488~v%202~Leucocarbo%20ranfurlyi.jpg",
-                "alt": "Bounty Island shag. Clutch (NMNZ OR.021488, collected by Gerry van Tets). Proclamation Island, Bounty Islands, November 1978. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200255Bounty%20shag%20with%20nest%20Oct%202019.jpg",
                 "alt": "Bounty Island shag. Adult beside empty nest. Proclamation Island, Bounty Islands, October 2019. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -18539,16 +17874,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200256Auckland_Island_Shag-5024.jpg",
                 "alt": "Auckland Island shag. Adult in flight. Enderby Island, Auckland Islands, December 2015. Image &copy; Edin Whitehead by Edin Whitehead www.edinz.com",
                 "copyright": "Edin Whitehead"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200256OR.019143~v%201~Leucocarbo%20c%20colensoi%2063mm%20c.jpg",
-                "alt": "Auckland Island shag. Egg 62.3 x 37.4 mm (NMNZ OR.019143, collected by Robert Falla). Crozier Point, Auckland Island, December 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200256OR.019143~v%202~Leucocarbo%20c%20colensoi%2063mm%20c%20%20clutch.jpg",
-                "alt": "Auckland Island shag. Clutch (NMNZ OR.019143, collected by Robert Falla). Crozier Point, Auckland Island, December 1943. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200256aishag3.jpg",
@@ -18753,16 +18078,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200257OR.015639%23a~v%201~Leucocarbo%20campbelli.jpg",
-                "alt": "Campbell Island shag. Egg 62.4 x 39.3 mm (NMNZ OR.015639, collected by Philip Owens). Perseverance Harbour,  Campbell Island, February 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200257OR.015639%23a~v%202~Leucocarbo%20campbelli.jpg",
-                "alt": "Campbell Island shag. Clutch (NMNZ OR.015639, collected by Philip Owens). Perseverance Harbour,  Campbell Island, February 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200257cishag2.jpg",
                 "alt": "Campbell Island shag. Adults, chicks and juveniles at breeding colony. Campbell Island. Image &copy; Department of Conservation (image ref: 10038066) by Peter Moore, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -18852,11 +18167,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200258Macquarie_Island_Shag_TW7_2168.jpg",
                 "alt": "Macquarie Island shag. Adult gathering nesting material. Macquarie Island, December 2015. Image &copy; Edin Whitehead by Edin Whitehead www.edinz.com",
                 "copyright": "Edin Whitehead"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200258OR.007044~v%201~Leucocarbo%20purpurescens.jpg",
-                "alt": "Macquarie Island shag. Egg 65.7 x 41.2 mm (NMNZ OR.007044). Macquarie Island. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -19032,16 +18342,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200259Somes%20Island%20Oct%202010%20091.jpg",
                 "alt": "Spotted shag. Adults at nest. Mokopuna Island, Wellington Harbour, October 2010. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200259OR.002093%23b~v%202~Stictocarbo%20p%20punctatus%20b%20clutch.jpg",
-                "alt": "Spotted shag. Clutch (NMNZ OR.002093, collected by Geoffrey Buddle). Noises Islands, Hauraki Gulf, October 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200259OR.002093%23b~v%201~Stictocarbo%20p%20punctatus%20b.jpg",
-                "alt": "Spotted shag. Egg 58.2 x 37.0 mm (NMNZ OR.002093, collected by Geoffrey Buddle). Noises Islands, Hauraki Gulf, October 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200259IMG_6769%20copy_edited-1.jpg",
@@ -19269,16 +18569,6 @@ data = [
                 "copyright": "Terry Greene"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200262OR.016038%23b~v%201~Stictocarbo%20featherstoni.jpg",
-                "alt": "Pitt Island shag. Egg 55.2 x 33.6 mm (NMNZ OR.016038, collected by Don Merton). Rangatira Island, Chatham Islands, November 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200262OR.016038%23b~v%202~Stictocarbo%20featherstoni.jpg",
-                "alt": "Pitt Island shag. Clutch (NMNZ OR.016038, collected by Don Merton). Rangatira Island, Chatham Islands, November 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200262Western-Reef2000020web2000.jpg",
                 "alt": "Pitt Island shag. Adult brooding chick. Chatham Islands (Western Reef), December 2000. Image &copy; Terry Greene by Terry Greene",
                 "copyright": "Terry Greene"
@@ -19458,11 +18748,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200272IMG_9929.jpg",
                 "alt": "White heron. Adult feeding large chick. Waitangiroto River, South Westland, November 2013. Image &copy; Rebecca Bowater FPSNZ by Rebecca Bowater www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater FPSNZ"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200272OR.007329~v%201~Ardea%20modesta.jpg",
-                "alt": "White heron. Egg 55.4 x 38.5 mm (NMNZ OR.007329, collected by Robert Falla). Waitangiroto River, South Westland, November 1949. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200272kotuku1_0.jpg",
@@ -19793,11 +19078,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200277OR.007337~v%201~Ardea%20n%20novaehollandiae.jpg",
-                "alt": "White-faced heron. Egg 48.2 x 34.3 mm (NMNZ OR.007337, collected by Morris Scrimgeour). Collingwood. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200277wfh1.jpg",
                 "alt": "White-faced heron. Pair feeding chicks at nest. . Image &copy; Department of Conservation (image ref: 10035787) by Barry Harcourt, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -20065,16 +19345,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200281Cornwallis%20Peninsula%20251115%20Reef%20herons%20%2833%29.JPG",
                 "alt": "Reef heron. Nest site in sea cliff. Cornwallis Peninsula, Manukau Harbour, November 2015. Image &copy; Jacqui Geux by Jacqui Geux",
                 "copyright": "Jacqui Geux"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200281OR.025362~v%201~Egretta%20sacra%20a.jpg",
-                "alt": "Reef heron. Egg 45.8 x 32.9 mm (NMNZ OR.025362, collected by Richard Parrish). Motukaroro Island, Whangarei Harbour. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200281OR.025362~v%202~Egretta%20sacra%20a%20b%20clutch.jpg",
-                "alt": "Reef heron. Clutch (NMNZ OR.025362, collected by Richard Parrish). Motukaroro Island, Whangarei Harbour. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200281reef2.jpg",
@@ -20388,16 +19658,6 @@ data = [
                 "copyright": "Adam Clarke"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200285OR.002180%23a~v%201~Botaurus%20poiciloptilus%20a.jpg",
-                "alt": "Australasian bittern. Egg 54.6 x 38.7 mm (NMNZ OR.002180, collected by Charles Fleming). Lake Selfe, Canterbury, January 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200285OR.002180~v%202~Botaurus%20poiciloptilus%20a%20clutch.jpg",
-                "alt": "Australasian bittern. Clutch (NMNZ OR.002180, collected by Charles Fleming). Lake Selfe, Canterbury, January 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200285bitt2.jpg",
                 "alt": "Australasian bittern. Adult at nest with chicks. . Image &copy; Department of Conservation (image ref: 10028777) by Mike Soper, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -20557,16 +19817,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292IMG_8560.jpg",
                 "alt": "Royal spoonbill. Mixed age flock in flight, ventral view (adult at top right). Ashley River estuary, Canterbury, March 2014. Image &copy; Steve Attwood by Steve Attwood http://www.flickr.com/photos/stevex2/",
                 "copyright": "Steve Attwood"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292OR.008542~v%202~Platalea%20regia%20c1r%2070.5mm%20Dmap.jpg",
-                "alt": "Royal spoonbill. Clutch (NMNZ OR.008542, collected by N.J. Favaloro). Kerong, Victoria,  Australia, November 1947. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292OR.008542~v%201~Platalea%20regia%20c%2070.5mm%20Dmap.jpg",
-                "alt": "Royal spoonbill. Egg 70.6 x 45.2 mm (NMNZ OR.008542, collected by N.J. Favaloro). Kerong, Victoria,  Australia, November 1947. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200292spoonbill%20chicks.jpg",
@@ -20804,11 +20054,6 @@ data = [
                 "copyright": "Marie-Louise Myburgh"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200296OR.021566~v%201~Circus%20approximans%20gouldi.jpg",
-                "alt": "Swamp harrier. Egg 50.1 x 40.2 mm (NMNZ OR.021566, collected by Robert Falla). Invercargill, December 1975. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200296DPP_0025%20copy.jpg",
                 "alt": "Swamp harrier. Chicks in nest. Whangaehu River estuary, February 1996. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
@@ -20956,21 +20201,6 @@ data = [
                 "copyright": "Steve Attwood"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200303Eggs.jpg",
-                "alt": "New Zealand falcon. Eggs in nest. Kaingaroa Forest,  near Rotorua, November 2006. Image &copy; Andrew Thomas by Andrew Thomas",
-                "copyright": "Andrew Thomas"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200303OR.015323%23b~v%201~Falco%20novaeseelandiae%20b.jpg",
-                "alt": "New Zealand falcon. Egg 49.3 x 37.7 mm (NMNZ OR.015323, collected by G.H. Timpson). Tomme Valley, Blenheim, December 1959. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200303OR.015323%23b~v%202~Falco%20novaeseelandiae%20b%20clutch.jpg",
-                "alt": "New Zealand falcon. Clutch (NMNZ OR.015323, collected by G.H. Timpson). Tomme Valley, Blenheim, December 1959. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12003036122805125_28d51e8651_b.jpg",
                 "alt": "New Zealand falcon. Male chick in nest scrape. Wellington, September 2011. Image &copy; Steve Attwood by Steve Attwood http://stevex2.wordpress.com/",
                 "copyright": "Steve Attwood"
@@ -21112,16 +20342,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200308airail1.jpg",
                 "alt": "Auckland Island rail. Adult female in captivity. Mount Bruce Wildlife Centre, September 1975. Image &copy; Department of Conservation (image ref: 10036059) by Rod Morris Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200308OR.024502~v%201~Lewinia%20muelleri.jpg",
-                "alt": "Auckland Island rail. Egg 35.1 x 26.5 mm (NMNZ OR.024502, collected by Graeme Elliott). Maclaren Bay, Adams Island, Auckland Islands, November 1989. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200308OR.024502~v%202~Lewinia%20muelleri.jpg",
-                "alt": "Auckland Island rail. Clutch (NMNZ OR.024502, collected by Graeme Elliott). Maclaren Bay, Adams Island, Auckland Islands, November 1989. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -21256,16 +20476,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200309Kundy6.JPG",
                 "alt": "Banded rail. Adult. Kundy Island, Stewart Island, March 2011. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200309OR.007221%23b~v%201~Rallus%20philippensis%20assimilis.jpg",
-                "alt": "Banded rail. Egg 37.9 x 28.9 mm (NMNZ OR.007221, collected by Captain John Bollons). Kaipara Heads, November 1906. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200309OR.007221%23b~v%202~Rallus%20philippensis%20assimilis%20clutch.jpg",
-                "alt": "Banded rail. Clutch (NMNZ OR.007221, collected by Captain John Bollons). Kaipara Heads, November 1906. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200309DSC_0843.JPG",
@@ -21522,16 +20732,6 @@ data = [
                 "copyright": "Raewyn Adams"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312OR.008712%23a~v%202~Gallirallus%20australis%20greyi%20a%20b%20clutch.jpg",
-                "alt": "Weka. North Island weka clutch (NMNZ OR.008712, collected by Mike Fitzgerald). Gisborne, August 1956. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312OR.008977%23a~v%202~Gallirallus%20a%20australis%20clutch.jpg",
-                "alt": "Weka. Western weka clutch (NMNZ OR.008977, collected by Ken Miers). Takahe Valley, Murchison Mountains, Fiordland, November 1955. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200312weka3.jpg",
                 "alt": "Weka. Chick. Kapiti Island, November 1983. Image &copy; Department of Conservation (image ref: 10045145) by Phil Clerke, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -21738,11 +20938,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200320spotck2.jpg",
                 "alt": "Spotless crake. Adult on nest. . Image &copy; Department of Conservation (image ref: 10028318) by Geoff Moon, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200320OR.007230%23c~v%201~Porzana%20tabuensis%20plumbea.jpg",
-                "alt": "Spotless crake. Egg 30.5 x 22.1 mm (NMNZ OR.007230). Denham Bay, Raoul Island, Kermadec Islands, November 1909. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200320Spotless%20Crake%20chick-.jpg",
@@ -22060,16 +21255,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329OR.007713~v%202~Porphyrio%20melanotus%20clutch.jpg",
-                "alt": "Pukeko. Clutch (NMNZ OR.007713, collected by Edgar Stead). Lake Ellesmere. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329OR.007713~v%201~Porphyrio%20melanotus%20a.jpg",
-                "alt": "Pukeko. Egg 51.9 x 36.4 mm (NMNZ OR.007713, collected by Edgar Stead). Lake Ellesmere. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200329IMG_7816.JPG",
                 "alt": "Pukeko. Chick. Wanganui, December 2011. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
@@ -22283,16 +21468,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200332Takahe-4mnths-Maud-Island-Feb-2012-1.JPG",
                 "alt": "South Island takahe. Juvenile at 4-months-old. Maud Island, February 2012. Image &copy; James Mortimer by James Mortimer",
                 "copyright": "James Mortimer"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200332OR.000546~v%201~Notornis%20mantellii%20b.jpg",
-                "alt": "South Island takahe. Egg 74.5 x 48.3 mm (NMNZ OR.000546, collected by Robert Falla). Takahe Valley, Murchison Mountains, Fiordland, December 1949. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200332OR.000546~v%202~Notornis%20mantellii%20clutch.jpg",
-                "alt": "South Island takahe. Clutch (NMNZ OR.000546, collected by Robert Falla). Takahe Valley, Murchison Mountains, Fiordland, December 1949. Image &copy; Te Papa by Jean Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200332Takahe_Burwood-DoC_3414-SBernert.jpg",
@@ -22572,16 +21747,6 @@ data = [
                 "copyright": "Neil Fitzgerald"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200333OR.021266~v%202~Fulica%20atra%20australis%20clutch.jpg",
-                "alt": "Australian coot. Clutch (NMNZ OR.021266, collected by G. Austin). Nyang Station, New South Wales,  Australia, October 1917. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200333OR.021266~v%201~Fulica%20atra%20australis.jpg",
-                "alt": "Australian coot. Egg 48.2 x 35.4 mm (NMNZ OR.021266, collected by G. Austin). Nyang Station, New South Wales,  Australia, October 1917. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200333Fulica-atra_12489_0.jpg",
                 "alt": "Australian coot. Adults at nest with newly hatched chicks. Hamilton Lake, October 2009. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
                 "copyright": "Neil Fitzgerald"
@@ -22769,11 +21934,6 @@ data = [
                 "copyright": "David Boyle"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340Chatham%20islands%20111.jpg",
-                "alt": "Chatham Island snipe. Eggs in nest. Rangatira Island, February 2004. Image &copy; Graeme Taylor by Graeme Taylor",
-                "copyright": "Graeme Taylor"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340chsn4.jpg",
                 "alt": "Chatham Island snipe. Adult on nest. Mangere Island, Chatham Islands. Image &copy; Department of Conservation (image ref: 10047187) by Dave Crouchley, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -22782,16 +21942,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340chsn3.jpg",
                 "alt": "Chatham Island snipe. Adult on nest among Olearia traversiorum roots. Mangere Island, Chatham Islands. Image &copy; Department of Conservation (image ref: 10033453) by Allan Munn, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340OR.023320%23b~v%201~Coenocorypha%20pusilla.jpg",
-                "alt": "Chatham Island snipe. Egg 38.2 x 29.3 mm (NMNZ OR.023320, collected by Don Merton). Mangere Island, Chatham Islands, December 1981. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340OR.023320%23b~v%202~Coenocorypha%20pusilla%20clutch.jpg",
-                "alt": "Chatham Island snipe. Clutch (NMNZ OR.023320, collected by Don Merton). Mangere Island, Chatham Islands, December 1981. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200340chsn6.jpg",
@@ -22906,16 +22056,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200341sisnipe2.jpg",
                 "alt": "Snares Island snipe. Adult on nest. North East Island, Snares Islands, December 1984. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200341OR.026425%23a~v%202~Coenocorypha%20heugeli%20clutch.jpg",
-                "alt": "Snares Island snipe. Clutch (NMNZ OR.026425, collected by Colin Miskelly). North East Island, Snares Islands, November 1987. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200341OR.026425%23a~v%201~Coenocorypha%20heugeli.jpg",
-                "alt": "Snares Island snipe. Egg 44.1 x 32.4 mm (NMNZ OR.026425, collected by Colin Miskelly). North East Island, Snares Islands, November 1987. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200341sisnipe6.jpg",
@@ -23082,11 +22222,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342Auckland%20Island%20snipe%20on%20nest%2C%20Disappointment%20I.jpg",
                 "alt": "Subantarctic snipe. Adult on nest among Poa foliosa. Disappointment Island, Auckland Islands, January 2018. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342OR.027632%23a~v%202~Coenocorypha%20aucklandica%20perseverance.jpg",
-                "alt": "Subantarctic snipe. Campbell Island snipe clutch (NMNZ OR.027632, collected by Colin Miskelly). Monument Harbour, Campbell Island, January 2006. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200342Auckland-I-snipe-Falla.jpg",
@@ -24318,16 +23453,6 @@ data = [
                 "copyright": "Ormond Torr"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391OR.007289~v%202~Haematopus%20unicolor%20clutch.jpg",
-                "alt": "Variable oystercatcher. Clutch (NMNZ OR.007289, collected by Captain John Bollons). Farewell Spit, November 1906. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391OR.007289~v%201~Haematopus%20unicolor.jpg",
-                "alt": "Variable oystercatcher. Egg 58.4 x 41.2 mm (NMNZ OR.007289, collected by Captain John Bollons). Farewell Spit, November 1906. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200391VariableOystercatcher1.jpg",
                 "alt": "Variable oystercatcher. Black morph adult on nest. Otago Peninsula, November 2009. Image &copy; Craig McKenzie by Craig McKenzie",
                 "copyright": "Craig McKenzie"
@@ -24549,16 +23674,6 @@ data = [
                 "copyright": "Noel Knight"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200392OR.030188~v%201~Haematopus%20finschi.jpg",
-                "alt": "South Island pied oystercatcher. Egg (55.8 x 39.3 mm). NMNZ OR.030188, collected by Tom Hitchon. Belfast, Christchurch, September 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200392OR.030188~v%202~Haematopus%20finschi.jpg",
-                "alt": "South Island pied oystercatcher. Clutch. NMNZ OR.030188, collected by Tom Hitchon. Belfast, Christchurch, September 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200392IMG_2624%20-%20Copy%20red.jpg",
                 "alt": "South Island pied oystercatcher. Chick. Mataura River, Eastern Southland, September 2012. Image &copy; Glenda Rees by Glenda Rees http://www.flickr.com/photos/nzsamphotofanatic/",
                 "copyright": "Glenda Rees"
@@ -24734,16 +23849,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393cio1.jpg",
                 "alt": "Chatham Island oystercatcher. Adult on nest. Mangere Island, Chatham Islands, November 1982. Image &copy; Department of Conservation (image ref: 10033444) by Dave Crouchley, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393OR.023338%23b~v%201~Haematopus%20chathamensis.jpg",
-                "alt": "Chatham Island oystercatcher. Egg 54.6 x 38.4 mm (NMNZ OR.023338, collected by Don Merton). Mangere Island, January 1984. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393OR.023338%23b~v%202~Haematopus%20chathamensis%20clutch.jpg",
-                "alt": "Chatham Island oystercatcher. Clutch (NMNZ OR.023338, collected by Don Merton). Mangere Island, Chatham Islands, January 1984. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200393CI-oystercatcher-05.jpg",
@@ -24928,16 +24033,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394IMG_0596u.jpg",
                 "alt": "Pied stilt. Side view of flock in flight. Parengarenga Harbour, April 2011. Image &copy; Raewyn Adams by Raewyn Adams",
                 "copyright": "Raewyn Adams"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394OR.002190~v%202~Himantopus%20h%20leucocephalus%20clutch.jpg",
-                "alt": "Pied stilt. Clutch (NMNZ OR.002190, collected by Charles Fleming). Pakiri, December 1936. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394OR.002190~v%201~Himantopus%20h%20leucocephalus.jpg",
-                "alt": "Pied stilt. Egg 43.5 x 31.7 mm (NMNZ OR.002190, collected by Charles Fleming). Pakiri, December 1936. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200394Pied%20Stilt%20chick-1140.jpg",
@@ -25216,11 +24311,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396IMG_2028%20-%20Copy%20bol.jpg",
                 "alt": "Black stilt. Immature birds mating. Tasman River, November 2013. Image &copy; Glenda Rees by Glenda Rees Glenda Rees (http://www.flickr.com/photos/nzsamphotofanatic/)",
                 "copyright": "Glenda Rees"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396OR.007417~v%201~Himantopus%20novaezelandiae.jpg",
-                "alt": "Black stilt. Egg 42.7 x 32.0 mm (NMNZ OR.021526, collected by Robert Falla). Ohau River, South Canterbury, November 1969. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200396Kaki%20chick%20day%201.jpg",
@@ -25575,16 +24665,6 @@ data = [
                 "copyright": "Noel Knight"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401OR.029416~v%202~Charadrius%20obscurus%20aquilonus%20clutch.jpg",
-                "alt": "New Zealand dotterel. Clutch (NMNZ OR.029416, collected by John Dowding). Maketu Spit, Bay of Plenty, October 2011. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401OR.029416~v%201~Charadrius%20obscurus%20aquilonus%20a.jpg",
-                "alt": "New Zealand dotterel. Egg 44.6 x 31.7 mm (NMNZ OR.029416, collected by John Dowding). Maketu Spit, Bay of Plenty, October 2011. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200401Charadrius-obscurus_10573.jpg",
                 "alt": "New Zealand dotterel. Young chick. Front Beach, Whitianga, Coromandel Peninsula, January 2009. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
                 "copyright": "Neil Fitzgerald"
@@ -25880,21 +24960,6 @@ data = [
                 "copyright": "Roger Smith"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406Banded%20dotterel_flooded%20nest_Moana%20Roa_Sept2010.jpg",
-                "alt": "Banded dotterel. Eggs in nest on flooded saltmarsh. Moana Roa, September 2010. Image &copy; Peter Frost by Peter Frost",
-                "copyright": "Peter Frost"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406OR.xxxxx~v%201~Charadrius%20bicinctus.jpg",
-                "alt": "Banded dotterel. Egg (31.7 x 24.9 mm). NMNZ OR.030244, collected by Kate Beer. Tekapo River, October 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406OR.xxxxx~v%202~Charadrius%20bicinctus.jpg",
-                "alt": "Banded dotterel. Clutch. NMNZ OR.030244, collected by Kate Beer. Tekapo River, October 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200406Charadrius-bicinctus-18738.jpg",
                 "alt": "Banded dotterel. Adult female with chick. Waiouru Military Training Area, Rangipo Desert, January 2012. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
                 "copyright": "Neil Fitzgerald"
@@ -26076,11 +25141,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200413Wrybill%20on%20nest%20Waimakariri%20River%20September%202009.jpg",
                 "alt": "Wrybill. Adult sitting on nest. Waimakariri River, September 2009. Image &copy; Dianne Parker by Dianne Parker",
                 "copyright": "Dianne Parker"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200413OR.007487~v%201~Anarhynchus%20frontalis%20a.jpg",
-                "alt": "Wrybill. Egg 35.3 x 26.4 mm (NMNZ OR.007487). Rakaia River. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200413Wrybill-2.jpg",
@@ -26265,11 +25325,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200414Black%20Fronted%20Dotterel%20%28193%29.JPG",
                 "alt": "Black-fronted dotterel. Adult. Waipara river lagoon [Amberley Beach],  North Canterbury. Image &copy; K G Shakespeare by K G Shakespeare Kevin Shakespeare Layzeboy Photography \u00a9 Nature &amp; Wildlife",
                 "copyright": "K G Shakespeare"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200414OR.019763~v%201~Charadrius%20melanops%20clutch.jpg",
-                "alt": "Black-fronted dotterel. Egg 28.7 x 20.4 mm (NMNZ OR.019763, collected by Dave Sim). Te Hopai, Wairarapa, November 1977. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200414Black-fronted%20Dotterel%2CCunnamulla%2C220819%2C-56-Editwebnz.jpg",
@@ -26510,16 +25565,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415OR.024443~v%201~Thinornis%20novaeseelandiae.jpg",
-                "alt": "Shore plover. Egg 35.7 x 25.9 mm (NMNZ OR.024443, collected by Alison Davis). Rangatira (South-east) Island, Chatham Islands, December 1985. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415OR.024443~v%202~Thinornis%20novaeseelandiae%20clutch.jpg",
-                "alt": "Shore plover. Clutch (NMNZ OR.024443, collected by Alison Davis). Rangatira (South-east) Island, Chatham Islands, December 1985. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200415DSC_0072.JPG",
                 "alt": "Shore plover. Day old chick. Mana Island, November 2009. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -26661,16 +25706,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417swp.jpg",
                 "alt": "Spur-winged plover. Adult on nest. Western Springs, July 2018. Image &copy; Oscar Thomas by Oscar Thomas",
                 "copyright": "Oscar Thomas"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417OR.018754~v%202~Vanellus%20miles.jpg",
-                "alt": "Spur-winged plover. Clutch (NMNZ OR.018754, collected by Max Falconer). Paekakariki, November 1975. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417OR.018754~v%201~Vanellus%20miles.jpg",
-                "alt": "Spur-winged plover. Egg 46.3 x 34.9 mm (NMNZ OR.018754, collected by Max Falconer). Paekakariki, November 1975. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200417Spur-winged%20plover%20juvenile%20GNZP1740379_0.JPG",
@@ -26916,16 +25951,6 @@ data = [
                 "copyright": "Les Feasey"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420OR.019125~v%201~Stercorarius%20skua%20lonnbergi.jpg",
-                "alt": "Subantarctic skua. Egg 80.2 x 51.5 mm (NMNZ OR.019125, collected by Jack Sorensen). Campbell Island, November 1942. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420OR.019125~v%202~Stercorarius%20skua%20lonnbergi.jpg",
-                "alt": "Subantarctic skua. Clutch (NMNZ OR.019125, collected by Jack Sorensen). Campbell Island, November 1942. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200420sskua10.jpg",
                 "alt": "Subantarctic skua. Adult on nest with chick. Enderby Island,  Auckland Islands. Image &copy; Department of Conservation (image ref: 10064733) by Nadine Gibbs, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -27165,24 +26190,9 @@ data = [
                 "copyright": "Brook Whylie"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422OR.011283%23b~v%202~Stercorarius%20skua%20maccormicki.jpg",
-                "alt": "South Polar skua. Clutch (NMNZ OR.011283, collected by Frederich-Carl Kinsky). Cape Hallett, Ross Sea, Antarctica, November 1963. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422OR.011283%23b~v%201~Stercorarius%20skua%20maccormicki.jpg",
-                "alt": "South Polar skua. Egg 70.0 x 45.0 mm (NMNZ OR.011283, collected by Frederich-Carl Kinsky). Cape Hallett, Ross Sea, Antarctica, November 1963. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422sthpolar1%20%201729.jpg",
                 "alt": "South Polar skua. Incubating adult at nest. Deception Island, South Shetland Islands, December 2009. Image &copy; Tony Crocker by Tony Crocker",
                 "copyright": "Tony Crocker"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422B027.jpg",
-                "alt": "South Polar skua. Egg and young chick in nest scrape. Hop Island, Prydz Bay, Antarctica, December 1989. Image &copy; Colin Miskelly by Colin Miskelly",
-                "copyright": "Colin Miskelly"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200422B030.jpg",
@@ -27751,16 +26761,6 @@ data = [
                 "copyright": "Ian Armitage"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026OR.019765~v%201~Larus%20dominicanus.jpg",
-                "alt": "Southern black-backed gull. Egg 67.4 x 47.4 mm (NMNZ OR.019765, collected by Frederich-Carl Kinsky). Baring Head, Wellington, November 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/120026OR.019765~v%202~Larus%20dominicanus%20clutch.jpg",
-                "alt": "Southern black-backed gull. Clutch (NMNZ OR.019765, collected by Frederich-Carl Kinsky). Baring Head, Wellington, November 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120026IMG_1455%20Black%20Backed%20Gull%20chick%20copy.jpg",
                 "alt": "Southern black-backed gull. Chick. Boulder Bank, Nelson, December 2011. Image &copy; Rebecca Bowater FPSNZ by Rebecca Bowater  FPSNZ www.floraandfauna.co.nz",
                 "copyright": "Rebecca Bowater FPSNZ"
@@ -27964,16 +26964,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428PrintApr08%20036.jpg",
                 "alt": "Red-billed gull. Immature . Whanganui, March 2008. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428OR.007319~v%202~Larus%20n%20scopulinus%20clutch.jpg",
-                "alt": "Red-billed gull. Clutch (NMNZ OR.007319, collected by Robert Falla). Whataroa River mouth, Westland, November 1949. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428OR.007319~v%201~Larus%20n%20scopulinus.jpg",
-                "alt": "Red-billed gull. Egg 52.5 x 35.9 mm (NMNZ OR.007319, collected by Robert Falla). Whataroa River mouth, Westland, November 1949. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200428a%20few%20days%20old.jpg",
@@ -28224,16 +27214,6 @@ data = [
                 "copyright": "Rebecca Bowater"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430OR.007327~v%201~Larus%20bulleri.jpg",
-                "alt": "Black-billed gull. Egg 52.9 x 37.9 mm (NMNZ OR.007327, collected by Reginald Oliver). Rakaia River, November 1905. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430OR.007327~v%202~Larus%20bulleri%20clutch.jpg",
-                "alt": "Black-billed gull. Clutch (NMNZ OR.007327, collected by Reginald Oliver). Rakaia River, November 1905. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200430bbg2.jpg",
                 "alt": "Black-billed gull. Two chicks in nest. Near Twizel. Image &copy; Department of Conservation (image ref: 10050072) by Dave Murray, courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -28380,11 +27360,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200433DSCN6463.JPG",
                 "alt": "Black noddy. Adults on nests. Phillip Island, Norfolk Island, November 2016. Image &copy; Ian Armitage by Ian Armitage",
                 "copyright": "Ian Armitage"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200433OR.007421~v%201~Anous%20minutus.jpg",
-                "alt": "Black noddy. Egg 48.6 x 30.0 mm (NMNZ OR.007421, collected by Roy Bell). Meyer Island, Kermadec Islands, October 1907. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200433Black%20Noddy%20chick%2C%20above%20NE%20Landing%2C%20Curtis%20I%2C%20Kermadecs.jpg",
@@ -28558,11 +27533,6 @@ data = [
                 "copyright": "Scott Brooks"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200435OR.007423~v%201~Procelsterna%20caerulea%20albivittata.jpg",
-                "alt": "Grey noddy. Egg 43.2 x 29.6 mm (NMNZ OR.007423, collected by Roy Bell). Meyer Island, Kermadec Islands, October 1907. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120043580220031.JPG",
                 "alt": "Grey noddy. Chick in nest. Curtis Island, October 1989. Image &copy; Graeme Taylor by Graeme Taylor",
                 "copyright": "Graeme Taylor"
@@ -28702,16 +27672,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200437whitetern3.jpg",
                 "alt": "White tern. Adult incubating. Ducie Atoll, October 2014. Image &copy; Tony Crocker by Tony Crocker",
                 "copyright": "Tony Crocker"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200437whitetern1.jpg",
-                "alt": "White tern. Egg on 'nest'. Ducie Atoll, December 2012. Image &copy; Tony Crocker by Tony Crocker",
-                "copyright": "Tony Crocker"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200437OR.021130~v%201~Gygis%20alba%20candida.jpg",
-                "alt": "White tern. Egg 46.2 x 32.0 mm (NMNZ OR.021130, collected by Captain John Bollons). Raoul Island, Kermadec Islands, November 1901. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200437DSC00707.JPG",
@@ -28859,21 +27819,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439Sooty%20Tern_Kermadec%20Is_Mar21_LR_DSC_3302.jpg",
                 "alt": "Sooty tern. Juvenile in flight. Macauley Island, March 2021. Image &copy; Scott Brooks (ourspot) by Scott Brooks",
                 "copyright": "Scott Brooks"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439OR.007390~v%201~Sterna%20fuscata.jpg",
-                "alt": "Sooty tern. Egg 57.7 x 37.8 mm (NMNZ OR.007390, collected by Roy Bell). Denham Bay, Raoul Island, Kermadec Islands, December 1905. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439OR.007387~v%201~Sterna%20fuscata.jpg",
-                "alt": "Sooty tern. Egg 50.9 x 36.4 mm (NMNZ OR.007387, collected by Roy Bell). Denham Bay, Raoul Island, Kermadec Islands, December 1905. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439sooty%20tern%2C%20chick%2C%20hatching%2C%20Rawaki%2C%20Phoenix%20Islands%2C%20M.%20Thorsen%2C%200432%2C01_06_2008.JPG",
-                "alt": "Sooty tern. Egg hatching. Rawaki, Phoenix Islands, June 2008. Image &copy; Mike Thorsen by Mike Thorsen",
-                "copyright": "Mike Thorsen"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200439sooty%20tern%2C%20chick%2C%20hatching%2C%20Rawaki%2C%20Phoenix%20Islands%2C%20M.%20Thorsen%2C%200450%2C01_06_2008.JPG",
@@ -29223,16 +28168,6 @@ data = [
                 "copyright": "Malcolm Pullman"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200445OR.025365~v%201~Sterna%20nereis%20davisae.jpg",
-                "alt": "Fairy tern. Egg 37.3 x 26.0 mm (NMNZ OR.025365, collected by Richard Parrish). Mangawhai. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200445OR.025365~v%202~Sterna%20nereis%20davisae.jpg",
-                "alt": "Fairy tern. Clutch (NMNZ OR.025365, collected by Richard Parrish). Mangawhai. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200445january%20six%20day%20and%20bucket.jpg",
                 "alt": "Fairy tern. Chick - 6 days old. Waipu Wildlife Refuge, January 2008. Image &copy; Paulla-jean Pridham by Paulla-jean Pridham",
                 "copyright": "Paulla-jean Pridham"
@@ -29373,21 +28308,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449casp4.jpg",
                 "alt": "Caspian tern. Breeding colony. Waikato River mouth, December 1974. Image &copy; Department of Conservation (image ref: 10041861) by Dick Veitch, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449IMGP0664.JPG",
-                "alt": "Caspian tern. Eggs on stony nest site. Onoke Spit, Palliser Bay, December 2006. Image &copy; Ian Armitage by Ian Armitage",
-                "copyright": "Ian Armitage"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449OR.019767~v%202~Hydroprogne%20caspia.jpg",
-                "alt": "Caspian tern. Clutch (NMNZ OR.019767, collected by Frederich-Carl Kinsky). Palliser Spit, Wairarapa, November 1952. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449OR.019767~v%201~Hydroprogne%20caspia.jpg",
-                "alt": "Caspian tern. Egg 65.8 x 43.1 mm (NMNZ OR.019767, collected by Frederich-Carl Kinsky). Palliser Spit, Wairarapa, November 1952. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200449IMG_6424%20-%20Copy%20caspian%20chicks%20red%20nzbirdsonline.jpg",
@@ -29750,11 +28670,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200452OR.021563~v%201~Sterna%20albostriata.jpg",
-                "alt": "Black-fronted tern. Egg 41.3 x 28.1 mm (NMNZ OR.021563, collected by Robert Falla). Ohau River, South Canterbury, November 1969. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200452IMG_3977%20-%20Copy%20red%20birdsonline.jpg",
                 "alt": "Black-fronted tern. Chick. Mataura River, Southland, December 2011. Image &copy; Glenda Rees by Glenda Rees http://www.flickr.com/photos/nzsamphotofanatic/",
                 "copyright": "Glenda Rees"
@@ -29982,16 +28897,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200454White-fronted%20Tern.JPG",
                 "alt": "White-fronted tern. Adult in flight. Coast south of Waitangi,  Chatham Island, September 2012. Image &copy; Mark Fraser by Mark Fraser",
                 "copyright": "Mark Fraser"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200454OR.015326~v%201~Sterna%20striata.jpg",
-                "alt": "White-fronted tern. Egg 45.4 x 23.6 mm (NMNZ OR.015326, collected by Frederich-Carl Kinsky). Scorching Bay, Wellington, November 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200454OR.015326~v%202~Sterna%20striata.jpg",
-                "alt": "White-fronted tern. Clutch (NMNZ OR.015326, collected by Frederich-Carl Kinsky). Scorching Bay, Wellington, November 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200454White-fronted-tern-05.jpg",
@@ -30280,16 +29185,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455Antarctic_Tern_TW7_4580.jpg",
                 "alt": "Antarctic tern. Adult in flight, calling. Enderby Island,  Auckland Islands, December 2015. Image &copy; Edin Whitehead by Edin Whitehead www.edinz.com",
                 "copyright": "Edin Whitehead"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455OR.020819~v%202~Sterna%20vittata%20bethunei.jpg",
-                "alt": "Antarctic tern. Clutch (NMNZ OR.020819, collected by Euan Dunn). Venus Cove, Perseverance Harbour,  Campbell Island, January 1978. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455OR.020819~v%201~Sterna%20vittata%20bethunei.jpg",
-                "alt": "Antarctic tern. Egg 43.8 x 33.0 mm (NMNZ OR.020819, collected by Euan Dunn). Venus Cove, Perseverance Harbour,  Campbell Island, January 1978. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200455anttern1.jpg",
@@ -30586,16 +29481,6 @@ data = [
                 "copyright": "Neil Fitzgerald"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200462OR.025748~v%201~Columbia%20livia.jpg",
-                "alt": "Rock pigeon. Egg 38.9 x 30.4 mm (NMNZ OR.025748). Wellington, November 1928. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200462OR.025748~v%202~Columbia%20livia.jpg",
-                "alt": "Rock pigeon. Clutch (NMNZ OR.025748). Wellington, November 1928. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200462rpig1.jpg",
                 "alt": "Rock pigeon. Adult at nest with 2 chicks. Christchurch, October 1988. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
@@ -30804,11 +29689,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200463IMGP2607.JPG",
                 "alt": "Barbary dove. Adult perched on fence post. Ayrlies Gardens, Whitford. Image &copy; Noel Knight by Noel Knight",
                 "copyright": "Noel Knight"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200463OR.021255~~Streptopelia%20risoria.jpg",
-                "alt": "Barbary dove. Egg 29.2 x 23.4 mm (NMNZ OR.021255). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -31050,11 +29930,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200466Pigeon%20nest%20Dec%201983%20Stewart%20I%20sharp.jpg",
                 "alt": "New Zealand pigeon. Adult on nest. Maori Bay, Stewart Island, December 1983. Image &copy; Alan Tennyson by Alan Tennyson Alan Tennyson",
                 "copyright": "Alan Tennyson"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200466OR.026929~~Hemiphaga%20novaeseelandiae.jpg",
-                "alt": "New Zealand pigeon. Egg 50.0 x 34.2 mm (NMNZ OR.026929, collected by Ralph Powlesland). Whirinaki Forest Park, March 2002. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200466pig3.jpg",
@@ -31314,11 +30189,6 @@ data = [
                 "copyright": "David Boyle"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200467OR.025120~~Hemiphaga%20chathamensis.jpg",
-                "alt": "Chatham Island pigeon. Egg 52.0 x 34.9 mm (NMNZ OR.025120, collected by Ralph Powlesland). Awatotara Stream, Chatham Island, July 1992. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200467par3.jpg",
                 "alt": "Chatham Island pigeon. Adult on nest. Chatham Island. Image &copy; Department of Conservation (image ref: 10023527) by Ralph Powlesland, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -31426,16 +30296,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200468kpo11.jpg",
                 "alt": "Kakapo. Subadult male. Tin Range, Stewart Island, June 1979. Image &copy; Department of Conservation (image ref: 10029468) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200468OR.025580~v%202~Strigops%20habroptilus.jpg",
-                "alt": "Kakapo. Clutch (NMNZ OR.025580, collected by Don Merton). Whenua Hou / Codfish Island, April 1992. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200468OR.025580~v%201~Strigops%20habroptilus.jpg",
-                "alt": "Kakapo. Egg 51.7 x 39.5 mm (NMNZ OR.025580, collected by Don Merton). Whenua Hou / Codfish Island, April 1992. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200468kpo06.jpg",
@@ -31898,11 +30758,6 @@ data = [
                 "copyright": "Corey Mosen"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200472OR.030183~v%201~Nestor%20notabilis.jpg",
-                "alt": "Kea. Egg (42.9 x 33.9 mm). NMNZ OR.030183, collected by John & Carol Feast. Ex captivity (Whitianga). Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200472D70_1655-001.jpg",
                 "alt": "Kea. Adult female with 2 and-a-half-week old chick. Nelson Lakes National Park, November 2011. Image &copy; Corey Mosen by Corey Mosen www.coreymosen.co.nz",
                 "copyright": "Corey Mosen"
@@ -32094,16 +30949,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200473DSC02473%282%29.jpg",
                 "alt": "Sulphur-crested cockatoo. Adult excavating nesting hollow in preparation for spring. Canberra, Australia., August 2016. Image &copy; RM by RM",
                 "copyright": "RM"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200473OR.025971~v%201~Cacatua%20galerita.jpg",
-                "alt": "Sulphur-crested cockatoo. Egg 47.3 x 34.7 mm (NMNZ OR.025971, collected by the Barnard family). Coomooboolaroo station, 20 km sw of Duaringa, central east Queensland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200473OR.025971~v%202~Cacatua%20galerita.jpg",
-                "alt": "Sulphur-crested cockatoo. Clutch (NMNZ OR.025971, collected by the Barnard family). Coomooboolaroo station, 20 km sw of Duaringa, central east Queensland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200473IMG_5005%20L.jpg",
@@ -32498,16 +31343,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200475DSC00214%281%29.jpg",
                 "alt": "Crimson rosella. Adult in nesting hollow. Canberra, Australia, October 2015. Image &copy; R.M. by R.M.",
                 "copyright": "R.M."
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200475OR.025622~v%201~Platycercus%20elegans.jpg",
-                "alt": "Crimson rosella. Egg 29.6 x 23.5 mm (NMNZ OR.025622, collected by Roy Bell). Norfolk Island, November 1912. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200475OR.025622~v%202~Platycercus%20elegans.jpg",
-                "alt": "Crimson rosella. Clutch (NMNZ OR.025622, collected by Roy Bell). Norfolk Island, November 1912. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -32630,16 +31465,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200476rose.jpg",
                 "alt": "Eastern rosella. Subadult taking off; green patch visible on head. Lower Hutt, November 2015. Image &copy; Robert Hanbury-Sparrow by Robert Hanbury-Sparrow",
                 "copyright": "Robert Hanbury-Sparrow"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200476OR.026128~v%201~Platycercus%20eximius.jpg",
-                "alt": "Eastern rosella. Egg 28.6 x 22.3 mm (NMNZ OR.026128). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200476OR.026128~v%202~Platycercus%20eximius.jpg",
-                "alt": "Eastern rosella. Clutch (NMNZ OR.026128). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200476Heatley18-Eastern-Rosella.jpg",
@@ -32865,11 +31690,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200477OR.027709~v%201~Cyanorhamphus%20n%20novaeseelandiae.jpg",
-                "alt": "Red-crowned parakeet. Egg 25.5 x 20.1 mm (NMNZ OR.027709, collected by David Moss). Matiu/Somes Island, Wellington, September 2004. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200477RCP019web-1000.jpg",
                 "alt": "Red-crowned parakeet. Brood of red-crowned parakeet chicks (approx. 20 days). Little Barrier Island, January 1991. Image &copy; Terry Greene by Terry Greene",
                 "copyright": "Terry Greene"
@@ -33071,11 +31891,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200482OR.007257~~Cyanorhamphus%20auriceps.jpg",
-                "alt": "Yellow-crowned parakeet. Egg 23.6 x 19.6 mm (NMNZ OR.007257, collected by Captain John Bollons). Akaroa. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200482Corey%20Connor%20%2819%29_0.JPG",
                 "alt": "Yellow-crowned parakeet. Mixed pair orange-fronted parakeet female (3-4 months old, left) with yellow-crowned parakeet male (right) feeding on forest floor. South Branch Hurunui, December 2015. Image &copy; Corey Connor by Corey Connor",
                 "copyright": "Corey Connor"
@@ -33256,16 +32071,6 @@ data = [
                 "copyright": "John Kearvell"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200483OR.030173~v%202~Cyanoramphus%20malherbi.jpg",
-                "alt": "Orange-fronted parakeet. Part clutch (4 of 7). NMNZ OR.030173, collected by Anne Richardson. Ex captivity (The Isaac Conservation Park, Christchurch), August 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200483OR.030173~v%201~Cyanoramphus%20malherbi.jpg",
-                "alt": "Orange-fronted parakeet. Egg (22.2 x 18.1 mm). NMNZ OR.030173, collected by Anne Richardson. Ex captivity (The Isaac Conservation Park, Christchurch), August 2017. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200483OFP_2438.jpg",
                 "alt": "Orange-fronted parakeet. Captive fledgling, showing absence of frontal colour. Isaacs Wildlife Trust, May 2013. Image &copy; John Kearvell by John Kearvell",
                 "copyright": "John Kearvell"
@@ -33374,16 +32179,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200484OR.023352~v%201~Cyanorhamphus%20auriceps%20forbesi.jpg",
-                "alt": "Forbes' parakeet. Egg 27.0 x 19.8 mm (NMNZ OR.023352, collected by Dick Veitch). Mangere Island, Chatham Islands, January 1982. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200484OR.023352~v%202~Cyanorhamphus%20auriceps%20forbesi.jpg",
-                "alt": "Forbes' parakeet. Clutch (NMNZ OR.023352, collected by Dick Veitch). Mangere Island, Chatham Islands, January 1982. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200484Forbes%20chick%201988.jpg",
                 "alt": "Forbes' parakeet. Chick in the hand. Mangere Island, Chatham Islands, January 1988. Image &copy; Alan Tennyson by Alan Tennyson",
                 "copyright": "Alan Tennyson"
@@ -33480,16 +32275,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12004850423.%20Antipodes%20Parakeet%2C%20Reef%20Pount%2028.02.2008.jpg",
                 "alt": "Antipodes Island parakeet. Adult in flight. Antipodes Island, February 2008. Image &copy; David Boyle by David Boyle",
                 "copyright": "David Boyle"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200485OR.012293~v%202~Cyanorhamphus%20unicolor.jpg",
-                "alt": "Antipodes Island parakeet. Clutch (NMNZ OR.012293, collected by John Black). Dunedin (captive). Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200485OR.012293~v%201~Cyanorhamphus%20unicolor.jpg",
-                "alt": "Antipodes Island parakeet. Egg 28.2 x 22.2 mm (NMNZ OR.012293, collected by John Black). Dunedin (captive). Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/12004850452.%20Antipodes%20Parakeet%2C%20Reef%20Point%2015.02.2011.jpg",
@@ -33643,16 +32428,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200486Reischek002web1000.jpg",
                 "alt": "Reischek's parakeet. Male perched on Coprosma rugosa. Antipodes Island, November 1995. Image &copy; Terry Greene by Terry Greene",
                 "copyright": "Terry Greene"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200486OR.016033~v%201~Cyanorhamphus%20hochstetteri.jpg",
-                "alt": "Reischek's parakeet. Egg 25.9 x 21.9 mm (NMNZ OR.016033, collected by Colin Roderick). Mt Bruce Wildlife Reserve (captive), November 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200486OR.016033~v%202~Cyanorhamphus%20hochstetteri.jpg",
-                "alt": "Reischek's parakeet. Clutch (NMNZ OR.016033, collected by Colin Roderick). Mt Bruce Wildlife Reserve (captive), November 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -33998,11 +32773,6 @@ data = [
                 "copyright": "Adam Clarke"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200493OR.011260~v%201~Eudynamis%20taitensis.jpg",
-                "alt": "Long-tailed cuckoo. Egg 22.4 x 17.2 mm (NMNZ OR.011260). York Bay, Wellington, November 1964. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200493LSB_8349.JPG",
                 "alt": "Long-tailed cuckoo. Adult being mobbed by bellbird. Wakapuaka,  Nelson, December 2013. Image &copy; Leon Berard by Leon Berard",
                 "copyright": "Leon Berard"
@@ -34131,16 +32901,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200495more3.jpg",
                 "alt": "Morepork. Adult at nest entrance. Taranga / Hen Island, November 1978. Image &copy; Department of Conservation (image ref: 10039806) by Dick Veitch, Department of Conservation Curtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200495OR.021334~v%202~Ninox%20novaehollandiae.jpg",
-                "alt": "Morepork. Clutch (NMNZ OR.021334, collected by Thomas Cockcroft). Gollans Valley, Wellington. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200495OR.021334~v%201~Ninox%20novaehollandiae.jpg",
-                "alt": "Morepork. Egg 39.9 x 34.4 mm (NMNZ OR.021334, collected by Thomas Cockcroft). Gollans Valley, Wellington. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200495DSC_9755.jpg",
@@ -34297,16 +33057,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200500Parent%20-%20cropped.jpg",
                 "alt": "Little owl. Adult. Pakawau, Golden Bay, January 2020. Image &copy; Jennifer Chapman by Jennifer Chapman",
                 "copyright": "Jennifer Chapman"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200500OR.026346~v%201~Athene%20noctua.jpg",
-                "alt": "Little owl. Egg 36.3 x 28.7 mm (NMNZ OR.026346, collected by F. Milner). Oamaru, October 1932. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200500OR.026346~v%202~Athene%20noctua.jpg",
-                "alt": "Little owl. Clutch (NMNZ OR.026346, collected by F. Milner). Oamaru, October 1932. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200500lowl2.jpg",
@@ -34507,16 +33257,6 @@ data = [
                 "copyright": "R.M."
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200508OR.025975~v%201~Dacelo%20novaeguineae.jpg",
-                "alt": "Laughing kookaburra. Egg 44.4 x 36.2 mm (NMNZ OR.025975, collected by the Barnard family). Coomooboolaroo station, 20 km sw of Duaringa, central east Queensland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200508OR.025975~v%202~Dacelo%20novaeguineae%20clutch.jpg",
-                "alt": "Laughing kookaburra. Clutch (NMNZ OR.025975, collected by the Barnard family). Coomooboolaroo station, 20 km sw of Duaringa, central east Queensland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200508DSC02841.JPG",
                 "alt": "Laughing kookaburra. Juvenile in nesting hollow. Canberra, December 2017. Image &copy; R.M. by R.M.",
                 "copyright": "R.M."
@@ -34696,16 +33436,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120051004022016-Kingfishers-1-1920x1080.jpg",
                 "alt": "Sacred kingfisher. Juveniles practicing flight on their first day out of the nest. Mt Eden, February 2016. Image &copy; Bruce Buckman by Bruce Buckman http://www.flickr.com/photos/brunonz/",
                 "copyright": "Bruce Buckman"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200510OR.007263~v%201~Halcyon%20sancta%20vagans.jpg",
-                "alt": "Sacred kingfisher. Egg (NMNZ OR.007263, collected by Roy Bell). Raoul Island, Kermadec Islands, November 1905. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200510OR.007263~v%202~Halcyon%20sancta%20vagans.jpg",
-                "alt": "Sacred kingfisher. Clutch (NMNZ OR.007263, collected by Roy Bell). Raoul Island, Kermadec Islands, November 1905. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200510BirdsApr08-Jul08%20065.jpg",
@@ -35097,11 +33827,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200521OR.029950%231~~Xenicus%20gilviventris.jpg",
-                "alt": "Rock wren. Egg 20.8 x 15.5 mm (NMNZ OR.029950, collected by David Webb). Mt Heveldt, Haast Range, South Westland, November 2014. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200521rock2_0.jpg",
                 "alt": "Rock wren. Adult male bringing food to chicks in nest. Tutoko high bench, Fiordland, January 1978. Image &copy; Department of Conservation (image ref: 10047936) by Rod Morris, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -35217,16 +33942,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526Kokako%202.jpg",
                 "alt": "North Island kokako. Captive juvenile. Pukaha Mount Bruce, March 1998. Image &copy; Alex Scott by Alex Scott",
                 "copyright": "Alex Scott"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526OR.025438~v%202~Callaeas%20cinerea%20wilson.jpg",
-                "alt": "North Island kokako. Clutch (NMNZ OR.025438, collected by Ian Flux). Mapara, December 1997. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526OR.025438~v%201~Callaeas%20cinerea%20wilson.jpg",
-                "alt": "North Island kokako. Egg 41.3 x 27.6 mm (NMNZ OR.025438, collected by Ian Flux). Mapara, December 1997. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200526nik03.jpg",
@@ -35417,11 +34132,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200527MA_I213875.jpg",
                 "alt": "South Island kokako. Nest. Specimen registration no. OR.029158; image no. MA_I213875. Freshwater Basin, Milford Sound. Image &copy; Te Papa See Te Papa website: http://collections.tepapa.govt.nz/objectdetails.aspx?irn=1125581&amp;term=OR.029158",
                 "copyright": "Te Papa See Te Papa website: http://collections.tepapa.govt.nz/objectdetails.aspx?irn=1125581&amp;term=OR.029158"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200527OR.007626~~Callaeas%20c%20cinerea.jpg",
-                "alt": "South Island kokako. Egg 42.0 x 27.4 mm (NMNZ OR.007626, collected by W.D. Campbell). Hokitika. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -35548,16 +34258,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200528nis2.jpg",
                 "alt": "North Island saddleback. Adult female on nest. Cuvier Island, January 1979. Image &copy; Department of Conservation (image ref: 10037614) by Dick Veitch, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200528OR.027170~v%201~Philesturnus%20rufusater.jpg",
-                "alt": "North Island saddleback. Egg 27.8 x 22.1 mm (NMNZ OR.027170, collected by Raewyn Empson). Karori Sanctuary / Zealandia, December 2002. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200528OR.027170~v%202~Philesturnus%20rufusater.jpg",
-                "alt": "North Island saddleback. Clutch (NMNZ OR.027170, collected by Raewyn Empson). Karori Sanctuary / Zealandia, December 2002. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200528NI%20saddleback%20chicks%2010%20Feb%201994%20Lady%20Alice%20I.jpg",
@@ -35756,16 +34456,6 @@ data = [
                 "copyright": "Peter Tait"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200529OR.007618~v%202~Philesturnus%20carunculatus.jpg",
-                "alt": "South Island saddleback. Clutch (NMNZ OR.007618, collected by Edgar Stead). Solomon Island, Stewart Island, December 1931. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200529OR.007618~v%201~Philesturnus%20carunculatus.jpg",
-                "alt": "South Island saddleback. Egg 31.9 x 22.4 mm (NMNZ OR.007618, collected by Edgar Stead). Solomon Island, Stewart Island, December 1931. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200529saddleback%20chicks%2020%20jan.jpg",
                 "alt": "South Island saddleback. Chicks in nest in hollow rata. Ulva Island, Stewart Island, January 2009. Image &copy; Peter Tait by Peter Tait Courtesy Peter Tait http://www.sailsashore.co.nz, tait@sailsashore.co.nz",
                 "copyright": "Peter Tait"
@@ -35935,16 +34625,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200531NB40_VJ-OM_building.jpg",
                 "alt": "Stitchbird. Nest . Bushy Park, Whanganui, October 2015. Image &copy; Peter Frost by Peter Frost",
                 "copyright": "Peter Frost"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200531OR.016032~v%201~Notiomystis%20cincta.jpg",
-                "alt": "Stitchbird. Egg 21.9 x 16.9 mm (NMNZ OR.016032, collected by New Zealand Wildlife Service). Mount Bruce Wildlife Centre, Wairarapa, December 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200531OR.016032~v%202~Notiomystis%20cincta.jpg",
-                "alt": "Stitchbird. Clutch (NMNZ OR.016032, collected by New Zealand Wildlife Service). Mount Bruce Wildlife Centre, Wairarapa, December 1970. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200531NB40_VJ-OM_B5-9d%5B2%5D.jpg",
@@ -36119,16 +34799,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200536OR.007624~v%202~Gerygone%20igata.jpg",
-                "alt": "Grey warbler. Clutch (NMNZ OR.007624). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200536OR.007624~v%201~Gerygone%20igata.jpg",
-                "alt": "Grey warbler. Egg 18.0 x 12.6 mm (NMNZ OR.007624). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200536Gerygone-igata-16047.jpg",
                 "alt": "Grey warbler. Chick peering from nest. Waikato, October 2011. Image &copy; Neil Fitzgerald by Neil Fitzgerald www.neilfitzgeraldphoto.co.nz",
                 "copyright": "Neil Fitzgerald"
@@ -36255,16 +34925,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200537ciwarb4.jpg",
                 "alt": "Chatham Island warbler. Adult on nest. Mangere Island, Chatham Islands, December 1982. Image &copy; Department of Conservation (image ref: 10047974) by Dave Crouchley, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200537OR.022522~v%202~Gerygone%20albofrontata%20Dmap.jpg",
-                "alt": "Chatham Island warbler. Clutch (NMNZ OR.022522, collected by Allan Munn). Mangere Island, Chatham Islands, October 1982. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200537OR.022522~v%201~Gerygone%20albofrontata%20Dmap.jpg",
-                "alt": "Chatham Island warbler. Egg 19.4 x 13.4 mm (NMNZ OR.022522, collected by Allan Munn). Mangere Island, Chatham Islands, October 1982. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200537DSC09485.JPG",
@@ -36571,16 +35231,6 @@ data = [
                 "copyright": "Colin Miskelly"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200538OR.007622~v%202~Anthornis%20melanura.jpg",
-                "alt": "Bellbird. Clutch (NMNZ OR.007622, collected by Captain John Bollons). Akaroa. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200538OR.007622~v%201~Anthornis%20melanura.jpg",
-                "alt": "Bellbird. Egg 22.5 x 16.3 mm (NMNZ OR.007622, collected by Captain John Bollons). Akaroa. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200538DSC_8952%27%27.jpg",
                 "alt": "Bellbird. Two males bathing. Little Barrier Island, March 2009. Image &copy; Art Polkanov by Art Polkanov",
                 "copyright": "Art Polkanov"
@@ -36791,16 +35441,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200543Tui%202.jpg",
                 "alt": "Tui. Adult in tree fern (note kaka-beak pollen on forehead). Palmerston North, September 2011. Image &copy; Alex Scott by Alex Scott",
                 "copyright": "Alex Scott"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200543OR.007614~v%201~Prosthemadera%20n%20novaeseelandiae.jpg",
-                "alt": "Tui. Egg 31.9 x 20.8 mm (NMNZ OR.007614). Chickens Islands, November 1939. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200543OR.007614~v%202~Prosthemadera%20n%20novaeseelandiae.jpg",
-                "alt": "Tui. Clutch (NMNZ OR.007614 & OR.007615). Chickens Islands, November 1939. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200543tui2_0.jpg",
@@ -37080,11 +35720,6 @@ data = [
                 "copyright": "Yvonne Sprey"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200549OR.007603~~Mohoua%20albicilla.jpg",
-                "alt": "Whitehead. Egg 21.5 x 16.0 mm (NMNZ OR.007603, collected by Captain John Bollons). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200549IMGP1216.jpg",
                 "alt": "Whitehead. Three young chicks in nest. Motuora Island, Hauraki Gulf, January 2015. Image &copy; Yvonne Sprey by Yvonne Sprey",
                 "copyright": "Yvonne Sprey"
@@ -37225,11 +35860,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200550221A7715_HR.jpg",
                 "alt": "Yellowhead. Adult male in flight after leaving nest entrance. Routeburn Flats, Mt Aspiring National Park, December 2015. Image &copy; Ron Enzler by Ron Enzler http://www.therouteburntrack.com",
                 "copyright": "Ron Enzler"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200550OR.007642~~Mohoua%20ochrocephala.jpg",
-                "alt": "Yellowhead. Egg 24.1 x 17.1 mm (NMNZ OR.007642). Dunedin. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200550mohua2.jpg",
@@ -37405,16 +36035,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200551OR.021151~v%201~Mohoua%20novaeseelandiae.jpg",
-                "alt": "Brown creeper. Egg 18.9 x 15.1 mm (NMNZ OR.021151, collected by 'Binder'). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200551OR.021151~v%202~Mohoua%20novaeseelandiae.jpg",
-                "alt": "Brown creeper. Clutch (NMNZ OR.021151, collected by 'Binder'). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200551IMG_1909.jpg",
                 "alt": "Brown creeper. Juveniles just fledged... maybe 36 hours. Ulva Island, Stewart Island, February 2012. Image &copy; Peter Tait by Peter Tait Courtesy Peter Tait http://www.sailsashore.co.nz, tait@sailsashore.co.nz",
                 "copyright": "Peter Tait"
@@ -37550,21 +36170,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200552mag1.jpg",
                 "alt": "Australian magpie. Adult white-backed magpies at nest. Ilam, Christchurch, October 1980. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200552Magpie%20eggs%20no.%201.jpg",
-                "alt": "Australian magpie. Eggs laid by ten different birds. Upper Hutt. Image &copy; David Angus by David Angus",
-                "copyright": "David Angus"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200552OR.025978~v%202~Gymnorhina%20tibicen%20tibicen.jpg",
-                "alt": "Australian magpie. Clutch (NMNZ OR.025978, collected by the Barnard family). Coomooboolaroo station, 20 km sw of Duaringa, central east Queensland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200552OR.025978~v%201~Gymnorhina%20tibicen%20tibicen.jpg",
-                "alt": "Australian magpie. Egg 37.2 x 26.2 mm (NMNZ OR.025978, collected by the Barnard family). Coomooboolaroo station, 20 km sw of Duaringa, central east Queensland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200552magpie_0.jpg",
@@ -37953,16 +36558,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200564Rook%201.JPG",
                 "alt": "Rook. Rookery (at unusually low height, due to absence of tall trees). Steppes, Kalmykia Republic, May 2017. Image &copy; Sergey Golubev by Sergey Golubev",
                 "copyright": "Sergey Golubev"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200564OR.021134~v%201~Corvus%20frugilegus.jpg",
-                "alt": "Rook. Egg 39.3 x 28.0 mm (NMNZ OR.021134, collected by J.G. Gordon). Derrie Rookery, Wigtownshire, Scotland, April 1927. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200564OR.021134~v%202~Corvus%20frugilegus.jpg",
-                "alt": "Rook. Clutch (NMNZ OR.021134, collected by J.G. Gordon). Derrie Rookery, Wigtownshire, Scotland, April 1927. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             }
         ],
         "sounds": [
@@ -38263,16 +36858,6 @@ data = [
                 "copyright": "Oscar Thomas"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200574OR.027172~v%202~Petroica%20australis%20longipes.jpg",
-                "alt": "North Island robin. Clutch (NMNZ OR.027172, collected by Raewyn Empson). Karori Sanctuary / Zealandia, October 2002. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200574OR.027172~v%201~Petroica%20australis%20longipes.jpg",
-                "alt": "North Island robin. Egg 22.4 x 17.9 mm (NMNZ OR.027172, collected by Raewyn Empson). Karori Sanctuary / Zealandia, October 2002. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200574IMG_6782.JPG",
                 "alt": "North Island robin. 8 day old chick in hand. Tawharanui Regional Park, October 2015. Image &copy; Oscar Thomas by Oscar Thomas https://www.flickr.com/photos/kokakola11/",
                 "copyright": "Oscar Thomas"
@@ -38516,16 +37101,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200575OR.016579~v%201~Petroica%20australis%20australis.jpg",
-                "alt": "South Island robin. Egg 25.5 x 18.9 mm (NMNZ OR.016579, collected by Douglas Flack). Kowhai Bush,  Kaikoura, December 1971. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200575OR.016579~v%202~Petroica%20australis%20australis.jpg",
-                "alt": "South Island robin. Clutch (NMNZ OR.016579, collected by Douglas Flack). Kowhai Bush,  Kaikoura, December 1971. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200575DSC03756.JPG",
                 "alt": "South Island robin. Stewart Island robin chicks (approx. five days old). Ulva Island, December 2012. Image &copy; Leon Berard by Leon Berard",
                 "copyright": "Leon Berard"
@@ -38656,16 +37231,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/120057806830026.jpg",
                 "alt": "Black robin. Fledgling being fed by female Chatham Island tomtit cross-foster parent. Rangatira Island, Chatham Islands, January 1984. Image &copy; Colin Miskelly by Colin Miskelly",
                 "copyright": "Colin Miskelly"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200578OR.024448~v%202~Petroica%20traversi.jpg",
-                "alt": "Black robin. Clutch (NMNZ OR.024448, collected by Don Merton). Rangatira (South-east) Island, November 1988. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200578OR.024448~v%201~Petroica%20traversi.jpg",
-                "alt": "Black robin. Egg 23.1 x 16.6 mm (NMNZ OR.024448, collected by Don Merton). Rangatira (South-east) Island, November 1988. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200578Black-robin-11.jpg",
@@ -38808,16 +37373,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579sky1.jpg",
                 "alt": "Eurasian skylark. Adult on nest. Birdlings Flat, Lake Ellesmere, October 1958. Image &copy; Department of Conservation (image ref: 10030617) by Peter Morrison, Department of Conservation Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579OR.015292~v%201~Alauda%20arvensis.jpg",
-                "alt": "Eurasian skylark. Egg 22.5 x 16.6 mm (NMNZ OR.015292, collected by Frederich-Carl Kinsky). Whakaki, Wairoa, October 1952. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579OR.015292~v%202~Alauda%20arvensis.jpg",
-                "alt": "Eurasian skylark. Clutch (NMNZ OR.015292, collected by Frederich-Carl Kinsky). Whakaki, Wairoa, October 1952. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200579sky2.jpg",
@@ -39465,11 +38020,6 @@ data = [
                 "copyright": "John and Melody Anderson, Wayfarer International Ltd"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200587Welcome-swallow-eggs-Banks-Peninsula-Oct-2011.JPG",
-                "alt": "Welcome swallow. Eggs in nest. Banks Peninsula, October 2011. Image &copy; James Mortimer by James Mortimer",
-                "copyright": "James Mortimer"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200587SwallowFamily.jpg",
                 "alt": "Welcome swallow. Adult bird with chicks (approximately 11 days old). Oratia, January 2017. Image &copy; John and Melody Anderson, Wayfarer International Ltd by John and Melody Anderson Love our Birds\u00ae&nbsp;| www.wayfarerimages.co.nz",
                 "copyright": "John and Melody Anderson, Wayfarer International Ltd"
@@ -39478,11 +38028,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200587SwallowChicksTrio.jpg",
                 "alt": "Welcome swallow. Adult with chicks (approximately 2 weeks old). Oratia, January 2017. Image &copy; John and Melody Anderson, Wayfarer International Ltd by John and Melody Anderson Love our Birds\u00ae&nbsp;| www.wayfarerimages.co.nz",
                 "copyright": "John and Melody Anderson, Wayfarer International Ltd"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200587OR.021118~~Hirundo%20tahitica%20neoxena%20%20Dmap.jpg",
-                "alt": "Welcome swallow. Egg 17.4 x 13.2 mm (NMNZ OR.021118, collected by Ed Saul). Kawakawa, November 1960. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200587Welcome-swallow-01.jpg",
@@ -40482,16 +39027,6 @@ data = [
                 "copyright": "Peter Reese"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200599OR.026506~v%202~Passer%20domesticus.jpg",
-                "alt": "House sparrow. Clutch (NMNZ OR.026506, collected by Arnold Wells). Taranaki. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200599OR.026506~v%201~Passer%20domesticus.jpg",
-                "alt": "House sparrow. Egg 20.1 x 15.6 mm (NMNZ OR.026506, collected by Arnold Wells). Taranaki. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200599IMG_5204.JPG",
                 "alt": "House sparrow. Courting male. Wanganui, December 2012. Image &copy; Ormond Torr by Ormond Torr",
                 "copyright": "Ormond Torr"
@@ -40776,11 +39311,6 @@ data = [
                 "copyright": "Kyle Morrison"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601OR.007604~v%201~Anthus%20n%20novaesealandiae.jpg",
-                "alt": "New Zealand pipit. Egg 22.6 x 16.6 mm (NMNZ OR.007604). Murupara, November 1937. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200601pip08.jpg",
                 "alt": "New Zealand pipit. Antipodes Island nest containing chick. Antipodes Island, November 1978. Image &copy; Department of Conservation (image ref: 10047916) by John Kendrick Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -40930,11 +39460,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606dunn3.jpg",
                 "alt": "Dunnock. Adult at nest containing chicks. , January 1990. Image &copy; Peter Reese by Peter Reese",
                 "copyright": "Peter Reese"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606OR.023266~v%202~Prunella%20modularis.jpg",
-                "alt": "Dunnock. Faded clutch (NMNZ OR.023266, collected by Dave Crouchley). Mangere Island, Chatham Islands, December 1980. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200606IMG_8802.JPG",
@@ -41099,16 +39624,6 @@ data = [
                 "copyright": "Dick Porter"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200607OR.026383~v%202~Fringilla%20coelebs.jpg",
-                "alt": "Chaffinch. Clutch (NMNZ OR.026383, ex Captain John Bollons collection). Kaipara Heads, Northland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200607OR.026383~v%201~Fringilla%20coelebs.jpg",
-                "alt": "Chaffinch. Egg 19.3 x 14.5 mm (NMNZ OR.026383, ex Captain John Bollons collection). Kaipara Heads, Northland. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200607Chaffinch%201.jpg",
                 "alt": "Chaffinch. Fledgling. Palmerston North, November 2014. Image &copy; Alex Scott by Alex Scott",
                 "copyright": "Alex Scott"
@@ -41268,16 +39783,6 @@ data = [
                 "copyright": "Ray Buckmaster"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200608OR.018752~v%201~Carduelis%20c%20chloris.jpg",
-                "alt": "European greenfinch. Egg 21.0 x 14.0 mm (NMNZ OR.018752, collected by Frederich-Carl Kinsky). Rai Saddle, Marlborough, February 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200608OR.018752~v%202~Carduelis%20c%20chloris.jpg",
-                "alt": "European greenfinch. Clutch (NMNZ OR.018752, collected by Frederich-Carl Kinsky. Rai Saddle, Marlborough, February 1950. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200608green1.jpg",
                 "alt": "European greenfinch. Adult male feeding chicks in nest. . Image &copy; Department of Conservation (image ref: 10037580) by Mike Soper Courtesy of Department of Conservation",
                 "copyright": "Department of Conservation"
@@ -41416,16 +39921,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200609IMG_4402zsu.jpg",
                 "alt": "European goldfinch. Chicks in nest. Debrecen, Hungary, Europe, May 2017. Image &copy; Tamas Zeke by Zsuzsanna Guba",
                 "copyright": "Tamas Zeke"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200609OR.019743~v%202~Carduelis%20carduelis.jpg",
-                "alt": "European goldfinch. Clutch (NMNZ OR.019743, collected by Frederich-Carl Kinsky)). Lipporg, Kreis Beckum, Westfalia, May 1949. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200609OR.019743~v%201~Carduelis%20carduelis.jpg",
-                "alt": "European goldfinch. Egg 17.1 x 13.1 mm (NMNZ OR.019743, collected by Frederich-Carl Kinsky). Lipporg, Kreis Beckum, Westfalia, May 1949. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200609gold1.jpg",
@@ -41742,11 +40237,6 @@ data = [
                 "copyright": "Department of Conservation"
             },
             {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200612OR.029545~v%201~Emberiza%20citrinella.jpg",
-                "alt": "Yellowhammer. Egg 20.3 x 15.7 mm (NMNZ OR.029545, collected by G.W. Gilbert). England. Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200612IMG_6838.JPG",
                 "alt": "Yellowhammer. Fledgling. Hungary, May 2019. Image &copy; Tamas Zeke by Tamas Zeke Fledgeling of the Yellowhammer",
                 "copyright": "Tamas Zeke"
@@ -41932,21 +40422,6 @@ data = [
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613Cirl%20bunting%203.jpg",
                 "alt": "Cirl bunting. Female. Auxerre,  France, February 2017. Image &copy; Cyril Vathelet by Cyril Vathelet",
                 "copyright": "Cyril Vathelet"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613Cirl%20bunting%20eggs.jpg",
-                "alt": "Cirl bunting. Eggs (3) laid by captive female. Upper Hutt, December 2012. Image &copy; David Angus by David Angus",
-                "copyright": "David Angus"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613OR.029334~v%201~Emberiza%20cirlus.jpg",
-                "alt": "Cirl bunting. Egg 25.9 x 17.8 mm (NMNZ OR.029334). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
-            },
-            {
-                "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613OR.029334~v%202~Emberiza%20cirlus.jpg",
-                "alt": "Cirl bunting. Clutch (NMNZ OR.029334). . Image &copy; Te Papa by Jean-Claude Stahl",
-                "copyright": "Te Papa"
             },
             {
                 "href": "https://nzbirdsonline.org.nz/sites/all/files/1200613O.029560%20cirl%20bunting%201971%201.jpg",

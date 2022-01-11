@@ -7,7 +7,11 @@ with open("final_bird_data.json", "r") as file_obj:
 new_birds = []
 for bird in bird_data:
     new_bird = bird
-    new_images = [image for image in bird["images"] if "egg" not in image["alt"]]
+    new_images = [
+        image
+        for image in bird["images"]
+        if "egg" not in image["alt"].lower() and "clutch" not in image["alt"].lower()
+    ]
     new_bird["images"] = new_images
     new_birds.append(new_bird)
 

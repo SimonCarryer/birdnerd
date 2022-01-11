@@ -45,7 +45,6 @@ function RenderImage(bird) {
     var elem = document.createElement("img");
     elem.setAttribute("src", image.href);
     elem.setAttribute("alt", image.alt);
-    elem.setAttribute("title", image.alt);
     var img = document.createElement("div")
     img.appendChild(elem)
     var credit = document.createElement("div");

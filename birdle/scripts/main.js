@@ -103,38 +103,48 @@ function AskAQuestion() {
     correct = elements[1];
     selected = elements[2];
     question(correct, selected);
-    if (numberOfQuestions == totalQuestions - 1) {
-        let button = document.getElementById("action");
-        button.innerHTML = "Finish"
-    }
-    else {
-        let button = document.getElementById("action");
-        button.innerHTML = "Next"
-    }
+
+    const button = document.getElementById("action");
+    button.onclick = checkAnswer;
+    button.innerText = (numberOfQuestions === totalQuestions - 1) ? "Finish" : "Submit";
 }
 
 function checkAnswer() {
-    numberOfQuestions += 1
     var got_it_right = check_function();
-    var outcome = reveal_answer(got_it_right);
-    outcome.setAttribute("class", "outcome-content");
-    var outcome_container = document.getElementById("outcome");
+
+    // Show the results box
+    var outcomeElement = reveal_answer(got_it_right);
+    outcomeElement.setAttribute("class", "outcome-content");
+    const outcome_container = document.getElementById('result-container');
     outcome_container.innerHTML = "";
-    outcome_container.appendChild(outcome)
+    outcome_container.appendChild(outcomeElement);
+    outcome_container.style.visibility = 'visible';
+
     if (got_it_right) {
         outcome_container.setAttribute("class", "outcome correct");
-        correctCount += 1;
-    }
-    else {
+        correctCount++;
+    } else {
         outcome_container.setAttribute("class", "outcome incorrect");
+        document.getElementById(correct.name).parentElement.className += 'correct_answer'
     }
-    if (numberOfQuestions == totalQuestions) {
+
+    numberOfQuestions++
+    if (numberOfQuestions === totalQuestions) {
         endGame()
     }
     else {
-        window.scrollTo(0, 0);
-        AskAQuestion();
+        const nextQuestionButton = document.getElementById('action');
+        nextQuestionButton.textContent = 'Next';
+        nextQuestionButton.onclick = proceedToNextQuestion;
     }
+}
+
+function proceedToNextQuestion() {
+    // Remove the previous answer content
+    document.getElementById('result-container').innerHTML = ""
+
+    window.scrollTo(0, 0);
+    AskAQuestion();
 }
 
 monthNames = ["January", "February", "March", "April", "May", "June",
@@ -170,8 +180,7 @@ function restartGame() {
     for (let i = 0; i < totalQuestions; i++) {
         questions.push(BuildQuestion(levels[i], categories[i]))
     }
-    var outcome_container = document.getElementById("outcome");
-    outcome_container.innerHTML = "";
+    document.getElementById("result-container").innerHTML = "";
     AskAQuestion()
 }
 

@@ -125,7 +125,10 @@ function checkAnswer() {
         correctCount++;
     } else {
         outcome_container.setAttribute("class", "outcome incorrect");
-        document.getElementById(correct.name).parentElement.className += 'correct_answer'
+        const correctAnswer = document.getElementById(correct.name);
+        if (correctAnswer) {
+            correctAnswer.parentElement.className += 'correct_answer'
+        }
     }
 
     numberOfQuestions++

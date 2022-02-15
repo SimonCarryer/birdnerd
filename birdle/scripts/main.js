@@ -203,6 +203,8 @@ function endGame() {
     final.appendChild(finalScore);
     let button = document.getElementById("action");
     button.remove();
+
+    endGameUpdateStats(correctCount);
 }
 
 check_function = alwaysWrong

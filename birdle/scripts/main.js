@@ -87,6 +87,22 @@ function BuildQuestion(level, category) {
         var correct = selected[0];
         usedBirds.push(correct);
     }
+    const synonyms = {
+        'nz': 'new zealand',
+    };
+    let namesToAdd = [];
+    correct.other_names.forEach(name => { // If it contains NZ XXX, also add New Zealand XXX to accepted names.
+        name = name.toLowerCase();
+        for (const [shortForm, longForm] of Object.entries(synonyms)) {
+            if (name.includes(shortForm))
+                namesToAdd.push(name.replace(shortForm, longForm));
+            if (name.includes(longForm))
+                namesToAdd.push(name.replace(longForm, shortForm));
+        }
+    })
+    correct.other_names.push.apply(correct.other_names, namesToAdd);
+    correct.other_names = [...new Set(correct.other_names)]; // Removing duplicates
+
     return [question, correct, selected]
 }
 

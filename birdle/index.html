@@ -2,21 +2,25 @@
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:creator" content="@simoncarryer" />
-    <meta property="og:url" content="http://birdnerd.co.nz/birdle/" />
-    <meta property="og:title" content="Birdle" />
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:creator" content="@simoncarryer"/>
+    <meta property="og:url" content="http://birdnerd.co.nz/birdle/"/>
+    <meta property="og:title" content="Birdle"/>
     <meta property="og:description"
-        content="A daily quiz for New Zealand bird nerds. Image © Tony Whitehead, via www.nzbirdsonline.org.nz" />
+          content="A daily quiz for New Zealand bird nerds. Image © Tony Whitehead, via www.nzbirdsonline.org.nz"/>
     <meta property="og:image"
-        content="https://nzbirdsonline.org.nz/sites/all/files/1200531Stitchbird-D700-1003-1024web.jpg" />
-    <meta property="og:type" content="website" />
+          content="https://nzbirdsonline.org.nz/sites/all/files/1200531Stitchbird-D700-1003-1024web.jpg"/>
+    <meta property="og:type" content="website"/>
     <link rel="stylesheet" href="styles/style.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-HVJCRQP3Q9"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'G-HVJCRQP3Q9');
@@ -25,22 +29,22 @@
 <title>Birdle</title>
 
 <body>
-    <div class="content">
-        <div class="title">
-            <h2 id="title"></h2>
-        </div>
-        <div id="outcome" class="outcome">
-        </div>
-        <div id="final" class="final">
-        </div>
-        <div class="q_and_a">
-            <div id="question"></div>
-            <div id="answer"></div>
-            <button id="action" onclick="checkAnswer()">Next</button>
-        </div>
-        <div class="credit">All images and audio sourced from <a href="http://www.nzbirdsonline.co.nz">NZ Birds
-                Online</a>. Site by <a href="https://twitter.com/simoncarryer">@simoncarryer</a>.</div>
+<div class="content">
+    <div class="title">
+        <h2 id="title"></h2>
     </div>
+    <div id="final" class="final">
+    </div>
+    <div class="q_and_a">
+        <div id="question"></div>
+        <div id="answer"></div>
+        <button id="action" onclick="checkAnswer()">Submit</button>
+        <div id="result-container" style="visibility: hidden"></div>
+    </div>
+    <div class="credit">All images and audio sourced from <a href="http://www.nzbirdsonline.co.nz">NZ Birds
+        Online</a>. Site by <a href="https://twitter.com/simoncarryer">@simoncarryer</a>.
+    </div>
+</div>
 
 </body>
 <script src="scripts/data.js"></script>

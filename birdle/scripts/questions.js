@@ -261,12 +261,9 @@ function alwaysWrong() {
 
 function revealBird(got_it_right) {
     var outcome = document.createElement("div");
-    if (got_it_right) {
-        outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.`
-    }
-    else {
-        outcome.innerHTML = `<p>Incorrect. It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.`
-    }
+    const birdName = RenderName(correct);
+    const aOrAn = ('AEIOU'.includes(birdName.charAt(0).toUpperCase())) ? 'an' : 'a';
+    outcome.innerHTML = `<p>${got_it_right ? 'Correct!' : 'Incorrect.'} It was ${aOrAn} <a href="https://nzbirdsonline.org.nz/${correct.link}">${birdName}</a>.</p>`
 
     return outcome
 }

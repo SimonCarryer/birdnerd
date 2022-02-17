@@ -1,32 +1,33 @@
 body {
-    font-family: sans-serif;
-    font-size: 1.2rem;
+  font-family: sans-serif;
+  font-size: 1.2rem;
 }
 
 .title {
-    padding: 5px;
-    padding-bottom: 0px;
+  padding: 5px;
+  padding-bottom: 0px;
+  font-size: 10px;
 }
 
 .outcome .outcome-content {
-    padding: 10px;
+  padding: 10px;
 }
 
 .outcome.incorrect {
-    background-color: pink;
+  background-color: pink;
 }
 
 .outcome.correct {
-    background-color: lightgreen;
+  background-color: lightgreen;
 }
 
 .content {
-    width: 100%;
-    max-width: 450px;
-    margin: 0 auto;
-    display: flex;
-    background-color: whitesmoke;
-    flex-direction: column;
+  width: 100%;
+  max-width: 450px;
+  margin: 0 auto;
+  display: flex;
+  background-color: whitesmoke;
+  flex-direction: column;
 }
 
 .q_and_a {
@@ -38,14 +39,14 @@ body {
 }
 
 audio {
-    width: 100%;
+  width: 100%;
 }
 
 input[type="text"] {
-    width: 100%;
-    font-size: 18pt;
-    margin-top: 5px;
-    margin-bottom: 5px;
+  width: 100%;
+  font-size: 18pt;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 input[type="radio"] {
@@ -54,7 +55,6 @@ input[type="radio"] {
     transform: scale(2);
     margin-right: 10px;
 }
-
 
 button {
     width: 100%;
@@ -65,21 +65,21 @@ button {
 }
 
 .questionImage * {
-    width: 100%;
+  width: 100%;
 }
 
 .questionImage {
-    display: inline;
+  display: inline;
 }
 
 .answerImage * {
-    width: 280px;
-    vertical-align: middle;
-    padding-right: 20px;
+  width: 280px;
+  vertical-align: middle;
+  padding-right: 20px;
 }
 
 .answerImage {
-    display: inline;
+  display: inline;
 }
 
 ul {
@@ -96,33 +96,33 @@ li {
 }
 
 .credit {
-    height: auto;
-    padding: 10px;
-    font-size: 0.8rem;
-    width: 100%;
-    align-self: flex-start;
+  height: auto;
+  padding: 10px;
+  font-size: 0.8rem;
+  width: 100%;
+  align-self: flex-start;
 }
 
 .imageCredit {
-    font-size: 0.8rem;
-    position: relative;
-    bottom: 0;
-    left: 25px;
+  font-size: 0.8rem;
+  position: relative;
+  bottom: 0;
+  left: 25px;
 }
 
 .final {
-    margin: 5px;
+  margin: 5px;
 }
 
 .finalImage {
-    display: inline;
+  display: inline;
 }
 .finalImage * {
-    width: 100%;
+  width: 100%;
 }
 
 .finalAttribution {
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
 .outcome {
@@ -154,3 +154,112 @@ li {
 }
 
 } */
+
+header {
+  padding: 0 16px;
+  display: flex;
+  border-bottom: 1px solid rgb(105, 98, 98);
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  height: 50px;
+}
+
+header .header-left {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  width: 250px;
+  justify-content: flex-start;
+}
+
+header .header-right {
+  display: flex;
+  width: 250px;
+  justify-content: flex-end;
+}
+
+header #header-title {
+  font-weight: 700;
+  font-size: 37px;
+  line-height: 100%;
+  letter-spacing: 0.01em;
+  text-align: center;
+  left: 0;
+  right: 0;
+  pointer-events: none;
+}
+
+#statistics {
+  display: flex;
+  text-align: center;
+}
+
+.statistic-container {
+  flex: 1;
+}
+
+.statistic-container .statistic {
+  font-size: 38px;
+}
+
+.statistic-container .label {
+  font-size: 14px;
+}
+
+#statsButton {
+  display: flex;
+  justify-content: flex-end;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0 4px;
+}
+
+#statsClose {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 450px;
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}

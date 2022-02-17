@@ -1,15 +1,11 @@
-
-
-
 function PickBirdFromAudio(correct, selected) {
+    InsertQuestionText("Select the name of the bird heard in the following clip") 
+
     var sound = Shuffle(correct.sounds)[0]
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = "Select the name of the bird heard in the following clip";
-    image_container.appendChild(q)
     var elem = document.createElement("audio");
     elem.setAttribute("src", sound);
     elem.setAttribute("controls", "");
+    var image_container = document.getElementById("question");
     image_container.appendChild(elem);
 
     var answers_container = document.getElementById("answer");
@@ -23,33 +19,26 @@ function PickBirdFromAudio(correct, selected) {
     check_function = checkPickedName
 }
 
-
 function EnterNameFromAudio(correct, selected) {
+    InsertQuestionText("Enter the name of the bird heard in the following clip.")
+
     var sound = Shuffle(correct.sounds)[0]
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = "Enter the name of the bird heard in the following clip.";
-    image_container.appendChild(q)
     var elem = document.createElement("audio");
     elem.setAttribute("src", sound);
     elem.setAttribute("controls", "");
+    var image_container = document.getElementById("question");
     image_container.appendChild(elem);
 
-    var answers_container = document.getElementById("answer");
-    input = document.createElement("input")
-    input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
-    answers_container.appendChild(input);
+    InsertAnswerInputBox();
     check_function = checkEnteredName
 }
 
 function PickBirdFromPicture(correct, selected) {
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = "Select the name of the bird shown in the picture.";
-    image_container.appendChild(q)
+    InsertQuestionText("Select the name of the bird shown in the picture.")
+
     var elem = RenderImage(correct);
     elem.setAttribute("class", "questionImage");
+    var image_container = document.getElementById("question");
     image_container.appendChild(elem);
 
     var answers_container = document.getElementById("answer");
@@ -64,10 +53,7 @@ function PickBirdFromPicture(correct, selected) {
 }
 
 function PickPictureFromBird(correct, selected) {
-    var image_container = document.getElementById("question");
-    var elem = document.createElement("p");
-    elem.innerHTML = `Select the image which contains a ${RenderName(correct)}`
-    image_container.appendChild(elem);
+    InsertQuestionText(`Select the image which contains a ${RenderName(correct)}`)
 
     var answers_container = document.getElementById("answer");
     var answers = document.createElement("ul");
@@ -100,10 +86,7 @@ function PickOtherLanguageName(correct, selected) {
 }
 
 function PickMaoriName(correct, selected) {
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = `Pick the Māori name for a ${correct.name}`;
-    image_container.appendChild(q)
+    InsertQuestionText(`Pick the Māori name for a ${correct.name}`)
 
     var answers_container = document.getElementById("answer");
     var answers = document.createElement("ul");
@@ -118,10 +101,7 @@ function PickMaoriName(correct, selected) {
 }
 
 function PickEnglishName(correct, selected) {
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = `Pick the English name for a ${capitalizeFirstLetter(correct.maori_name)}.`;
-    image_container.appendChild(q)
+    InsertQuestionText(`Pick the English name for a ${capitalizeFirstLetter(correct.maori_name)}.`)
 
     var answers_container = document.getElementById("answer");
     var answers = document.createElement("ul");
@@ -141,114 +121,77 @@ function EnterOtherLanguageName(correct, selected) {
 }
 
 function EnterMaoriName(correct, selected) {
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = `Enter the Māori name for a ${correct.name}.`;
-    image_container.appendChild(q)
-
-    var answers_container = document.getElementById("answer");
-    input = document.createElement("input")
-    input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
-    answers_container.appendChild(input);
+    InsertQuestionText(`Enter the Māori name for a ${correct.name}.`)
+    InsertAnswerInputBox();
 
     check_function = checkEnteredMaoriName;
 }
 
 function EnterEnglishName(correct, selected) {
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = `Enter the English name for a ${correct.maori_name}.`;
-    image_container.appendChild(q)
-
-    var answers_container = document.getElementById("answer");
-    input = document.createElement("input")
-    input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
-    answers_container.appendChild(input);
+    InsertQuestionText(`Enter the English name for a ${correct.maori_name}.`)
+    InsertAnswerInputBox();
 
     check_function = checkEnteredName;
 }
 
 function EnterNameFromPicture(correct, selected) {
-    var image_container = document.getElementById("question");
-    var q = document.createElement("p");
-    q.innerHTML = "Enter the name of the bird shown in the picture.";
-    image_container.appendChild(q)
+    InsertQuestionText("Enter the name of the bird shown in the picture.")
+    
     var elem = RenderImage(correct)
     elem.setAttribute("class", "questionImage");
+    const image_container = document.getElementById("question");
     image_container.appendChild(elem);
-
-    var answers_container = document.getElementById("answer");
-    input = document.createElement("input")
-    input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
-    answers_container.appendChild(input);
+    InsertAnswerInputBox();
+    
     check_function = checkEnteredName;
 }
 
+function InsertQuestionText(text) {
+    const image_container = document.getElementById("question");
+    const q = document.createElement("p");
+    q.innerHTML = text;
+    image_container.appendChild(q)
+}
+
+function InsertAnswerInputBox() {
+    const answers_container = document.getElementById("answer");
+    const input = document.createElement("input")
+    input.setAttribute("type", "text");
+    input.setAttribute("id", "answer box");
+    answers_container.appendChild(input);
+}
 
 function checkPickedName() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    if (answer) {
-        const selected = answer.value;
-        var got_it_right = selected == correct.name
-    }
-    else {
-        var got_it_right = false
-    }
+    const got_it_right = answer != null && answer.value == correct.name
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkPickedMaoriName() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    if (answer) {
-        const selected = answer.value;
-        var got_it_right = selected == correct.maori_name
-    }
-    else {
-        var got_it_right = false
-    }
+    const got_it_right = answer != null && answer.value == correct.maori_name
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkPickedPicture() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    if (answer) {
-        const selected = answer.value;
-        var got_it_right = selected == correct.name
-    }
-    else {
-        var got_it_right = false
-    }
+    const got_it_right = answer != null && answer.value == correct.name
     reveal_answer = revealPicture
     return got_it_right
 }
 
 function checkEnteredName() {
     const entered = document.getElementById("answer box").value;
-    if (entered) {
-        var name = entered.toLowerCase();
-        var got_it_right = correct.other_names.includes(name)
-    }
-    else {
-        var got_it_right = false
-    }
+    const got_it_right = entered != null && correct.other_names.includes(entered.toLowerCase())
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkEnteredMaoriName() {
     const entered = document.getElementById("answer box").value;
-    if (entered) {
-        var name = entered.toLowerCase();
-        var got_it_right = correct.maori_name == entered.toLowerCase()
-    }
-    else {
-        var got_it_right = false
-    }
+    const got_it_right = entered != null && correct.maori_name == entered.toLowerCase()
     reveal_answer = revealBird
     return got_it_right
 }

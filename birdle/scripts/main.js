@@ -196,7 +196,7 @@ function endGame() {
     final.appendChild(img);
     let title = document.createElement("div");
     title.setAttribute("class", "finalAttribution")
-    title.innerHTML = img.firstChild.getAttribute("title");
+    title.innerHTML = img.firstChild.getAttribute("alt");
     final.appendChild(title);
     let finalScore = document.createElement("h2");
     finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions} `

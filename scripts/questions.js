@@ -237,7 +237,7 @@ function checkPickedPicture() {
 function checkEnteredName() {
     const entered = document.getElementById("answer box").value;
     if (entered) {
-        var name = entered.toLowerCase();
+        var name = entered.trim().toLowerCase();
         var got_it_right = correct.other_names.includes(name)
     }
     else {
@@ -250,7 +250,7 @@ function checkEnteredName() {
 function checkEnteredMaoriName() {
     const entered = document.getElementById("answer box").value;
     if (entered) {
-        var name = entered.toLowerCase();
+        var name = entered.trim().toLowerCase();
         var got_it_right = correct.maori_name == entered.toLowerCase()
     }
     else {

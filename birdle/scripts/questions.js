@@ -204,7 +204,7 @@ function checkPickedPicture() {
 
 function checkEnteredName() {
     const entered = document.getElementById("answer box").value;
-    if(entered == null || !all_bird_names.has(entered))
+    if(entered == null || !all_bird_names.has(entered.trim().toLowerCase()))
     {
         return NotValidAnswer
     }
@@ -215,7 +215,7 @@ function checkEnteredName() {
 
 function checkEnteredMaoriName() {
     const entered = document.getElementById("answer box").value;
-    if(entered == null || !all_bird_names.has(entered))
+    if(entered == null || !all_bird_names.has(entered.trim().toLowerCase()))
     {
         return NotValidAnswer
     }

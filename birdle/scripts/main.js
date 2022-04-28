@@ -127,7 +127,16 @@ function AskAQuestion() {
 
 function checkAnswer() {
     var got_it_right = check_function();
-
+    if(got_it_right == NotValidAnswer)
+    {
+        var enteredValue = document.getElementById("answer box").value;
+        InsertFeedbackText(enteredValue + " is not a recognised species. Try again.")
+        return
+    }
+    else
+    {
+        ClearFeedbackText()
+    }
     // Show the results box
     var outcomeElement = reveal_answer(got_it_right);
     outcomeElement.setAttribute("class", "outcome-content");

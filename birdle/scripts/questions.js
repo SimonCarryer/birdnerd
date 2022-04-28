@@ -1,5 +1,5 @@
 function PickBirdFromAudio(correct, selected) {
-    InsertQuestionText("Select the name of the bird heard in the following clip") 
+    InsertQuestionText("Select the name of the bird heard in the following clip")
 
     var sound = Shuffle(correct.sounds)[0]
     var elem = document.createElement("audio");
@@ -136,13 +136,13 @@ function EnterEnglishName(correct, selected) {
 
 function EnterNameFromPicture(correct, selected) {
     InsertQuestionText("Enter the name of the bird shown in the picture.")
-    
+
     var elem = RenderImage(correct)
     elem.setAttribute("class", "questionImage");
     const image_container = document.getElementById("question");
     image_container.appendChild(elem);
     InsertAnswerInputBox();
-    
+
     check_function = checkEnteredName;
 }
 
@@ -184,14 +184,14 @@ function checkPickedPicture() {
 
 function checkEnteredName() {
     const entered = document.getElementById("answer box").value;
-    const got_it_right = entered != null && correct.other_names.includes(entered.toLowerCase())
+    const got_it_right = entered != null && correct.other_names.includes(entered.trim().toLowerCase())
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkEnteredMaoriName() {
     const entered = document.getElementById("answer box").value;
-    const got_it_right = entered != null && correct.maori_name == entered.toLowerCase()
+    const got_it_right = entered != null && correct.maori_name == entered.trim().toLowerCase()
     reveal_answer = revealBird
     return got_it_right
 }

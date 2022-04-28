@@ -183,32 +183,43 @@ function InsertAnswerInputBox() {
 
 function checkPickedName() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    const got_it_right = answer != null && answer.value == correct.name
+    const got_it_right = answer != null && answer.value == correct.name ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkPickedMaoriName() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    const got_it_right = answer != null && answer.value == correct.maori_name
+    const got_it_right = answer != null && answer.value == correct.maori_name ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkPickedPicture() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    const got_it_right = answer != null && answer.value == correct.name
+    const got_it_right = answer != null && answer.value == correct.name ? CorrectAnswer : WrongAnswer
     reveal_answer = revealPicture
     return got_it_right
 }
 
 function checkEnteredName() {
-    const entered = document.getElementById("answer box").value;
-    if(entered == null || !all_bird_names.has(entered.trim().toLowerCase()))
-    {
-        return NotValidAnswer
+    entered = document.getElementById("answer box").value;
+    if(entered == null) {
+        return WrongAnswer
     }
-    const got_it_right = correct.other_names.includes(entered.trim().toLowerCase())
+    entered = entered.trim().toLowerCase()
+    if(!all_bird_names.has(entered)) {
+        var synonym_found = false;
+        for (const [shortForm, longForm] of Object.entries(synonyms)) {
+            if(all_bird_names.has(entered.replaceAll(shortForm, longForm))) {
+                synonym_found = true;
+            }
+        }
+        if(!synonym_found) {
+            return NotValidAnswer
+        }
+    }
+    const got_it_right = correct.other_names.includes(entered.trim().toLowerCase()) ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }
@@ -219,7 +230,7 @@ function checkEnteredMaoriName() {
     {
         return NotValidAnswer
     }
-    const got_it_right = correct.maori_name == entered.trim().toLowerCase()
+    const got_it_right = correct.maori_name == entered.trim().toLowerCase() ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }

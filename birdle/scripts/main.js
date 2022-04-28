@@ -87,9 +87,6 @@ function BuildQuestion(level, category) {
         var correct = selected[0];
         usedBirds.push(correct);
     }
-    const synonyms = {
-        'nz': 'new zealand',
-    };
     let namesToAdd = [];
     correct.other_names.forEach(name => { // If it contains NZ XXX, also add New Zealand XXX to accepted names.
         name = name.toLowerCase();
@@ -145,7 +142,7 @@ function checkAnswer() {
     outcome_container.appendChild(outcomeElement);
     outcome_container.style.visibility = 'visible';
 
-    if (got_it_right) {
+    if (got_it_right == CorrectAnswer) {
         outcome_container.setAttribute("class", "outcome correct");
         correctCount++;
     } else {

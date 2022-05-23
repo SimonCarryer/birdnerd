@@ -245,7 +245,7 @@ function revealBird(got_it_right) {
     var outcome = document.createElement("div");
     const birdName = RenderName(correct);
     const aOrAn = ('AEIOU'.includes(birdName.charAt(0).toUpperCase())) ? 'an' : 'a';
-    outcome.innerHTML = `<p>${got_it_right ? 'Correct!' : 'Incorrect.'} It was ${aOrAn} <a href="https://nzbirdsonline.org.nz/${correct.link}">${birdName}</a>.</p>`
+    outcome.innerHTML = `<p>${got_it_right == CorrectAnswer ? 'Correct!' : 'Incorrect.'} It was ${aOrAn} <a href="https://nzbirdsonline.org.nz/${correct.link}">${birdName}</a>.</p>`
 
     return outcome
 }
@@ -255,7 +255,7 @@ function revealPicture(got_it_right) {
     var outcome = document.createElement("div");
     if (answer) {
         var selected = answer.value;
-        if (got_it_right) {
+        if (got_it_right == CorrectAnswer) {
             outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.</p>`
         }
         else {

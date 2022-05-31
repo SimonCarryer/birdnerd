@@ -203,7 +203,7 @@ function checkPickedName() {
         var got_it_right = selected == correct.name
     }
     else {
-        var got_it_right = WrongAnswer
+        var got_it_right = false
     }
     reveal_answer = revealBird
     return got_it_right
@@ -216,7 +216,7 @@ function checkPickedMaoriName() {
         var got_it_right = selected == correct.maori_name
     }
     else {
-        var got_it_right = WrongAnswer
+        var got_it_right = false
     }
     reveal_answer = revealBird
     return got_it_right
@@ -229,7 +229,7 @@ function checkPickedPicture() {
         var got_it_right = selected == correct.name
     }
     else {
-        var got_it_right = WrongAnswer
+        var got_it_right = false
     }
     reveal_answer = revealPicture
     return got_it_right
@@ -242,7 +242,7 @@ function checkEnteredName() {
         var got_it_right = correct.other_names.includes(name)
     }
     else {
-        var got_it_right = WrongAnswer
+        var got_it_right = false
     }
     reveal_answer = revealBird
     return got_it_right
@@ -255,7 +255,7 @@ function checkEnteredMaoriName() {
         var got_it_right = correct.maori_name == entered.toLowerCase()
     }
     else {
-        var got_it_right = WrongAnswer
+        var got_it_right = false
     }
     reveal_answer = revealBird
     return got_it_right
@@ -269,7 +269,7 @@ function alwaysWrong() {
 
 function revealBird(got_it_right) {
     var outcome = document.createElement("div");
-    if (got_it_right == CorrectAnswer) {
+    if (got_it_right) {
         outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.`
     }
     else {
@@ -284,7 +284,7 @@ function revealPicture(got_it_right) {
     var outcome = document.createElement("div");
     if (answer) {
         var selected = answer.value;
-        if (got_it_right == CorrectAnswer) {
+        if (got_it_right) {
             outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.</p>`
         }
         else {

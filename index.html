@@ -1,10 +1,12 @@
+<!DOCTYPE html>
+<html>
 <head>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
     <link rel="stylesheet" href="styles/style.css">
+    <title>Birds!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<title>Birds!</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <body>
     <div class="content">
@@ -34,16 +36,19 @@
         </div>
         <div id="final" class="final">
         </div>
-        <div class="q_and_a">
-            <div id="question"></div>
-            <div id="answer"></div>
-            <button id="action" onclick="checkAnswer()">Next</button>
-        </div>
-        <div class="credit">All images and audio sourced from <a href="http://www.nzbirdsonline.co.nz">NZ Birds
+        <form id="answerForm" class="q_and_a" autocomplete="off" action="javascript:checkAnswer()">
+          <div id="question"></div>
+          <div id="feedback"></div>
+          <div id="answer" class="autocomplete"></div>
+          <button type="submit" id="answerButton" >Submit</button>
+          <div id="result-container" style="visibility: hidden"></div>
+        </form>
+        <div class="credit">All images and audio sourced from <a href="https://www.nzbirdsonline.org.nz/">NZ Birds
                 Online</a>. Site by <a href="https://twitter.com/simoncarryer">@simoncarryer</a>.</div>
     </div>
 
+    <script src="scripts/data.js"></script>
+    <script src="scripts/questions.js"></script>
+    <script src="scripts/main.js"></script>
 </body>
-<script src="scripts/data.js"></script>
-<script src="scripts/questions.js"></script>
-<script src="scripts/main.js"></script>
+</html>

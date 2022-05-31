@@ -80,14 +80,14 @@ function AskAQuestion() {
     selected = elements[2];
     question(correct, selected);
     if (numberOfQuestions == totalQuestions - 1) {
-        let button = document.getElementById("action");
+        let button = document.getElementById("answerButton");
         button.innerHTML = "Finish"
     }
     else if (numberOfQuestions > totalQuestions) {
         restartGame()
     }
     else {
-        let button = document.getElementById("action");
+        let button = document.getElementById("answerButton");
         button.innerHTML = "Next"
     }
 }

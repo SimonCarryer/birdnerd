@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
   <meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
   <meta content="utf-8" http-equiv="encoding" />
@@ -12,6 +14,7 @@
     content="https://nzbirdsonline.org.nz/sites/all/files/1200531Stitchbird-D700-1003-1024web.jpg" />
   <meta property="og:type" content="website" />
   <link rel="stylesheet" href="styles/style.css" />
+  <link rel="autocomplete" href="styles/autocomplete.css" />
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-HVJCRQP3Q9"></script>
   <script>
@@ -23,8 +26,8 @@
 
     gtag("config", "G-HVJCRQP3Q9");
   </script>
-</head>
 <title>Birdle</title>
+</head>
 
 <body>
   <header>
@@ -53,22 +56,24 @@
 
     <div id="outcome" class="outcome"></div>
     <div id="final" class="final"></div>
-    <div class="q_and_a">
+    <form id="answerForm" class="q_and_a" autocomplete="off" action="javascript:checkAnswer()">
       <div id="question"></div>
       <div id="feedback"></div>
-      <div id="answer"></div>
-      <button id="action" onclick="checkAnswer()">Submit</button>
+      <div id="answer" class="autocomplete"></div>
+      <button type="submit" id="answerButton" >Submit</button>
       <div id="result-container" style="visibility: hidden"></div>
-    </div>
+    </form>
     <div class="credit">
       All images and audio sourced from
       <a href="http://www.nzbirdsonline.org.nz">NZ Birds Online</a>. Site by
       <a href="https://simoncarryer.com">Simon Carryer</a>.
     </div>
   </div>
-</body>
 <script src="scripts/all_bird_names.js"></script>
 <script src="scripts/data.js"></script>
 <script src="scripts/questions.js"></script>
 <script src="scripts/stats.js"></script>
 <script src="scripts/main.js"></script>
+<script src="scripts/autocomplete.js"></script>
+</body>
+</html>

@@ -117,16 +117,17 @@ function AskAQuestion() {
     selected = elements[2];
     question(correct, selected);
 
-    const button = document.getElementById("action");
-    button.onclick = checkAnswer;
+    const button = document.getElementById("answerButton");
     button.innerText = (numberOfQuestions === totalQuestions - 1) ? "Finish" : "Submit";
+    const form = document.getElementById("answerForm");
+    form.action = "javascript:checkAnswer()";
 }
 
 function checkAnswer() {
     var got_it_right = check_function();
     if(got_it_right == NotValidAnswer)
     {
-        var enteredValue = document.getElementById("answer box").value;
+        var enteredValue = document.getElementById("answer_box").value;
         InsertFeedbackText(enteredValue + " is not a recognised species. Try again.")
         return
     }
@@ -158,9 +159,10 @@ function checkAnswer() {
         endGame()
     }
     else {
-        const nextQuestionButton = document.getElementById('action');
+        const nextQuestionButton = document.getElementById('answerButton');
         nextQuestionButton.textContent = 'Next';
-        nextQuestionButton.onclick = proceedToNextQuestion;
+        const answerForm = document.getElementById('answerForm');
+        answerForm.action = "javascript:proceedToNextQuestion()";
     }
 }
 
@@ -223,7 +225,7 @@ function endGame() {
     let finalScore = document.createElement("h2");
     finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions} `
     final.appendChild(finalScore);
-    let button = document.getElementById("action");
+    let button = document.getElementById("answerButton");
     button.remove();
 
     endGameUpdateStats(correctCount);

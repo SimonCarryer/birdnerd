@@ -48,7 +48,8 @@ function EnterNameFromAudio(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
+    input.setAttribute("autocomplete", "off");
     answers_container.appendChild(input);
     check_function = checkEnteredName
 }
@@ -156,7 +157,7 @@ function EnterMaoriName(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
 
     check_function = checkEnteredMaoriName;
@@ -171,7 +172,7 @@ function EnterEnglishName(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
 
     check_function = checkEnteredName;
@@ -189,7 +190,7 @@ function EnterNameFromPicture(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
     check_function = checkEnteredName;
 }
@@ -202,7 +203,7 @@ function checkPickedName() {
         var got_it_right = selected == correct.name
     }
     else {
-        var got_it_right = false
+        var got_it_right = WrongAnswer
     }
     reveal_answer = revealBird
     return got_it_right
@@ -215,7 +216,7 @@ function checkPickedMaoriName() {
         var got_it_right = selected == correct.maori_name
     }
     else {
-        var got_it_right = false
+        var got_it_right = WrongAnswer
     }
     reveal_answer = revealBird
     return got_it_right
@@ -228,33 +229,33 @@ function checkPickedPicture() {
         var got_it_right = selected == correct.name
     }
     else {
-        var got_it_right = false
+        var got_it_right = WrongAnswer
     }
     reveal_answer = revealPicture
     return got_it_right
 }
 
 function checkEnteredName() {
-    const entered = document.getElementById("answer box").value;
+    const entered = document.getElementById("answer_box").value;
     if (entered) {
         var name = entered.trim().toLowerCase();
         var got_it_right = correct.other_names.includes(name)
     }
     else {
-        var got_it_right = false
+        var got_it_right = WrongAnswer
     }
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkEnteredMaoriName() {
-    const entered = document.getElementById("answer box").value;
+    const entered = document.getElementById("answer_box").value;
     if (entered) {
         var name = entered.trim().toLowerCase();
         var got_it_right = correct.maori_name == entered.toLowerCase()
     }
     else {
-        var got_it_right = false
+        var got_it_right = WrongAnswer
     }
     reveal_answer = revealBird
     return got_it_right
@@ -268,7 +269,7 @@ function alwaysWrong() {
 
 function revealBird(got_it_right) {
     var outcome = document.createElement("div");
-    if (got_it_right) {
+    if (got_it_right == CorrectAnswer) {
         outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.`
     }
     else {
@@ -283,7 +284,7 @@ function revealPicture(got_it_right) {
     var outcome = document.createElement("div");
     if (answer) {
         var selected = answer.value;
-        if (got_it_right) {
+        if (got_it_right == CorrectAnswer) {
             outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.</p>`
         }
         else {

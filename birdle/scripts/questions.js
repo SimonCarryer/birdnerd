@@ -177,8 +177,10 @@ function InsertAnswerInputBox() {
     const answers_container = document.getElementById("answer");
     const input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
+    autocomplete(document.getElementById("answer_box"), Array.from(all_bird_names));
+
 }
 
 function checkPickedName() {
@@ -203,7 +205,7 @@ function checkPickedPicture() {
 }
 
 function checkEnteredName() {
-    entered = document.getElementById("answer box").value;
+    entered = document.getElementById("answer_box").value;
     if(entered == null) {
         return WrongAnswer
     }
@@ -225,7 +227,7 @@ function checkEnteredName() {
 }
 
 function checkEnteredMaoriName() {
-    const entered = document.getElementById("answer box").value;
+    const entered = document.getElementById("answer_box").value;
     if(entered == null || !all_bird_names.has(entered.trim().toLowerCase()))
     {
         return NotValidAnswer

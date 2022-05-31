@@ -1,3 +1,8 @@
+
+const CorrectAnswer = 0
+const WrongAnswer = 1
+const NotValidAnswer = 2
+
 function PickBirdFromAudio(correct, selected) {
     InsertQuestionText("Select the name of the bird heard in the following clip")
 
@@ -153,45 +158,81 @@ function InsertQuestionText(text) {
     image_container.appendChild(q)
 }
 
+function InsertFeedbackText(text){
+    ClearFeedbackText()
+    const feedback_container = document.getElementById("feedback");
+    const feedback = document.createElement("p")
+    feedback.innerHTML = text
+    feedback_container.appendChild(feedback)
+}
+
+function ClearFeedbackText(){
+    const feedback_container = document.getElementById("feedback");
+    while (feedback_container.firstChild) {
+        feedback_container.removeChild(feedback_container.firstChild);
+    }
+}
+
 function InsertAnswerInputBox() {
     const answers_container = document.getElementById("answer");
     const input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
+    autocomplete(document.getElementById("answer_box"), Array.from(all_bird_names));
+
 }
 
 function checkPickedName() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    const got_it_right = answer != null && answer.value == correct.name
+    const got_it_right = answer != null && answer.value == correct.name ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkPickedMaoriName() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    const got_it_right = answer != null && answer.value == correct.maori_name
+    const got_it_right = answer != null && answer.value == correct.maori_name ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkPickedPicture() {
     const answer = document.querySelector('input[name="answer"]:checked')
-    const got_it_right = answer != null && answer.value == correct.name
+    const got_it_right = answer != null && answer.value == correct.name ? CorrectAnswer : WrongAnswer
     reveal_answer = revealPicture
     return got_it_right
 }
 
 function checkEnteredName() {
-    const entered = document.getElementById("answer box").value;
-    const got_it_right = entered != null && correct.other_names.includes(entered.trim().toLowerCase())
+    entered = document.getElementById("answer_box").value;
+    if(entered == null) {
+        return WrongAnswer
+    }
+    entered = entered.trim().toLowerCase()
+    if(!all_bird_names.has(entered)) {
+        var synonym_found = false;
+        for (const [shortForm, longForm] of Object.entries(synonyms)) {
+            if(all_bird_names.has(entered.replaceAll(shortForm, longForm))) {
+                synonym_found = true;
+            }
+        }
+        if(!synonym_found) {
+            return NotValidAnswer
+        }
+    }
+    const got_it_right = correct.other_names.includes(entered.trim().toLowerCase()) ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkEnteredMaoriName() {
-    const entered = document.getElementById("answer box").value;
-    const got_it_right = entered != null && correct.maori_name == entered.trim().toLowerCase()
+    const entered = document.getElementById("answer_box").value;
+    if(entered == null || !all_bird_names.has(entered.trim().toLowerCase()))
+    {
+        return NotValidAnswer
+    }
+    const got_it_right = correct.maori_name == entered.trim().toLowerCase() ? CorrectAnswer : WrongAnswer
     reveal_answer = revealBird
     return got_it_right
 }
@@ -206,7 +247,7 @@ function revealBird(got_it_right) {
     var outcome = document.createElement("div");
     const birdName = RenderName(correct);
     const aOrAn = ('AEIOU'.includes(birdName.charAt(0).toUpperCase())) ? 'an' : 'a';
-    outcome.innerHTML = `<p>${got_it_right ? 'Correct!' : 'Incorrect.'} It was ${aOrAn} <a href="https://nzbirdsonline.org.nz/${correct.link}">${birdName}</a>.</p>`
+    outcome.innerHTML = `<p>${got_it_right == CorrectAnswer ? 'Correct!' : 'Incorrect.'} It was ${aOrAn} <a href="https://nzbirdsonline.org.nz/${correct.link}">${birdName}</a>.</p>`
 
     return outcome
 }
@@ -216,7 +257,7 @@ function revealPicture(got_it_right) {
     var outcome = document.createElement("div");
     if (answer) {
         var selected = answer.value;
-        if (got_it_right) {
+        if (got_it_right == CorrectAnswer) {
             outcome.innerHTML = `<p>Correct! It was a <a href="https://nzbirdsonline.org.nz/${correct.link}">${RenderName(correct)}</a>.</p>`
         }
         else {

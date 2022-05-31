@@ -48,7 +48,8 @@ function EnterNameFromAudio(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
+    input.setAttribute("autocomplete", "off");
     answers_container.appendChild(input);
     check_function = checkEnteredName
 }
@@ -156,7 +157,7 @@ function EnterMaoriName(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
 
     check_function = checkEnteredMaoriName;
@@ -171,7 +172,7 @@ function EnterEnglishName(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
 
     check_function = checkEnteredName;
@@ -189,7 +190,7 @@ function EnterNameFromPicture(correct, selected) {
     var answers_container = document.getElementById("answer");
     input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
     check_function = checkEnteredName;
 }
@@ -235,7 +236,7 @@ function checkPickedPicture() {
 }
 
 function checkEnteredName() {
-    const entered = document.getElementById("answer box").value;
+    const entered = document.getElementById("answer_box").value;
     if (entered) {
         var name = entered.trim().toLowerCase();
         var got_it_right = correct.other_names.includes(name)
@@ -248,7 +249,7 @@ function checkEnteredName() {
 }
 
 function checkEnteredMaoriName() {
-    const entered = document.getElementById("answer box").value;
+    const entered = document.getElementById("answer_box").value;
     if (entered) {
         var name = entered.trim().toLowerCase();
         var got_it_right = correct.maori_name == entered.toLowerCase()

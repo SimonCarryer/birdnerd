@@ -87,9 +87,6 @@ function BuildQuestion(level, category) {
         var correct = selected[0];
         usedBirds.push(correct);
     }
-    const synonyms = {
-        'nz': 'new zealand',
-    };
     let namesToAdd = [];
     correct.other_names.forEach(name => { // If it contains NZ XXX, also add New Zealand XXX to accepted names.
         name = name.toLowerCase();
@@ -120,14 +117,24 @@ function AskAQuestion() {
     selected = elements[2];
     question(correct, selected);
 
-    const button = document.getElementById("action");
-    button.onclick = checkAnswer;
+    const button = document.getElementById("answerButton");
     button.innerText = (numberOfQuestions === totalQuestions - 1) ? "Finish" : "Submit";
+    const form = document.getElementById("answerForm");
+    form.action = "javascript:checkAnswer()";
 }
 
 function checkAnswer() {
     var got_it_right = check_function();
-
+    if(got_it_right == NotValidAnswer)
+    {
+        var enteredValue = document.getElementById("answer_box").value;
+        InsertFeedbackText(enteredValue + " is not a recognised species. Try again.")
+        return
+    }
+    else
+    {
+        ClearFeedbackText()
+    }
     // Show the results box
     var outcomeElement = reveal_answer(got_it_right);
     outcomeElement.setAttribute("class", "outcome-content");
@@ -136,7 +143,7 @@ function checkAnswer() {
     outcome_container.appendChild(outcomeElement);
     outcome_container.style.visibility = 'visible';
 
-    if (got_it_right) {
+    if (got_it_right == CorrectAnswer) {
         outcome_container.setAttribute("class", "outcome correct");
         correctCount++;
     } else {
@@ -152,9 +159,10 @@ function checkAnswer() {
         endGame()
     }
     else {
-        const nextQuestionButton = document.getElementById('action');
+        const nextQuestionButton = document.getElementById('answerButton');
         nextQuestionButton.textContent = 'Next';
-        nextQuestionButton.onclick = proceedToNextQuestion;
+        const answerForm = document.getElementById('answerForm');
+        answerForm.action = "javascript:proceedToNextQuestion()";
     }
 }
 
@@ -217,7 +225,7 @@ function endGame() {
     let finalScore = document.createElement("h2");
     finalScore.innerHTML = `Your score: ${correctCount} out of ${totalQuestions} `
     final.appendChild(finalScore);
-    let button = document.getElementById("action");
+    let button = document.getElementById("answerButton");
     button.remove();
 
     endGameUpdateStats(correctCount);

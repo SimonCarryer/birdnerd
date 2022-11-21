@@ -1,16 +1,28 @@
 <head>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
+    <link rel="stylesheet" href="birdle/styles/style.css">
     <link rel="stylesheet" href="styles/style.css">
 </head>
-<title>Birds!</title>
+<title>Bird Nerd</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <body>
+    <header>
+        <div class="header-left">
+            <div class="title">
+            <h2 id="title"></h2>
+            </div>
+        </div>
+        <div id="header-title">Bird Nerd</div>
+        <div class="header-right">
+
+        </div>
+    </header>
     <div class="content">
         <div class="controls">
             <select name="categories" id="categories">
-                <option selected disabled value="Forest (native or plantation)">Choose a category</option>
+                <option selected disabled value="Forest (native or plantation)">Choose a bird category</option>
                 <option value="Forest (native or plantation)">Forest (native or plantation)</option>
                 <option value="At sea (or dead on a beach)">At sea</option>
                 <option value="Coastal">Coastal</option>
@@ -20,14 +32,16 @@
                 <option value="Farmland or horticultural block">Farmland or horticultural block</option>
                 <option value="Mountain">Mountain</option>
                 <option value="Chatham Islands (not at sea)">Chatham Islands</option>
+                <option value="Zealandia">Zealandia</option>
             </select>
             <select name="levels" id="levels">
-                <option selected disabled value="Egg">Choose a level</option>
-                <option value="Egg">Egg</option>
-                <option value="Fledgeling">Fledgeling</option>
-                <option value="Flapper">Flapper</option>
-                <option value="Bird brain">Bird brain</option>
-                <option value="True bird nerd">True bird nerd</option>
+                <option selected disabled value="Visual identification">Choose a challenge type</option>
+                <option value="Visual identification">Visual identification</option>
+                <option value="Call recognition">Call recognition</option>
+                <option value="Name translation">Name translation</option>
+                <option value="Visual identification (hard)">Visual identification (hard)</option>
+                <option value="Call recognition (hard)">Call recognition (hard)</option>
+                <option value="Name translation (hard)">Name translation (hard)</option>
             </select>
         </div>
         <div id="outcome" class="outcome">
@@ -39,11 +53,15 @@
             <div id="answer"></div>
             <button id="action" onclick="checkAnswer()">Next</button>
         </div>
-        <div class="credit">All images and audio sourced from <a href="http://www.nzbirdsonline.co.nz">NZ Birds
-                Online</a>. Site by <a href="https://twitter.com/simoncarryer">@simoncarryer</a>.</div>
+        <div class="credit">
+            All images and audio sourced from
+            <a href="http://www.nzbirdsonline.org.nz">NZ Birds Online</a>. Site by
+            <a href="https://simoncarryer.com">Simon Carryer</a>.
+          </div>
     </div>
 
 </body>
-<script src="scripts/data.js"></script>
+<script src="birdle/scripts/data.js"></script>
+<script src="scripts/zealandia.js"></script>
 <script src="scripts/questions.js"></script>
 <script src="scripts/main.js"></script>

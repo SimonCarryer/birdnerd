@@ -1,22 +1,14 @@
 
 levels = {
-    "Egg": [PickBirdFromPicture, PickPictureFromBird],
-    "Fledgeling": [EnterNameFromPicture, PickBirdFromPicture, PickPictureFromBird, PickOtherLanguageName],
-    "Flapper": [PickBirdFromAudio, EnterNameFromPicture, PickPictureFromBird, PickOtherLanguageName],
-    "Bird brain": [EnterNameFromAudio, PickBirdFromAudio, EnterNameFromPicture, EnterOtherLanguageName],
-    "True bird nerd": [EnterNameFromAudio, EnterNameFromPicture, EnterOtherLanguageName]
+    "Visual identification": [PickBirdFromPicture, PickPictureFromBird],
+    "Call recognition": [PickBirdFromAudio],
+    "Visual identification (hard)": [EnterNameFromPicture],
+    "Call recognition (hard)": [EnterNameFromAudio],
+    "Name translation": [PickOtherLanguageName],
+    "Name translation (hard)": [EnterOtherLanguageName]
 }
 
-function mulberry32(a) {
-    return function () {
-        var t = a += 0x6D2B79F5;
-        t = Math.imul(t ^ t >>> 15, t | 1);
-        t ^= t + Math.imul(t ^ t >>> 7, t | 61);
-        return ((t ^ t >>> 14) >>> 0) / 4294967296;
-    }
-}
-
-rand = mulberry32(0)
+rand = Math.random
 
 // Shuffle array
 function Shuffle(array) {
@@ -83,7 +75,7 @@ function AskAQuestion() {
         let button = document.getElementById("action");
         button.innerHTML = "Finish"
     }
-    else if (numberOfQuestions > totalQuestions) {
+    else if (numberOfQuestions >= totalQuestions) {
         restartGame()
     }
     else {
@@ -156,7 +148,8 @@ function endGame() {
     final.appendChild(imageBox);
     final.appendChild(cats);
     let button = document.getElementById("action");
-    button.innerHTML = "Try again"
+    button.innerHTML = "Try again";
+    button.setAttribute("onclick", "restartGame()");
 }
 
 

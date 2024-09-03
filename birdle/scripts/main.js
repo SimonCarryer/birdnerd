@@ -43,14 +43,10 @@ function RenderName(bird) {
 function RenderImage(bird) {
     var image = Shuffle(bird.images)[0]
     var elem = document.createElement("img");
-    elem.setAttribute("src", image.href);
+    elem.setAttribute("src", `https://www.nzbirdsonline.org.nz${image.href}`);
     elem.setAttribute("alt", image.alt);
     var img = document.createElement("div")
     img.appendChild(elem)
-    var credit = document.createElement("div");
-    credit.setAttribute("class", "imageCredit");
-    credit.innerHTML = `©${image.copyright}`;
-    img.appendChild(credit);
     return img
 }
 

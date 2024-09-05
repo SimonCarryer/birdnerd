@@ -3,7 +3,7 @@ function PickBirdFromAudio(correct, selected) {
 
     var sound = Shuffle(correct.sounds)[0]
     var elem = document.createElement("audio");
-    elem.setAttribute("src", sound);
+    elem.setAttribute("src", `https://www.nzbirdsonline.org.nz/${sound}`);
     elem.setAttribute("controls", "");
     var image_container = document.getElementById("question");
     image_container.appendChild(elem);
@@ -24,7 +24,7 @@ function EnterNameFromAudio(correct, selected) {
 
     var sound = Shuffle(correct.sounds)[0]
     var elem = document.createElement("audio");
-    elem.setAttribute("src", sound);
+    elem.setAttribute("src", `https://www.nzbirdsonline.org.nz/${sound}`);
     elem.setAttribute("controls", "");
     var image_container = document.getElementById("question");
     image_container.appendChild(elem);

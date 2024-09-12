@@ -1,3 +1,7 @@
+const synonyms = {
+    'nz': 'new zealand',
+};
+
 data = [
     {
         "link": "/species/north-island-brown-kiwi",

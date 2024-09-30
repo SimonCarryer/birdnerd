@@ -123,6 +123,7 @@ function EnterOtherLanguageName(correct, selected) {
 function EnterMaoriName(correct, selected) {
     InsertQuestionText(`Enter the Māori name for a ${correct.name}.`)
     InsertAnswerInputBox();
+    InsertMacronKeys();
 
     check_function = checkEnteredMaoriName;
 }
@@ -157,8 +158,28 @@ function InsertAnswerInputBox() {
     const answers_container = document.getElementById("answer");
     const input = document.createElement("input")
     input.setAttribute("type", "text");
-    input.setAttribute("id", "answer box");
+    input.setAttribute("id", "answer_box");
     answers_container.appendChild(input);
+}
+
+function InsertMacronKeys() {
+    const answers_container = document.getElementById("answer");
+    const input = document.getElementById("answer_box")
+    const macron_div = document.createElement("div")
+    macron_div.style.width = "100%";
+    macron_div.style.textAlign = "center";
+    answers_container.appendChild(macron_div)
+    macrons = [ "ā", "ē", "ī", "ō", "ū"];
+    macrons.forEach(macron => {
+        const macron_button = document.createElement("button");
+        macron_button.value = macron;
+        macron_button.innerHTML = macron;
+        macron_button.addEventListener("click", () => input.value += macron);
+        macron_button.style.width = "50px";
+        macron_button.style.display = "inline";
+        macron_button.style.margin = "0 10px";
+        macron_div.appendChild(macron_button);
+    });
 }
 
 function checkPickedName() {
@@ -183,14 +204,14 @@ function checkPickedPicture() {
 }
 
 function checkEnteredName() {
-    const entered = document.getElementById("answer box").value;
+    const entered = document.getElementById("answer_box").value;
     const got_it_right = entered != null && correct.other_names.includes(entered.trim().toLowerCase())
     reveal_answer = revealBird
     return got_it_right
 }
 
 function checkEnteredMaoriName() {
-    const entered = document.getElementById("answer box").value;
+    const entered = document.getElementById("answer_box").value;
     const got_it_right = entered != null && correct.maori_name == entered.trim().toLowerCase()
     reveal_answer = revealBird
     return got_it_right
